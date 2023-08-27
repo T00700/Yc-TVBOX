@@ -12,11 +12,11 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        "Cookie":"$bili_cookie"
+        "Cookie":"buvid3=59AF18BD-647C-6E97-7149-DEE775DFD62D85450infoc; b_nut=1670382885; i-wanna-go-back=-1; _uuid=EB1026AF4-9B6C-44A4-74105-EB42276B7A7185706infoc; buvid4=32760524-7796-2E56-2C11-85FC68D7EFA889058-022120711-csQmflR1YMnzhLBCTNvo7A%3D%3D; fingerprint=019b658c47c51d3f5126b1f298c310b7; buvid_fp_plain=undefined; buvid_fp=a718fe713dab9b392521ba0ec19c50f2; b_ut=5; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; home_feed_column=4; DedeUserID=40836986; DedeUserID__ckMd5=6a2a8e23f8042d4a; bp_video_offset_40836986=822855127897473048; innersign=0; b_lsid=3DDB4B5B_189E26C60C6; bsource=search_360; browser_resolution=1318-624; SESSDATA=d811bcfa%2C1707272909%2C46d7f%2A82yQ-tlZ9ukV7pIdh5tfSESi4NM50xJj9MCzR6AyjuGzwD62Xyc7Fljuqy6ft4rK9Iymc2RgAAVgA; bili_jct=22326e9fa3cbfccaa59f8da84d7d1b8d; sid=p7cw9f8t"
     },
-    timeout:5000,
-    class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
-    class_url:'1&4&2&5&3&7&全部&追番&追剧&时间表',
+    timeout:3000,
+    class_name:'国创&番剧&纪录片&电视剧&电影&综艺&全部&追番&追剧&时间表',
+    class_url:'4&1&3&5&2&7&全部&追番&追剧&时间表',
     filter:{"全部":[{"key":"tid","name":"分类","value":[{"n":"番剧","v":"1"},{"n":"国创","v":"4"},{"n":"电影","v":"2"},{"n":"电视剧","v":"5"},{"n":"记录片","v":"3"},{"n":"综艺","v":"7"}]},{"key":"order","name":"排序","value":[{"n":"播放数量","v":"2"},{"n":"更新时间","v":"0"},{"n":"最高评分","v":"4"},{"n":"弹幕数量","v":"1"},{"n":"追看人数","v":"3"},{"n":"开播时间","v":"5"},{"n":"上映时间","v":"6"}]},{"key":"season_status","name":"付费","value":[{"n":"全部","v":"-1"},{"n":"免费","v":"1"},{"n":"付费","v":"2%2C6"},{"n":"大会员","v":"4%2C6"}]}],"时间表":[{"key":"tid","name":"分类","value":[{"n":"番剧","v":"1"},{"n":"国创","v":"4"}]}]},
     play_parse:true,
     // play_json:[{re:'*', json:{jx:1, parse:0,header:JSON.stringify({"user-agent":"PC_UA"})}}],
