@@ -12,7 +12,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        "Cookie":"$buvid3=59AF18BD-647C-6E97-7149-DEE775DFD62D85450infoc; b_nut=1670382885; i-wanna-go-back=-1; _uuid=EB1026AF4-9B6C-44A4-74105-EB42276B7A7185706infoc; buvid4=32760524-7796-2E56-2C11-85FC68D7EFA889058-022120711-csQmflR1YMnzhLBCTNvo7A%3D%3D; fingerprint=019b658c47c51d3f5126b1f298c310b7; buvid_fp_plain=undefined; buvid_fp=a718fe713dab9b392521ba0ec19c50f2; b_ut=5; FEED_LIVE_VERSION=V8; header_theme_version=CLOSE; home_feed_column=4; DedeUserID=40836986; DedeUserID__ckMd5=6a2a8e23f8042d4a; bp_video_offset_40836986=822855127897473048; innersign=0; b_lsid=3DDB4B5B_189E26C60C6; bsource=search_360; browser_resolution=1318-624; SESSDATA=d811bcfa%2C1707272909%2C46d7f%2A82yQ-tlZ9ukV7pIdh5tfSESi4NM50xJj9MCzR6AyjuGzwD62Xyc7Fljuqy6ft4rK9Iymc2RgAAVgA; bili_jct=22326e9fa3cbfccaa59f8da84d7d1b8d; sid=p7cw9f8t"
+        "Cookie":"buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"
     },
     timeout:3000,
     class_name:'国创&番剧&纪录片&电视剧&电影&综艺&全部&追番&追剧&时间表',
