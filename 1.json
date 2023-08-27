@@ -18,7 +18,7 @@
 //{"key":"js_00000000","name":"🐭┃荐片┃2K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 
 
-{"key":"T4_00000000","name":"👽┃玩玩┃4K（手机安装阿里云盘app扫码使用）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"}
+{"key":"T4_00000000","name":"👽┃玩玩┃4K（手机安装阿里云盘app扫码使用）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"},
 {"key":"XYQH_000001","name":"👽┃偶偶┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ0827.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"},
 {"key":"csp_0000001","name":"📀┃纸条┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"./jar/XYQ0827.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"},
 
@@ -27,11 +27,11 @@
 {"key":"XYQH_000003","name":"🧲┃六六┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0827.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"},
 
 {"key":"csp_0000002","name":"🧲┃新6V┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
-{"key":"csp_0000003","name":"🧲┃迅雷┃2K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0827.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"},},
+{"key":"csp_0000003","name":"🧲┃迅雷┃2K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0827.jar;md5;24c0c47c8de22f3fa524f2a01b82d5d6"},
 {"key":"js_00000001","name":"🧲┃世界┃2K（手机安装阿里云盘app扫码使用）","type":3,"searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 
 {"key":"T4_00000001","name":"🐭┃荐片┃2K","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
-{"key":"js_00000002","name":"┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/哔哩影视.js"}
+{"key":"js_00000002","name":"┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/哔哩影视.js"},
 
 {"key":"csp_0000004","name":"♻️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
 {"key":"csp_0000005","name":"♻️┃新浪┃云播","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["大陆剧","动作片","动漫","综艺"]},
@@ -162,9 +162,7 @@
 {"key":"csp_9999997","name":"搜索┃盘搜4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_9999996","name":"搜索┃易搜4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"},
 {"key":"csp_9999995","name":"搜索┃Up搜4K","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"},
-{"key":"push__agent","name":"推送┃手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"}
-
-],
+{"key":"push__agent","name":"推送┃手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"}],
 
 "parses":[
 {"name":"Json轮询","type":2,"url":"Sequence"},
@@ -237,7 +235,8 @@
 {"name":"lz","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]},
 {"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
