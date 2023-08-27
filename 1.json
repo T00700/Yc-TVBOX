@@ -76,7 +76,7 @@
 {"key":"drpy_js_1005","name":"官方┃搜狗视频","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/菜狗.js"},
 {"key":"drpy_js_1013","name":"体育┃看直播","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/JRS看直播.js"},
 {"key":"drpy_js_1014","name":"体育┃看录播","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/JRS看球网.js"},
-{"key":"csp_99999999","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_99999999","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./token.txt+4k|auto|fhd"}],
 
 
 
@@ -95,7 +95,6 @@
 //{"key":"cs_00000999","name":"官方┃爱奇艺视频","type":3,"api":"csp_I//Q//I//Y//I","quickSearch":1,"searchable":1,"filterable":1,"playerType":2},
 
   
-{"key":"push__agent","name":"推送┃手机","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"playerType":2,"ext":"http://ali.饭太硬.ml/alitoken"}],
 
 "parses":[
 {"name":"Json轮询","type":2,"url":"Sequence"},
