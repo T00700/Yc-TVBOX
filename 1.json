@@ -41,6 +41,17 @@
 {"key":"csp_0000013","name":"🌟┃利播┃直连","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.libvio.fun/"},
 {"key":"csp_0000014","name":"👒┃七七┃直连","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 
+{"key":"XYQH_000010","name":"🐜┃Mayi┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/MayiTube.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQH_000004","name":"🙄┃奇趣┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/奇趣影视.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQH_000005","name":"🐢┃达龟┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/达达龟.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+
+{"key":"XYQH_000009","name":"👶┃子子┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQH_000007","name":"🛫┃VOFL┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/voflixHD.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQH_000008","name":"✈️┃影渣┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/影渣渣影视.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+
+{"key":"XYQ_0000001","name":"🛵┃TVB┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/TVB云播.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQ_0000000","name":"🐱┃花猫┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/花猫TV.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"XYQ_0000002","name":"⏰┃七时┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/七小时影院.json","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
 
 
   
