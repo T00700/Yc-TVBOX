@@ -1,6 +1,6 @@
-{"spider":"./jar/fty0829.jar;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
+{"spider":"https://ghproxy.com/raw.githubusercontent.com/Yang20150427/Yc/main/jar/fan0829.jar;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
-"lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"js_99999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：08/29😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
