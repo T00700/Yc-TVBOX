@@ -1,6 +1,6 @@
-{"spider":"https://pan.shangui.cc/f/PqaptK/fan0829.jar;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
-"wallpaper":"https://饭.eu.org/深色壁纸/api.php",
-"lives": [{"name": "live","type": 0,"url": "https://gitee.com/yxy20150427/yc/raw/master/3.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
+{"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7",
+"wallpaper":"http://饭太硬.top/深色壁纸/api.php",
+
 "sites":[
 {"key":"js_99999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：08/29😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
