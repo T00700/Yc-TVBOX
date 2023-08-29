@@ -11,7 +11,7 @@
 
 {"key":"T4_00000000","name":"🎅┃偶偶┃4K（手机安装阿里云盘app扫码使用）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"58c2c2aca59440eb866375c3a8a31f10"},
 {"key":"csp_0000000","name":"🎅┃玩玩┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
-{"key":"csp_0000001","name":"📜┃纸条┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./token.txt","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"},
+{"key":"csp_0000001","name":"📜┃纸条┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./token.txt","jar":"https://pan.shangui.cc/f/p2yMtL/XYQ0829.jar;md5;0d46d7d1c01cd19b374a3280c8864596"}
  
 
 "parses":[
