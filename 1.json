@@ -1,7 +1,7 @@
 {
 "spider":"https://pan.shangui.cc/f/n2NEF2/fan0905.jar;md5;f20b74480c058b1ff6236601f92d65a8",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
-"lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"js_99999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/06😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_6000000","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","playerType":2,"ext":"http://xhww.fun:63/小米/源/直播.json"},
