@@ -19,8 +19,7 @@
 //{"key":"T4_00000002","name":"📃┃纸条┃4K","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./token.txt","timeout":30},
 
 //csp_0000030、XYQH_000010、XBPQ_000009、XYQ_0000002、js_00000003、T4_00000002
-
-{"key":"T4_00000003","name":"🎅┃1212┃4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1"filterable":1,"playerType":"2","ext":"./token.txt"},
+{"key":"T4_00000003","name":"🎅┃1231┃4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"8e878dff201649e3827569cf7d84364e"},
 
 {"key":"csp_0000000","name":"🎅┃玩玩┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$https://wogg.xyz/"},
 {"key":"XYQH_000000","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
