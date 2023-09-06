@@ -16,6 +16,7 @@
 
 //{"key":"js_00000002","name":"🐭┃荐片┃2K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 //{"key":"XYQH_000000","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
+//{"key":"csp_0000001","name":"📃┃条条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./token.txt","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 
 //csp_0000030、XYQH_000010、XBPQ_000009、XYQ_0000002、js_00000004、T4_00000003
 
@@ -26,10 +27,10 @@
 {"key":"js_00000001","name":"🥮┃南瓜┃2K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/南瓜.js"},
 
 {"key":"csp_0000000","name":"🤶┃偶偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$https://wogg.xyz/"},
-{"key":"csp_0000001","name":"📃┃条条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./token.txt","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
-
-{"key":"csp_0000002","name":"💫┃新6V┃4K","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
 {"key":"XYQH_000002","name":"⚓┃港口┃4k","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/电影港.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
+ 
+{"key":"csp_0000002","name":"💫┃新6V┃4K","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
+{"key":"XYQH_000003","name":"🕠┃旧6V┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 
 {"key":"csp_0000029","name":"💣┃影探┃4K","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"vip.lyyytv.cn"},
 {"key":"csp_0000030","name":"💡┃率率┃2K","type":3,"api":"csp_AppYsV2","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://s.ether-mine.com/api.php/app/"},
@@ -38,9 +39,6 @@
 
 {"key":"XYQH_000006","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 {"key":"XBPQ_000000","name":"🐖┃哭猪┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/乐猪.json"},
-
-{"key":"csp_9999993","name":"😾┃七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_9999994","name":"🐺┃资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
 {"key":"csp_0000016","name":"🏭┃厂长┃超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"csp_0000027","name":"🚖┃哔嘀┃超清","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
@@ -51,9 +49,11 @@
 {"key":"csp_0000010","name":"🌞┃泰泰┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"csp_0000011","name":"🍄┃蘑菇┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://guan.yy365.vip/api.php/app/"},
 
-
 {"key":"csp_0000004","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
 {"key":"csp_0000005","name":"☁️┃新浪┃云播","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["大陆剧","动作片","动漫","综艺"]},
+
+{"key":"csp_9999993","name":"😾┃七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_9999994","name":"🐺┃资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
 {"key":"csp_0000014","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"csp_0000026","name":"👀┃快看┃直连","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
@@ -113,7 +113,6 @@
 {"key":"csp_9999998","name":"🙀┃盘Se┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
 
 {"key":"XYQH_000001","name":"🅰️┃阿里┃4K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
-{"key":"XYQH_000003","name":"🕠┃旧6V┃4K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 
 {"key":"js_00000004","name":"🌎┃世界┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"csp_0000003","name":"🌩️┃迅雷┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
