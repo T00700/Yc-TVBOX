@@ -20,7 +20,7 @@
 
 //csp_0000030、XYQH_000010、XBPQ_000010、XYQ_0000002、js_00000016、T4_00000003
 
-{"key":"csp_0000000","name":"🎅┃玩玩┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$https://wogg.xyz/"},
+{"key":"csp_0000000","name":"🎅┃玩玩┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt$$$https://wogg.xyz/"},
 {"key":"csp_0000001","name":"📜┃纸纸┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./token.txt","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 
 {"key":"T4_00000001","name":"🤶┃偶偶┃4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"8e878dff201649e3827569cf7d84364e"},
