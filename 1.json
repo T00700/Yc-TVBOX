@@ -33,7 +33,7 @@
 {"key":"js_00000003","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
 
 {"key":"js_00000009","name":"🌬️┃零度┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/零度影视.js"},
-{"key":"js_00000010","name":"🥔┃大豆┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/大豆.js"},
+{"key":"js_00000010","name":"🥔┃大豆┃超清","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
 
 {"key":"js_00000005","name":"🍒┃两个┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/两个BT.js"},
 {"key":"js_00000016","name":"⚛️┃四个┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/四个圈影视.js"},
