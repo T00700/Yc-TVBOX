@@ -3,7 +3,7 @@
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"js_99999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/06😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js_99999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/07😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_6000000","name":"电视直播","type":3,"api":"http://我不是.肥猫.love:63/JS/直播转点播2.js","playerType":2,"ext":"http://xhww.fun:63/小米/源/直播.json"},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_3000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
@@ -70,7 +70,7 @@
 
 {"key":"XBPQ_000006","name":"👨‍🔧┃大子┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 {"key":"XYQH_000009","name":"👨‍🦲┃二子┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
-{"key":"js_00000011","name":"👶┃三子┃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/子子影视.js"},
+{"key":"js_00000011","name":"👶┃三子┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/子子影视.js"},
 
 {"key":"XYQH_000005","name":"🐢┃大龟┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/达达龟.json","jar":"https://pan.shangui.cc/f/DzRoIz/XYQ0905.jar;md5;d4a66c0f42281a803c8bc048240789cd"},
 {"key":"XBPQ_000004","name":"🦎┃二龟┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/龟龟.json"},
