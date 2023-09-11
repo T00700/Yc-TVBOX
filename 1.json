@@ -38,7 +38,32 @@
  
 {"key":"csp_0000029","name":"💣┃影探┃4K","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"vip.lyyytv.cn"},
  
+ {"key":"js_00000006","name":"🍒┃1┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/LIBVIO.js"},
+{"key":"js_00000007","name":"🍒┃2┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/subai.js"},
+{"key":"js_00000008","name":"🍒┃3┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/77.js"},
 
+{"key": "69mj","name": "APP丨美剧","type": 3,"api": "./js/AppYsV2.js","ext": "https://www.69mj.com/xgapp.php/v2/" },
+{"key": "aidi","name": "APP丨爱迪","type": 3,"api": "./js/AppYsV2.js","ext": "https://api123.adys.app/xgapp.php/v3/"},
+{"key": "yaya","name": "APP丨鸭鸭","type": 3,"api": "./js/AppYsV2.js","ext": "https://yayayaaapp.ynf.icu/api.php/app/" },
+{"key": "kuku","name": "APP丨酷酷","type": 3,"api": "./js/AppYsV2.js","ext": "http://cms.realdou.cn:35264/api.php/app/"},
+{"key": "beijihu","name": "APP丨极狐","type": 3,"api": "./js/AppYsV2.js","ext": "https://www.kuin.one/api.php/app/"},
+{"key": "kuk","name": "APP丨天堂","type": 3,"api": "./js/AppYsV2.js","ext": "http://dytt996.com/api.php/app/"},    
+{"key": "kku","name": "APP丨酷影","type": 3,"api": "./js/AppYsV2.js","ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key": "kuu","name": "APP丨酷客","type": 3,"api": "./js/AppYsV2.js","ext": "https://www.kuin.one/api.php/app/"},  
+{"key": "kkku","name": "APP丨琦琦","type": 3,"api": "./js/AppYsV2.js","ext": "http://mp4.ghlyys.com/api.php/app/"},    
+{"key": "ruidou","name": "APP丨锐豆","type": 3,"api": "./js/AppYsV2.js","ext": "http://ys.realdou.cn:2683/api.php/app/"},      
+{"key": "mayi","name": "APP丨蚂蚁","type": 3,"api": "./js/AppYsV2.js","ext": "http://wushutvcms.byzz.top/api.php/app/"},   
+{"key": "sukan","name": "APP丨速看","type": 3,"api": "./js/AppYsV2.js","ext": "https://sk100.tv/api.php/app/"},  
+{"key": "midi","name": "APP丨明帝","type": 3,"api": "./js/AppYsV2.js","ext": "https://ys.md214.cn/api.php/app/"}, 
+{"key": "dadou","name": "APP丨大豆","type": 3,"api": "./js/AppYsV2.js","ext": "http://www.dadou.cm/api.php/app/"},      
+{"key": "qtw","name": "APP丨彩虹","type": 3,"api": "./js/AppYsV2.js","ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod"},               
+{"key": "hello","name": "APP丨哈喽","type": 3,"api": "./js/AppYsV2.js","ext": "http://www.miniku.cc/xgapp.php/v1/"},
+{"key": "1080dyw","name": "APP丨1080","type": 3,"api": "./js/AppYsV2.js","ext": "https://www.1080dyw.cc/api.php/v1.vod"},
+{"key": "shijie","name": "APP丨视界","type": 3,"api": "./js/AppYsV2.js","ext": "http://www.1080dyw.cc/api.php/v1.vod"}, 
+{"key": "miniku","name": "APP丨迷你","type": 3,"api": "./js/AppYsV2.js","ext": "http://www.miniku.cc/xgapp.php/v1/"},
+{"key": "天天视频","name": "APP丨天天","type": 3,"api": "./js/AppYsV2.js","ext": "https://ttsp.live/api.php/app/"},
+{"key": "玉米","name": "APP丨玉米","type": 3,"api": "./js/AppYsV2.js","ext": "http://caiji.ghlyys.com/yumi/api.php/app/"}, 
+ 
 {"key":"csp_0000010","name":"🌞┃泰泰┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"js_00000003","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
  
