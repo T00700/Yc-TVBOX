@@ -35,17 +35,7 @@
 
 {"key":"csp_0000013","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.libvio.fun/"},
 {"key":"csp_0000015","name":"⏮️┃低端┃超清","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
- 
-{"key":"csp_0000029","name":"💣┃影探┃4K","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"vip.lyyytv.cn"},
- 
- {"key":"js_000000100","name":"🍒┃1┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/LIBVIO.js"},
-{"key":"js_000000101","name":"🍒┃2┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/subai.js"},
-{"key":"js_000000102","name":"🍒┃3┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/77.js"},
-
- {"key":"csp_00011110","name":"🌞┃4┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-{"key":"csp_0000012121","name":"🌞┃5┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://ys.md214.cn/api.php/app/"},
-
- 
+  
 {"key":"csp_0000010","name":"🌞┃泰泰┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"js_00000003","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
  
@@ -82,7 +72,7 @@
 {"key":"js_00000010","name":"🥔┃大豆┃超清","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","playerType":2,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/大豆.js"},
 
 {"key":"js_00000016","name":"⚛️┃四个┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/四个圈影视.js"},
- {"key":"XYQ_0000002","name":"⏰┃七时┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/七小时影院.json","jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"XYQ_0000002","name":"⏰┃七时┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/七小时影院.json","jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"XYQH_000005","name":"🐢┃大龟┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/达达龟.json","jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"XBPQ_000004","name":"🦎┃二龟┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/龟龟.json"},
@@ -132,7 +122,9 @@
 {"key":"js_00000007","name":"⛰️┃北川┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/北川影视.js"},
 {"key":"js_00000008","name":"🔦┃139┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/139影视.js"},
 
-
+{"key":"XYQH_000001","name":"🅰️┃阿里┃4K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"js_00000004","name":"🌎┃世界┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
+{"key":"csp_0000003","name":"🌩️┃迅雷┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 
 
@@ -157,10 +149,6 @@
 {"key":"csp_9999996","name":"🦊┃盘搜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"csp_9999997","name":"😻┃Up搜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"csp_9999998","name":"🙀┃盘Se┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
-{"key":"XYQH_000001","name":"🅰️┃阿里┃4K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
-{"key":"js_00000004","name":"🌎┃世界┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
-{"key":"csp_0000003","name":"🌩️┃迅雷┃2K（手机安装阿里云盘app扫码观看）","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"https://pan.shangui.cc/f/d6X6Fo/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
-
 
 
 
