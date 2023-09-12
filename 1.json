@@ -15,7 +15,6 @@
 //{"key":"drpy_100002","name":"蜻蜓广播","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./哔哩哔哩/蜻蜓FM.js"},
 
 //{"key":"XYQH_000000","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
-//{"key":"T4_00000002","name":"📃┃条条┃4K","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"0ca3020ea7bf4485b78e794de6723e09","timeout":30},
 //{"key":"js_00000002","name":"🐭┃荐片┃2K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"http://alist.xn--z7x900a.love:63/荐片.js"},
  
 //csp_0000031、XYQH_000010、XBPQ_000010、XYQ_0000002、js_00000016、T4_00000003
