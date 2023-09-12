@@ -84,7 +84,8 @@
 {"key":"XBP_大子","name":"👨‍🔧┃大子┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 
 {"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
-
+{"key":"XBP_冷曦","name":"🤒┃冷曦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/冷曦影视.json"},
+  
 {"key":"csp_天空","name":"☁️┃天空┃云播","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 {"key":"csp_影图","name":"☁️┃影图┃云播","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2},
 
