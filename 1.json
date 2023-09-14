@@ -1,9 +1,9 @@
 {
-"spider":"./jar/fan0911.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+"spider":"./jar/fan0915.jar;md5;25bb6cc4f338fc20df9e5121b5bd1a25",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"js0_9999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/14😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js0_9999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/15😃","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
@@ -16,26 +16,20 @@
 //{"key":"js0_9999997","name":"喜马拉雅","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./哔哩哔哩/喜马拉雅.js"},
 //{"key":"XYQ_玩偶","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
-{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd$$$http://wogg.888484.xyz:88/"},
+{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.json+4k|auto|fhd"},
 {"key":"T40_玩偶","name":"🤶┃玩偶┃(备用)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"0ca3020ea7bf4485b78e794de6723e09"},
 
-{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
-{"key":"T40_纸条","name":"📜┃纸条┃4K(备用)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"0ca3020ea7bf4485b78e794de6723e09","timeout":30},
+{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"http://127.0.0.1:9978/file/tvfan/token.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"T40_纸条","name":"📜┃纸条┃4K(备用)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"0ca3020ea7bf4485b78e794de6723e09","timeout":30},
 
-{"key":"csp_荐片","name":"🐭┃荐片┃2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
-{"key":"js0_荐片","name":"🐭┃荐片┃2K(备一)","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"js0_荐片","name":"🐭┃荐片┃2K","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/荐片.js"},
+{"key":"csp_荐片","name":"🐭┃荐片┃2K(备一)","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"js0_世界","name":"🌎┃世界┃2K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"T40_荐片","name":"🐭┃荐片┃2K(备二)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","timeout":30},
 
 //{"key":"XYQ_乐猪","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 //{"key":"XBP_乐猪","name":"🐷┃乐猪┃超清(备用)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/乐猪.json"},
-
-{"key":"js0_南瓜","name":"💫┃新6V┃4K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js","timeout":30},
-{"key":"csp_新6V","name":"💫┃新6V┃4K(备用)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
-
-{"key":"js0_港口","name":"⚓┃港口┃4k","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"./js/电影港.js","timeout":30},
-{"key":"XYQ_港口","name":"⚓┃港口┃4k(备用)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/电影港.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"js0_南瓜","name":"🥮┃南瓜┃2K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/南瓜.js"},
 {"key":"js0_磁熊","name":"🐻┃磁熊┃2K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./js/磁力熊.js"},
@@ -66,6 +60,12 @@
 
 {"key":"js0_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"csp_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
+
+{"key":"js0_南瓜","name":"💫┃新6V┃4K","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js","timeout":30},
+{"key":"csp_新6V","name":"💫┃新6V┃4K(备用)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
+
+{"key":"js0_港口","name":"⚓┃港口┃4k","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"./js/电影港.js","timeout":30},
+{"key":"XYQ_港口","name":"⚓┃港口┃4k(备用)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/电影港.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"XYQ_阿里","name":"🅰️┃阿里┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"XYQ_旧6V","name":"🕠┃旧6V┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
