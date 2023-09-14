@@ -3,7 +3,7 @@
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"js0_9999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/14😃","type":3,"api":"./js/libs/drpy2.min.js","ext":"./js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js0_9999999","name":"豆瓣热榜ㅤㅤㅤㅤㅤㅤㅤㅤ😃更新：09/14😃","type":3,"api":"./js/libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
@@ -11,7 +11,8 @@
 {"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 {"key":"js0_9999998","name":"电影轮播","type":3,"api":"./js/libs/drpy2.min.js","ext":"./哔哩哔哩/JustLive.js"},
 {"key":"js0_9999996","name":"蜻蜓广播","type":3,"api":"./js/libs/drpy2.min.js","ext":"./哔哩哔哩/蜻蜓FM.js"},
-
+      {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
+  
 //{"key":"js0_9999997","name":"喜马拉雅","type":3,"api":"./js/libs/drpy2.min.js","ext":"./哔哩哔哩/喜马拉雅.js"},
 //{"key":"XYQ_玩偶","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
