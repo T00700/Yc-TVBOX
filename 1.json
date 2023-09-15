@@ -64,7 +64,7 @@
 {"key":"js0_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"csp_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 
-{"key":"js0_南瓜","name":"💫┃新6V┃4K","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js","timeout":30},
+{"key":"js0_新6V","name":"💫┃新6V┃4K","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js","timeout":30},
 {"key":"csp_新6V","name":"💫┃新6V┃4K(备用)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
 
 {"key":"js0_港口","name":"⚓┃港口┃4k","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"./js/电影港.js","timeout":30},
