@@ -38,7 +38,7 @@
 {"key":"csp_哔嘀","name":"🚖┃哔嘀┃超清","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"csp_低端","name":"⏮️┃低端┃超清","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
-{"key":"csp_在线","name":"📗┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.zxzj.pro/"},
+{"key":"csp_明明","name":"👻┃明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 
 {"key":"csp_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.libvio.fun/"},
 {"key":"js0_利播","name":"🌟┃利播┃超清(备用)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/LIBVIO.js"},
@@ -56,7 +56,7 @@
 {"key":"czy_虎牙","name":"🦁┃虎牙┃云播","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"categories":["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","犯罪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","日本动漫","欧美动漫"]},
 
 {"key":"js0_子子","name":"👶┃子子┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/子子影视.js"},
-{"key":"XYQ_子子","name":"👶┃子子┃超清(备用)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"XYQ_子子","name":"👶┃子子┃超清(备一)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"js0_可乐","name":"🥤┃可乐┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/cokemv.js"},
 {"key":"csp_可乐","name":"🥤┃可乐┃超清(备用)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1},
@@ -95,7 +95,7 @@
 {"key":"XYQ_七时","name":"⏰┃七时┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/七小时影院.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"XBP_看看","name":"👀┃看看┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","changeable":0,"ext":"./XBPQ/看看.json"},
-{"key":"XBP_大子","name":"👨‍🔧┃大子┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
+{"key":"XBP_大子","name":"👨‍🔧┃子子┃超清(备二)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 
 {"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
 {"key":"XBP_冷曦","name":"🤒┃冷曦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/冷曦影视.json"},
@@ -116,9 +116,9 @@
 {"key":"csp_VOFL","name":"🎈┃VOFL┃超清","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 
 {"key":"csp_樱花","name":"💮┃樱花┃动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
-{"key":"csp_明明","name":"👻┃明明┃App","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"csp_迅雷","name":"🌩️┃迅雷┃2K","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+
+{"key":"csp_在线","name":"📗┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.zxzj.pro/"},
 
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/360影视.js"},
 {"key":"js0_腾讯","name":"🏅┃腾讯视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/腾云驾雾.js"},
