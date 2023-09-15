@@ -17,7 +17,7 @@
 //{"key":"XYQ_玩偶","name":"🤶┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd"},
-{"key":"T40_玩偶","name":"🤶┃玩偶┃4K(备用)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt"},
+{"key":"T40_玩偶","name":"🤶┃玩偶┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt"},
 
 {"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./token.txt","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 {"key":"T40_纸条","name":"📜┃纸条┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"./token.txt","timeout":30},
@@ -38,7 +38,7 @@
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃超清(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/MayiTube.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"js0_子子","name":"👶┃子子┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/子子影视.js"},
-{"key":"XYQ_子子","name":"👶┃子子┃超清(备一)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
+{"key":"XYQ_子子","name":"👶┃子子┃超清(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
  
 {"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"./jar/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 {"key":"csp_影咖","name":"🎥┃影咖┃超清","type":3,"api":"csp_YingKa","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"","jar":"./jar/fix0907.jar;md5;d25d1188f676ee4b64fd1b4a878013d4"},
@@ -56,7 +56,7 @@
 {"key":"czy_新浪","name":"🏄🏻┃新浪┃超清(备Sp)","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/","searchable":1,"quickSearch":1,"filterable":0,"categories":["动漫","综艺","纪录片","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","大陆剧","港澳剧","台湾剧","欧美剧","动漫电影","韩剧","日剧","泰剧","体育"]},
 
 {"key":"js0_可乐","name":"🥤┃可乐┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/cokemv.js"},
-{"key":"csp_可乐","name":"🥤┃可乐┃超清(备用)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_可乐","name":"🥤┃可乐┃超清(备Sp)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"csp_快看","name":"👀┃快看┃超清","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"js0_快看","name":"👀┃快看┃(备用)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./js/快看.js"},
@@ -101,7 +101,7 @@
 {"key":"XYQ_七时","name":"⏰┃七时┃超清","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/七小时影院.json","jar":"./jar/XYQ0911.jar;md5;5f97911cc7630b48ed3c69ba545818b5"},
 
 {"key":"XBP_看看","name":"👀┃看看┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","changeable":0,"ext":"./XBPQ/看看.json"},
-{"key":"XBP_大子","name":"👨‍🔧┃子子┃超清(备Xb)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
+{"key":"XBP_子子","name":"👨‍🔧┃子子┃超清(备Xb)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 
 {"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
 {"key":"XBP_冷曦","name":"🤒┃冷曦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/冷曦影视.json"},
