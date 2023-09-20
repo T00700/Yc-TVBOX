@@ -34,7 +34,7 @@
 {"key":"csp_泰泰","name":"🌞┃泰泰┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"T40_荐片","name":"🐭┃荐片┃2K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","timeout":30},
 
-{"key":"csp_蚂蚁","name":"🐜┃蚂蚁┃超清","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz"},
+{"key":"csp_蚂蚁","name":"🐜┃蚂蚁┃超清","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"http://52bsj.vip:81/api/v3/file/get/169067/fix0907.jar?sign=yiUFyBE6B8fHcUw-AzFvJ3jxr8iQty4QgHHG4EpojG0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃超清(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/MayiTube.json","jar":"http://52bsj.vip:81/api/v3/file/get/168967/XYQ0917.jar?sign=FBM5U6KU162y246oKxLUTFcUkcDh6VqgwTY9JK-Ol1U%3D%3A0;md5;703971fa0a5048fdf567245d4d4e1b06"},
 
 {"key":"js0_子子","name":"👶┃子子┃超清","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/子子影视.js"},
