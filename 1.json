@@ -1,5 +1,5 @@
 {
-"spider":"http://52bsj.vip:81/api/v3/file/get/169122/fan0920.jar?sign=OXdUv0P1aIr7YS38GM8R_XqMFOdeNQwr2g-AGqtx_Zk%3D%3A0;md5;fabe518913a31b346f22adf3f302c6b3",
+"spider":"http://52bsj.vip:81/api/v3/file/get/169133/fan0921.jar?sign=0H_H63oZ6zKQ8KbCHqX4deuEz-ahdW_nGG2CZ4yuHyE%3D%3A0;md5;d65c6f3f30d78e020e48588d511f2bfe",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"https://agit.ai/fantaiying/0/raw/branch/main/tvlive.txt","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
@@ -19,14 +19,14 @@
 {"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd"},
 {"key":"T40_玩偶","name":"🤶┃玩偶┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt"},
 
-{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./token.txt","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
-{"key":"T40_纸条","name":"📜┃纸条┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"./token.txt","timeout":30},
+{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
+{"key":"T40_纸条","name":"📜┃纸条┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./token.txt","timeout":30},
 
 {"key":"csp_荐片","name":"🐭┃荐片┃2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"js0_荐片","name":"🐭┃荐片┃2K(备Js)","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/荐片.js"},
 
 {"key":"csp_南瓜","name":"🍪┃南瓜┃2K","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/169067/fix0907.jar?sign=yiUFyBE6B8fHcUw-AzFvJ3jxr8iQty4QgHHG4EpojG0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
-{"key":"js0_南瓜","name":"🍪┃南瓜┃2K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/南瓜.js"},
+{"key":"js0_南瓜","name":"🍪┃南瓜┃2K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/南瓜.js"},
 
 {"key":"XYQ_乐猪","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"XBP_乐猪","name":"🐷┃乐猪┃超清(备Xb)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/乐猪.json"},
