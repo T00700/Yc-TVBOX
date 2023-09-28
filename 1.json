@@ -1,5 +1,5 @@
 {
-"spider":"http://52bsj.vip:81/api/v3/file/get/169280/fan0922.jar?sign=NeiReevJ5xy5KUQEvLmTyq8dKpBe1G5k5ci_OougPTo%3D%3A0;md5;533f279c487b5bd34cf4947a7afbee34",
+"spider":"http://52bsj.vip:81/api/v3/file/get/169655/fan0928.jar?sign=zZr4fuSBCbZbSWIBYMJeYKPstA-APLIavvMvGd0YyvQ%3D%3A0;md5;1283f666a6cad6c58530d7f2d5eef333",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
@@ -105,7 +105,6 @@
 
 {"key":"csp_影图","name":"☁️┃影图┃超清","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2},
 {"key":"csp_光速","name":"☁️┃光速┃超清","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["大陆剧","港澳剧","综艺","动漫"]},
-
 
 {"key":"csp_迪迪","name":"😎┃迪迪┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_辣辣","name":"🤣┃辣辣┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.miniku.cc/xgapp.php/v2/"},
