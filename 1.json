@@ -41,7 +41,7 @@
 {"key":"cps_aliyunpan","name":"👩‍🔬┃玩偶┃妹妹","type":3,"api":"csp_XYQHikerAL","jar":"https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","ext":"https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
 
 {"key":"js_荐片","name":"⏳┃荐片┃影视","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","ext":"https://jihulab.com/duomv/xduo/-/raw/main/js/荐片.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XiaoZhiTiao","name":"🏷️┃阿里┃纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"}
+{"key":"csp_XiaoZhiTiao","name":"🏷️┃阿里┃纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"},
 
 {"key":"csp_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/169067/fix0907.jar?sign=yiUFyBE6B8fHcUw-AzFvJ3jxr8iQty4QgHHG4EpojG0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
