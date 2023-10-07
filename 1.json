@@ -37,6 +37,12 @@
 {"key":"XYQ_乐猪","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"XBP_乐猪","name":"🐷┃乐猪┃超清(备Xb)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/乐猪.json"},
 
+{"key":"csp_SNzy","name":"🐉┃索尼┃高清","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"cps_aliyunpan","name":"👩‍🔬┃玩偶┃妹妹","type":3,"api":"csp_XYQHikerAL","jar":"https://jihulab.com/duomv/xduo/-/raw/main/spider.txt;md5;FE7A16C03308099ADE4ED6A63B4ADC4C","ext":"https://bitbucket.org/xduo/json/raw/master/aliyunpan.json"},
+
+{"key":"js_荐片","name":"⏳┃荐片┃影视","type":3,"api":"https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js","ext":"https://jihulab.com/duomv/xduo/-/raw/main/js/荐片.js","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XiaoZhiTiao","name":"🏷️┃阿里┃纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto","jar":"https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;EE387668B0B9E8465B9FBF69EC55EEAB"}
+
 {"key":"csp_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/169067/fix0907.jar?sign=yiUFyBE6B8fHcUw-AzFvJ3jxr8iQty4QgHHG4EpojG0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 
@@ -121,7 +127,7 @@
 
 {"key":"csp_泰泰","name":"🌞┃泰泰┃2K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"csp_毛驴","name":"🍓┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-  
+
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/360影视.js"},
 {"key":"js0_腾讯","name":"🏅┃腾讯视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/腾云驾雾.js"},
 
