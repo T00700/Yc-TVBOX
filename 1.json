@@ -65,13 +65,6 @@
 {"key":"csp_泰泰","name":"🌞┃泰泰┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"js0_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
-{"key":"csp_mino","name":"🎫┃mino┃4K","type":3,"api":"csp_Appto","ext":"|mcjJlcmV6VXF4a2pwMUMzbG1JcUJ0THpscW9YaE5MaDd8aHR0cDovL2Ntcy5rdWJveXMudG9wL2FwcHRvL3Yx","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
-
-{"key":"csp_追忆","name":"🧓┃追忆┃影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
-{"key":"csp_橘子","name":"🍊┃橘子┃影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
-
-{"key":"csp_布蕾","name":"🍮┃布蕾┃影视","type":3,"api":"csp_Appto","ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6NTI1OC9hcHB0by92MQ","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
-{"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/170526/fix0907youguo.jar?sign=MncVM3UpycScMzB5V6xeTl3LNzQNqVQZmc_awCsZwE0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 
 {"key":"csp_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_毛驴","name":"🍓┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
