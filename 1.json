@@ -58,6 +58,9 @@
 {"key":"csp_卧龙","name":"☁️┃卧龙┃超清","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["国产剧","香港剧","恐怖片","动作片"]},
 {"key":"csp_索尼","name":"☁️┃索尼┃高清","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
+{"key":"csp_猫盘","name":"♻️┃猫盘┃高清","type":1,"api":"http://zy.xzam.cn/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"categories":["欧美剧","日韩剧","国产剧","电影"]},
+{"key":"csp_短剧","name":"♻️┃短剧┃高清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"}},
+
 {"key":"csp_迪迪","name":"😎┃迪迪┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_泰泰","name":"🌞┃泰泰┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
@@ -68,7 +71,7 @@
 {"key":"csp_橘子","name":"🍊┃橘子┃影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjE","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
 
 {"key":"csp_布蕾","name":"🍮┃布蕾┃影视","type":3,"api":"csp_Appto","ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6NTI1OC9hcHB0by92MQ","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
-{"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
+{"key":"csp_油果","name":"🥑┃油果┃超清","type":3,"api":"csp_Youguo","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"http://52bsj.vip:81/api/v3/file/get/170526/fix0907youguo.jar?sign=MncVM3UpycScMzB5V6xeTl3LNzQNqVQZmc_awCsZwE0%3D%3A0;md5;d25d1188f676ee4b64fd1b4a878013d4"},
 
 {"key":"csp_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.6080yy3.com/"},
 {"key":"csp_毛驴","name":"🍓┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
@@ -139,10 +142,10 @@
 {"key":"XYQ_阿里","name":"🅰️┃阿里┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"js0_世界","name":"🌎┃世界┃2K","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 
-{"key":"csp_七夜","name":"😾┃七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_七夜","name":"😾┃七夜┃4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd","jar":"http://52bsj.vip:81/api/v3/file/get/170528/qiye.jar?sign=H8SVLfcY5YxPyerwiYoP5A-3cCgVgPH6nPIQifEWt6E%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"csp_资源","name":"🐺┃资源┃4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
-{"key":"JianPian","name":"🐭荐片[边下边播]","type":3,"api":"csp_JianPian","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;3bde0cf98262b473fddcb2610065b7e2"},
+{"key":"JianPian","name":"🐭荐片[边下边播]","type":3,"api":"csp_JianPian","jar":"http://52bsj.vip:81/api/v3/file/get/170525/fix1005.jar?sign=E-VNJa4LeWpQhuQpc4Di4gbTJsD0ykUmWVh0woyeZEA%3D%3A0;md5;c780fa00cbcc2f49f4e446f225a155e7"},
 {"key":"js0_新6V","name":"💫┃新6V┃4K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js","timeout":30},
 
 //{"key":"csp_巴士","name":"🚌┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
