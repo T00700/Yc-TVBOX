@@ -1,5 +1,5 @@
 {
-"spider":"http://52bsj.vip:81/api/v3/file/get/170311/fan1004.jar?sign=EcHHFL4GpoXQbBM5wRlW6r3rO2YnmjsBsPp_OlUcfM8%3D%3A0;md5;c780fa00cbcc2f49f4e446f225a155e7",
+"spider":"./jar/fan1004.jar;md5;c780fa00cbcc2f49f4e446f225a155e7",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
