@@ -16,8 +16,11 @@
 //{"key":"js0_9999997","name":"喜马拉雅","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./哔哩哔哩/喜马拉雅.js"},
 //{"key":"T40_荐片","name":"🐭┃荐片┃2K(手机随意使用，电视崩溃勿用！备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
 
-{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key":"T40_玩偶","name":"🎅┃玩偶┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt"},
+
+{"key":"csp_Wogg","name":"🎅┃测一┃4K","type":3,"style":{"type":"rect","ratio":1.597},"jar":"https://yanyu.ltd/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","api":"csp_Wogg","ext":"./token.txt$$$https://wogg.xyz/"},
+{"key":"csp_Wobg","name":"🎅┃测二┃4K","type":3,"style":{"type":"rect","ratio":1.597},"jar":"https://yanyu.ltd/https://raw.githubusercontent.com/yydfys/yydf/main/阿里/jar/pg.jar","api":"csp_Wobg","ext":"./token.txt$$$http://wobge.run.goorm.io"},
 
 {"key":"csp_荐片","name":"🐭┃荐片┃2K(手机可用，如电视崩溃勿用！)","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/XYQ0920.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"js0_荐片","name":"🐭┃荐片┃2K(手机可用，如电视崩溃勿用！备Js)","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/荐片.js"},
@@ -131,14 +134,14 @@
 {"key":"js0_奇艺","name":"🥉┃奇艺视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/奇珍异兽.js"},
 {"key":"js0_搜狗","name":"🎖️┃搜狗视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/菜狗.js"},
 
-{"key":"csp_易搜","name":"😹┃易搜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_盘搜","name":"🦊┃盘搜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_易搜","name":"😹┃易搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_盘搜","name":"🦊┃盘搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
 
-{"key":"csp_Up搜","name":"😻┃Up搜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_盘Se","name":"🙀┃盘Se┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_Up搜","name":"😻┃Up搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_盘Se","name":"🙀┃盘Se┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
 
-{"key":"csp_七夜","name":"😾┃七夜┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_资源","name":"🐺┃资源┃4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
+{"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
 {"key":"XYQ_玩偶","name":"🎅┃偶偶┃4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"http://52bsj.vip:81/api/v3/file/get/169124/XYQ0920.jar?sign=2qvs9JIisiUOR0sJ89pz-KRAgr7UDlf9HCwV8xtUXNY%3D%3A0;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
 {"key":"XYQ_旧6V","name":"🕠┃旧6V┃4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0920.jar;md5;80a3cb3f8b19c815d0dc0c1cdd06fd92"},
@@ -197,7 +200,6 @@
 {"host":"*","rule":["iesdouyin.com/aweme","video_id="]},
 {"host":"www.sharenice.net","rule":["qianpailive.com","vid="]},
 {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
-{"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time="]},
 {"host":"zjmiao.com","rule":["play.videomiao.vip/API.php","time=","key=","path="]},
 {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
 {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
@@ -208,14 +210,12 @@
 {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]},
-{"name":"lz","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"ff","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"bf","hosts":["bfzy","s5.bfzycdn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"暴風","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"星星","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
-{"name":"量子广告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"量子廣告","hosts":["vip.lz","hd.lz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 {"name":"非凡廣告","hosts":["vip.ffzy","hd.ffzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
 {"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 {"name":"抖音嗅探","hosts":["douyin.com"],"regex":["is_play_url="]},
