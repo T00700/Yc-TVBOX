@@ -27,11 +27,11 @@
 {"key":"csp_南瓜","name":"🍪┃南瓜┃2K","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":0,"ext":"","playerType":2,"jar":"./jar/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"js0_南瓜","name":"🍪┃南瓜┃2K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/南瓜.js"},
 
-{"key":"csp_港口","name":"⚓┃港口┃4k","type":3,"api":"csp_Dygang","playerType":2,"jar":"./jar/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
-{"key":"XYQ_港口","name":"⚓┃港口┃4k(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/电影港磁力.json","jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
+{"key":"csp_港口","name":"⚓┃港口┃2k","type":3,"api":"csp_Dygang","playerType":2,"jar":"./jar/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
+{"key":"XYQ_港口","name":"⚓┃港口┃2k(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/电影港磁力.json","jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
 
 {"key":"XYQ_磁熊","name":"🐻┃磁熊┃2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/磁力熊.json","jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
-{"key":"csp_新6V","name":"💫┃新6V┃4K","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
+{"key":"csp_新6V","name":"💫┃新6V┃2K","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://www.xb6v.com/"},
 
 {"key":"csp_爱看","name":"👾┃爱看┃超清","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
 {"key":"js0_爱看","name":"👾┃爱看┃超清(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/ikanbot2.js"},
@@ -117,7 +117,7 @@
 {"key":"js0_世界","name":"🌎┃世界┃2K","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"csp_迅雷","name":"🌩️┃迅雷┃2K","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
 
-{"key":"js0_港口","name":"⚓┃港口┃4k(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"./js/电影港.js"},
+{"key":"js0_港口","name":"⚓┃港口┃2k(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","ext":"./js/电影港.js"},
 {"key":"XBP_子子","name":"👨‍🔧┃子子┃超清(备Xb)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 
 {"key":"XYQ_可乐","name":"🍾┃可乐┃超清(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/COKEMV影院.json","jar":"./jar/XYQ1011.jar;md5;7de6e7526f5869ba90327c15f7913a0b"},
