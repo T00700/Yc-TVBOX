@@ -157,7 +157,8 @@
 {"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
 {"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
-
+{"key":"csp_360影视弹幕版","name":"360影视弹幕版","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
+{"key":"csp_jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
 
 //{"key":"csp_巴士","name":"🚌┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"csp_异界","name":"🎀┃异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
