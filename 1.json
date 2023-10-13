@@ -16,7 +16,7 @@
 //{"key":"js0_9999997","name":"喜马拉雅","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./哔哩哔哩/喜马拉雅.js"},
 
 
-{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./token.txt+4k|auto|fhd$$$http://wogg.xyz/"},
+{"key":"csp_玩偶","name":"🎅┃玩偶┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./file/tvfan/token.txt+4k|auto|fhd$$$http://wogg.xyz/"},
 {"key":"T40_玩偶","name":"🎅┃玩偶┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"23988422b2c64d0c821f98f82446cd0b"},
 
 {"key":"T40_荐片","name":"📀┃荐片┃2K(电视、手机均可用！！！备T4)","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
@@ -43,7 +43,7 @@
 {"key":"csp_港口","name":"⚓┃港口┃2k","type":3,"api":"csp_Dygang","playerType":2,"jar":"./jar/fix1005.jar;md5;3bde0cf98262b473fddcb2610065b7e2"},
 {"key":"XYQ_港口","name":"⚓┃港口┃2k(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/电影港磁力.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 
-{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./token.txt","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
+{"key":"csp_纸条","name":"📜┃纸条┃4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./file/tvfan/token.txt","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 {"key":"T40_纸条","name":"📜┃纸条┃4K(备T4)","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"23988422b2c64d0c821f98f82446cd0b"},
 
 {"key":"csp_爱看","name":"👾┃爱看┃超清","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
@@ -149,14 +149,14 @@
 {"key":"js0_奇艺","name":"🥉┃奇艺视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/奇珍异兽.js"},
 {"key":"js0_搜狗","name":"🎖️┃搜狗视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/菜狗.js"},
 
-{"key":"csp_易搜","name":"😹┃易搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_盘搜","name":"🦊┃盘搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_易搜","name":"😹┃易搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"csp_盘搜","name":"🦊┃盘搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
 
-{"key":"csp_Up搜","name":"😻┃Up搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_盘Se","name":"🙀┃盘Se┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
+{"key":"csp_Up搜","name":"😻┃Up搜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"csp_盘Se","name":"🙀┃盘Se┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
 
-{"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd"},
-{"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
+{"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
 {"key":"csp_360影视弹幕版","name":"360影视弹幕版","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
 {"key":"csp_jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
@@ -173,7 +173,7 @@
 //{"key":"csp_腾讯视频","name":"官方┃腾讯视频","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_芒果影视","name":"官方┃芒果影视","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_爱奇艺视频","name":"官方┃爱奇艺视频","type":3,"api":"csp_I//Q//I//Y//I","quickSearch":1,"searchable":1,"filterable":1,"playerType":2},
-{"key":"csp_99999999","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./token.txt+4k|auto|fhd"}],
+{"key":"csp_99999999","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"./file/tvfan/token.txt+4k|auto|fhd"}],
 
 "parses":[
 {"name":"Json轮询","type":2,"url":"Sequence"},
