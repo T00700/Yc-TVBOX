@@ -141,7 +141,7 @@
 
 {"key":"csp_360影视弹幕版","name":"360影视弹幕版","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;275bf48978d1bbfd1f04d64beebbbb80"},
 {"key":"csp_jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"danmu":true},"jar":"./jar/ok.jar;md5;275bf48978d1bbfd1f04d64beebbbb80"},
-{"key":"jojo弹幕直连","name":"JOJO弹幕版|直连","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":  {"danmu": true},"jar":"./jar/1013.jar;md5;1d228e263042ec21a98867b7eef0728e"}
+{"key":"jojo弹幕直连","name":"JOJO弹幕版|直连","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":  {"danmu": true},"jar":"./jar/1013.jar;md5;1d228e263042ec21a98867b7eef0728e"},
 
   
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/360影视.js"},
