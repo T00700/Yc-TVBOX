@@ -34,7 +34,7 @@
 {"key":"csp_迅雷","name":"⚡┃迅雷┃2K","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 {"key":"csp_八十","name":"👴┃八十┃2K","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 
-{"key":"csp_New6","name":"💫┃新6V┃2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
+{"key":"csp_New6","name":"💫┃新6V┃2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.xb6v.com","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 {"key":"csp_新6V","name":"💫┃新6V┃2K(备Fl)","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://www.xb6v.com/"},
 
 {"key":"XYQ_阿里","name":"🅰️┃阿里┃2K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
@@ -133,13 +133,17 @@
 {"key":"XYQ_旧6V","name":"🕠┃旧6V┃2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 {"key":"js0_新6V","name":"💫┃新6V┃4K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/6V新版.js"},
 
-{"key":"js0_磁熊","name":"🐻┃磁熊┃2K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./js/磁力熊.js"},
 {"key":"XYQ_磁熊","name":"🐻┃磁熊┃2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/磁力熊.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
+{"key":"js0_磁熊","name":"🐻┃磁熊┃2K(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./js/磁力熊.js"},
 
 {"key":"js0_世界","name":"🌎┃世界┃2K","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"js0_港口","name":"⚓┃港口┃2k(备Js)","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/电影港.js"},
 
+{"key":"csp_360影视弹幕版","name":"360影视弹幕版","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
+{"key":"csp_jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
 
+
+  
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/360影视.js"},
 {"key":"js0_腾讯","name":"🏅┃腾讯视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/腾云驾雾.js"},
 
@@ -158,8 +162,6 @@
 {"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
-{"key":"csp_360影视弹幕版","name":"360影视弹幕版","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
-{"key":"csp_jojo","name":"JOJO弹幕版","type":3,"api":"csp_Jojo","searchable":1,"filterable":1,"changeable":1,"jar":"./jar/ok.jar","ext":{"danmu":true}},
 
 //{"key":"csp_巴士","name":"🚌┃动漫┃巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 //{"key":"csp_异界","name":"🎀┃异界┃动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
