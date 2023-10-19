@@ -146,7 +146,8 @@
 {"key":"csp_工场","name":"🏭┃工场┃超清","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.ysgc1.cc/"},
 
 
-
+{"key":"huya","name":"🐯┃虎牙┃直播","type":3,"api":"/js/huya.js","ext":{"categories":"科技#旅游#娱乐天地#一起看#颜值#二次元#星秀#音乐#原创#网游竞技#单机热游#综合手游"}},
+{"key":"douyu","name":"🐟┃斗鱼┃直播","type":3,"api":"./js/douyu.js","ext":{"categories":"数码科技#娱乐推荐#颜值#二次元#星秀#音乐#正能量#原创IP#热门游戏#热门手游#主机游戏#怀旧游戏#王者荣耀"}},
   
 {"key":"js0_斗鱼","name":"🐟┃斗鱼┃直播","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/douyu.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
 {"key":"js0_虎牙","name":"🐯┃虎牙┃直播","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","ext":"./js/huya.js","style":{"type":"rect","ratio":1.755},"searchable": 0,"quickSearch": 0,"changeable":0},
