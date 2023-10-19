@@ -134,8 +134,8 @@
 {"key":"XYQ_可乐","name":"🍾┃可乐┃超清(备Xy)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/CokemvFun.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
 
 
-  
-  
+
+
 
 {"key":"csp_VOFL","name":"🎈┃VOFL┃超清","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"XYQ_VOFL","name":"🎈┃VOFL┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/voflixHD.json","jar":"./jar/XYQ1011.jar;md5;f91ba72d2516a995da86b7321440c653"},
@@ -147,7 +147,7 @@
 
 
 
-  
+
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/360影视.js"},
 {"key":"js0_腾讯","name":"🏅┃腾讯视频┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/腾云驾雾.js"},
 
@@ -179,6 +179,7 @@
 {"name":"解析聚合.","type":3,"url":"Web"},
 {"name":"左岸🌾","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"全民解析","type":0,"url":"http://jiexi44.qmbo.cn/jiexi/?url="},
 {"name":"YuMi-vip🥭","type":1,"url":"https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=","ext":{"flag":["YuMi-vip"]}},
 {"name":"世界🥭","type":1,"url":"http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext":{"flag":["qq","mgtv","YuMi-vip"]}},
 {"name":"源享家","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒","CL4K","renrenmi","ltnb","bilibili","BAGY","SLYS4K","DM-FT1","DM-FT3","bilibili","1905","xigua"]}},
