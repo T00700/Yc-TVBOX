@@ -138,10 +138,10 @@
 
 {"key":"荐片弹幕版","name":"荐片弹幕版","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"纸条弹幕版","name":"纸条弹幕版┃搜索","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
-{"key":"盘Se弹幕版","name":"盘Se弹幕版┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
+{"key":"盘Se弹幕版","name":"🙀┃盘Se┃4K","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
 {"key":"找資源弹幕版","name":"找資源弹幕版┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","username":"zhaoziyuannb","password":"zhaoziyuannb","danmu":true}},
 {"key":"七夜弹幕版","name":"七夜弹幕版┃搜索","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
-{"key":"盘搜弹幕版","name":"盘搜弹幕版┃搜索","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
+{"key":"盘搜弹幕版","name":"🦊┃盘搜┃4K","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
 {"key":"易搜弹幕版","name":"易搜弹幕版┃搜索","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true}},
 
 {"key":"csp_VOFL","name":"🎈┃VOFL┃超清","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
@@ -174,6 +174,9 @@
 {"key":"csp_七夜","name":"😾┃七夜┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"csp_资源","name":"🐺┃资源┃4K(手机安装阿里云盘app扫码使用)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./file/tvfan/token.txt+4k|auto|fhd$$$fanfan$$$qqq111"},
 
+
+
+  
 //{"key":"csp_三三","name":"🏆┃360影视┃官方","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playerType":2},
 //{"key":"csp_腾讯视频","name":"🏅┃腾讯视频┃官方","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_芒果影视","name":"🥇┃芒果视频┃官方","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
