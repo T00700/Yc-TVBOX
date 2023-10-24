@@ -38,7 +38,7 @@
 {"key":"csp_哔嘀","name":"🚖┃哔嘀┃超清","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 {"key":"csp_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.6080yy3.com/"},
 
-{"key":"sp00_360","name":"🏆┃3600┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"playerType":2,"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"sp00_360","name":"🏆┃3600┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"playerType":2,"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 {"key":"js0_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./哔哩哔哩/哔哩影视.js"},
 
 {"key":"csp_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
@@ -68,7 +68,7 @@
 {"key":"XBP_好戏","name":"♻️┃好戏┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/好戏.json"},
 {"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
 
-{"key":"csp_纸条","name":"📜┃纸条┃弹幕4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"csp_纸条","name":"📜┃纸条┃弹幕4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 {"key":"T40_纸条","name":"📜┃纸条┃搜索4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"23988422b2c64d0c821f98f82446cd0b"},
 
 {"key":"csp_爱看","name":"👾┃爱看┃超清","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
@@ -107,11 +107,11 @@
 {"key":"csp_六九","name":"🥶┃六九┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_泰泰","name":"🌞┃泰泰┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"ok0_荐片","name":"📀┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":{"danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"ok0_荐片","name":"📀┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":{"danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 {"key":"js0_荐片","name":"💿┃荐片┃磁力2K（电视勿用!!!）","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片.js"},
 
 {"key":"csp_JOJO","name":"🏋️┃JOJO┃超清","type":3,"api":"csp_JOJO","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
-{"key":"csp_jojo","name":"🏋️┃JOJO┃超清（弹幕）","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"danmu":true},"jar":"./jar/danmu1023.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"csp_jojo","name":"🏋️┃JOJO┃超清（弹幕）","type":3,"api":"csp_Jiohub","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"danmu":true},"jar":"./jar/danmu1023.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 
 {"key":"csp_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.libvio.pro/"},
 {"key":"js0_利播","name":"🌟┃利播┃超清（备Js）","type":3,"api":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/libs/drpy2.min.js","playerType":2,"ext":"./js/LIBVIO.js"},
@@ -123,13 +123,13 @@
 
 
 {"key":"csp_纸条","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
-{"key":"csp_資源","name":"🔍┃資源┃弹幕4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","username":"zhaoziyuannb","password":"zhaoziyuannb","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"csp_資源","name":"🔍┃資源┃弹幕4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","username":"zhaoziyuannb","password":"zhaoziyuannb","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 
-{"key":"csp_盘搜","name":"🔍┃盘搜┃弹幕4K","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
-{"key":"csp_盘Se","name":"🔍┃盘Se┃弹幕4K","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"csp_盘搜","name":"🔍┃盘搜┃弹幕4K","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
+{"key":"csp_盘Se","name":"🔍┃盘Se┃弹幕4K","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 
-{"key":"csp_七夜","name":"🔍┃七夜┃弹幕4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
-{"key":"csp_易搜","name":"🔍┃易搜┃弹幕4K","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu1024.jar;md5;51f2a7925cee9862d5f246521267e8ab"},
+{"key":"csp_七夜","name":"🔍┃七夜┃弹幕4K","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
+{"key":"csp_易搜","name":"🔍┃易搜┃弹幕4K","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"23988422b2c64d0c821f98f82446cd0b","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 
 
 
