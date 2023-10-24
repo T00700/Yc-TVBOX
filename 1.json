@@ -12,7 +12,7 @@
 //{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 
 {"key":"T40_玩偶","name":"🎅┃玩偶┃哥哥4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"23988422b2c64d0c821f98f82446cd0b"},
-{"key":"csp_玩偶","name":"🎅┃玩偶┃哥哥4K（弹幕）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./file/tvfan/token.txt+4K|auto|fhd$$$http://wogg.xyz:2052/$$$弹"},
+{"key":"csp_玩偶","name":"🎅┃玩偶┃哥哥4K（弹幕）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"./file/tvfan/token.txt+4K|auto|fhd$$$弹"},
 
 {"key":"T40_荐片","name":"📀┃荐片┃磁力2K","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
 {"key":"csp_荐片","name":"💿┃荐片┃磁力2K（电视奔溃勿用!!!）","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
