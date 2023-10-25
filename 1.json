@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan1024.jar;md5;8f8f0f3cb3d1c025746ffb35b22748a5",
+"spider":"./jar/fan1025.jar;md5;c0a0999c670692bb297b38981fe6de9b",
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
