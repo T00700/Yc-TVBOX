@@ -3,7 +3,7 @@
 "wallpaper":"https://饭.eu.org/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"csp_0000000","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：10/27😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"csp_0000000","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：10/30😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"js0_9999999","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：10/23😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./libs/drpy2.min.js","ext":"https://gitcode.net/YxY20150427/yc/-/raw/master/Js/js/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
@@ -24,8 +24,8 @@
 {"key":"csp_鑫鑫","name":"🥇┃鑫鑫┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"csp_骑骑","name":"🚵┃骑骑┃影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
-{"key":"csp_姐姐","name":"♻️┃玩偶┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
-{"key":"csp_酷影","name":"♻️┃酷影┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key":"csp_姐姐","name":"👧┃姐姐┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dytt996.com/api.php/app/"},
+{"key":"csp_酷影","name":"🕶️┃酷影┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 
 {"key":"csp_明明","name":"👻┃明明┃影视4K","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcpBF4MRDm4TvbCzxUxQS9bPrS+dwlqC+K21Byi2fnbN32ExknwkTyVnT4ZkO1NUAJnYhg/LOWYSnzESguc1X7n/JQ1wPh7lInAdzJ2qxzb2fKg8RZczmhg8lF/+BAMaZaqxv0MMB5dPInMBPwir"},
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃影视4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
@@ -61,14 +61,13 @@
 {"key":"csp_天空","name":"☁️┃天空┃云播","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["国产剧","剧情片","大陆综艺","动作片"]},
 
 {"key":"js0_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/畅梦.js"},
-{"key":"js0_零度","name":"🌬️┃零度┃超清","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/零度影视.js"},
+{"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
+
+{"key":"XBP_好戏","name":"🎥┃好戏┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/好戏.json"},
+{"key":"XBP_猫放","name":"🐱┃猫放┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"playerType":"2","ext":"./XBPQ/NikeTV.json"},
 
 {"key":"XBP_Free","name":"🏝️┃Free┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":1,"ext":"./XBPQ/Free.json"},
 {"key":"XBP_冷曦","name":"🤒┃冷曦┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/冷曦影视.json"},
-{"key":"XBP_Nike","name":"🏁┃Nike┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/NikeTV.json"},
-
-{"key":"XBP_好戏","name":"♻️┃好戏┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/好戏.json"},
-{"key":"XBP_猫放","name":"♻️┃猫放┃超清","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"playerType":"2","ext":"./XBPQ/NikeTV.json"},
 
 {"key":"csp_纸条","name":"📜┃纸条┃弹幕4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"playerType":2,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 {"key":"T40_纸条","name":"📜┃纸条┃搜索4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"54b4e35e3ead42b885b8ebf70757bb36"},
@@ -115,15 +114,6 @@
 {"key":"js0_荐片","name":"💿┃荐片┃磁力2K（电视勿用!!!）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片.js"},
 {"key":"XYQ_玩偶","name":"🎅┃玩偶┃搜索4K（备Xy）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 
-{"key":"csp_探探","name":"🕵️‍♂️┃影探┃影视4K","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","timeout":30,"ext":"vip.lyyytv.cn"},
-{"key":"csp_剧猫","name":"🦄️┃剧猫┃影视4K","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA=="},
-
-{"key":"sp00_360","name":"🏆┃3600┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"playerType":2,"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
-{"key":"csp_新片","name":"🔷┃新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","综艺","动漫"]},
-
-{"key":"csp_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"js0_两个","name":"🍒┃两个┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/两个BT.js"},
-
 {"key":"csp_纸条","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 {"key":"csp_資源","name":"🔍┃資源┃弹幕4K","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","username":"zhaoziyuannb","password":"zhaoziyuannb","danmu":true},"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
 
@@ -143,6 +133,18 @@
 {"key":"js0_子子","name":"👶┃子子┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/子子影视.js"},
 {"key":"XBP_子子","name":"👨‍🔧┃子子┃超清（备Xb）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XBPQ/子子.json"},
 
+{"key":"csp_探探","name":"🕵️‍♂️┃影探┃影视4K","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","timeout":30,"ext":"vip.lyyytv.cn"},
+{"key":"csp_剧猫","name":"🦄️┃剧猫┃影视4K","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbdFaCsJaXjxO/+6vlgsLQ5varHTH2V6Poee7Djr8Jz/R+GIpgnJnQ3krSZ9SRy8UOIbtjH3TUm9NrVkdyuAzfem0fT9yKBXkOxVq28ux/jLTJMYnSI8n4EpQvk6AcXZDdLamk1stGuAZbzYeBh2My+RQq8g8DOoxWcAPNXU6TCF5jgsdTzPvgFskwBJVrfZjjcLynmEhXHwD36QAZUcqhamhzRyjdcb79DK8hcq2QozIfxkadpK4dn0jw8kudBzd9MPssMT5nMxQ6IVYREIIDc4V1n7BrbKIGxS3a1lDUk9zW38G12j+2tNw4fXClSbM81zAdcM5lLT66EPmpxSW2Jd/0Hff1QwiiAuu8NNT2/u5raxPwPzQtA=="},
+
+{"key":"sp00_360","name":"🏆┃3600┃弹幕","type":3,"api":"csp_Sp360","searchable":1,"filterable":1,"changeable":1,"playerType":2,"jar":"./jar/danmu102401.jar;md5;bab8f39fda844e7b2a8a423010aec3dd"},
+{"key":"csp_新片","name":"🔷┃新片┃热播","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","综艺","动漫"]},
+
+{"key":"csp_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
+{"key":"js0_两个","name":"🍒┃两个┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/两个BT.js"},
+
+{"key":"js0_零度","name":"🌬️┃零度┃超清","type":3,"api":"./libs/drpy2.min.js","playerType":2,"ext":"./js/零度影视.js"},
+
+  
 {"key":"csp_嘉靓","name":"🎩┃加亮┃超清","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 {"key":"csp_工场","name":"🏭┃工场┃超清","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.ysgc1.cc/"},
 {"key":"csp_毛驴","name":"🍓┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.maolvys.com/"},
