@@ -13,7 +13,7 @@
 
 {"key":"csp_玩偶","name":"🎅┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$弹"},
 {"key":"T40_玩偶","name":"🎅┃玩偶┃哥哥4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"54b4e35e3ead42b885b8ebf70757bb36"},
-{"key":"T50_玩偶","name":"🎅┃玩偶┃哥哥4K（备T5）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1,"playerType":2"},
+{"key":"T50_玩偶","name":"🎅┃玩偶┃哥哥4K（备T5）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=f376521b7ba247b183262c2732d870ba","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
 {"key":"T40_荐片","name":"📀┃荐片┃磁力2K","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
 {"key":"csp_荐片","name":"💿┃荐片┃磁力2K（电视奔溃勿用!!!）","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","jar":"./jar/XYQ1024.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
