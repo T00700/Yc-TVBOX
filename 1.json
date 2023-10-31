@@ -131,19 +131,19 @@
 
 {"key":"迪迪","name":"弹幕 | 迪迪[jar]","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/$$$1"},
 
-{"key":"drpy_js_MP4US","name":"┃MP4电影┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/MP4电影（磁）.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_校长影视","name":"┃校长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/校长影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_yyets","name":"┃人人┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/人人影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_xb6v","name":"┃新版6v┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/XB6V（磁）.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
-{"key":"drpy_js_tzfile","name":"┃团长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/团长影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_MP4US","name":"┃MP4电影┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/MP4电影（磁）.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_校长影视","name":"┃校长┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/校长影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_yyets","name":"┃人人┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/人人影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_xb6v","name":"┃新版6v┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/XB6V（磁）.js","playerType":"1", "searchable":1, "quickSearch":1, "changeable":1, "timeout":30},
+{"key":"drpy_js_tzfile","name":"┃团长┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/团长影视（磁）.js", "quickSearch":1, "changeable":1, "timeout":30},
 
   
-{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/ddys_d.js"},
-{"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/cokemv.js"},
-{"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/B站影视.js"},
-{"key":"drpy_js_佳靓[V2]","name":"影视 | 佳靓[V2]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/佳靓[V2].js"},
-{"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"./libs/drpy2.min.js","ext":"./js/阿布影院.js"},
-{"key":"js0_子子","name":"👶┃子子┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"playerType":2,"ext":"./js/子子影视.js"},
+{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/ddys_d.js"},
+{"key":"drpy_js_cokemv","name":"影视 | cokemv[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cokemv.js"},
+{"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/B站影视.js"},
+{"key":"drpy_js_佳靓[V2]","name":"影视 | 佳靓[V2]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/佳靓[V2].js"},
+{"key":"drpy_js_阿布影院","name":"影视 | 阿布影院[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/阿布影院.js"},
+{"key":"js0_子子","name":"👶┃子子┃超清（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"playerType":2,"ext":"./js/子子影视.js"},
 
 
   
