@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan1102.jar;md5;f3b74427b43e9aea489c7ccb4045c8ad",
+"spider":"./jar/fan110201.jar;md5;354a9990b9ad9bfe5c009157751c7769",
 "wallpaper":"https://bing.img.run/rand.php",
 "lives":[{"name":"live","type":0,"url":"http://111.67.196.181/zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
@@ -131,6 +131,11 @@
 
 {"key":"csp_种子","name":"🥔┃种子┃磁力2K","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"js0_MP4v","name":"🎧┃Mp4┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/MP4电影（磁）.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":30},
+
+
+
+
+
 
 
 {"key":"js0_校长","name":"┃校长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/校长影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
