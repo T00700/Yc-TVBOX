@@ -8,12 +8,12 @@
 {"key":"js0_1234567","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/02😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
-{"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
-{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
+//{"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
+//{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 
 {"key":"T40_玩偶","name":"🎅┃玩偶┃哥哥4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"54b4e35e3ead42b885b8ebf70757bb36"},
-{"key":"T50_玩偶","name":"🎅┃玩偶┃哥哥4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=54b4e35e3ead42b885b8ebf70757bb36","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"http://111.67.195.139/yydf/lib/JGWO.jar"},
+{"key":"T50_玩偶","name":"🎅┃玩偶┃哥哥4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=54b4e35e3ead42b885b8ebf70757bb36","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 
 {"key":"csp_玩偶","name":"🎅┃玩偶┃弟弟4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":"2","ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"XYQ_玩偶","name":"🎅┃玩偶┃弟弟4K（备Xy）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
