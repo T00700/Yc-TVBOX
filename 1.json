@@ -153,7 +153,15 @@
 {"key":"csp_资源","name":"🔍┃资源┃搜索4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$z337898581$$$z123456789"},
 
 
-
+{"key":"小纸条_cli","name":"小纸条","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"54b4e35e3ead42b885b8ebf70757bb36", "timeout":30},
+{"key":"csp_Sp360","name":"360","type":3,"api":"csp_Sp360","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"danmu":true}, "timeout":30},
+{"key":"荐片弹幕版","name":"荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}, "timeout":60},
+{"key":"纸条弹幕版","name":"纸条","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30},
+{"key":"盘Se弹幕版","name":"盘Se","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30},
+{"key":"找資源弹幕版","name":"找資源","type":3,"api":"csp_Zhaozy","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","username":"z337898581","password":"z123456789","danmu":true}, "timeout":30},
+{"key":"七夜弹幕版","name":"七夜","type":3,"api":"csp_Dovx","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30},
+{"key":"盘搜弹幕版","name":"盘搜","type":3,"api":"csp_PanSou","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30},
+{"key":"易搜弹幕版","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30},
 
 
 {"key":"XBP_乐猪","name":"🐷┃乐猪┃超清（备Xb）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/乐猪.json"},
