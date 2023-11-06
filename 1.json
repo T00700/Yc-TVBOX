@@ -74,9 +74,6 @@
 {"key":"XYQ_磁熊","name":"🐻┃磁熊┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/磁力熊.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"js0_磁熊","name":"🐻‍┃磁熊┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/磁力熊（磁）.js"},
 
-{"key":"csp_纸条","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
-{"key":"T40_纸条","name":"📜┃纸条┃搜索4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"54b4e35e3ead42b885b8ebf70757bb36"},
-
 {"key":"XYQ_阿里","name":"🅰️┃阿里┃搜索2K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/阿里云盘网.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"XYQ_土鼠","name":"🐭┃土鼠┃搜索2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/土拨鼠搜索.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 
@@ -133,15 +130,8 @@
 
 
 
-
-
-
-
-{"key":"js0_校长","name":"┃校长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/校长影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"js0_人人","name":"┃人人┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/人人影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"js0_团长","name":"┃团长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/团长影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
-{"key":"T40_荐片","name":"📀┃荐片┃磁力2K","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
-
+{"key":"csp_纸条","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
+{"key":"T40_纸条","name":"📜┃纸条┃搜索4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"ext":"54b4e35e3ead42b885b8ebf70757bb36"},
 
 {"key":"csp_易搜","name":"🔍┃易搜┃搜索4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"csp_盘搜","name":"🔍┃盘搜┃搜索4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
@@ -164,6 +154,13 @@
 {"key":"易搜弹幕版","name":"易搜","type":3,"api":"csp_YiSo","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"54b4e35e3ead42b885b8ebf70757bb36","danmu":true}, "timeout":30,"jar":"./jar/danmu1023.jar;md5;fd295ab17dcb7631145ec8b73d62724f"},
 
 
+
+{"key":"js0_校长","name":"┃校长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/校长影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"js0_人人","name":"┃人人┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/人人影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"js0_团长","name":"┃团长┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","ext":"./js/团长影视（磁）.js","quickSearch":1,"changeable":1,"timeout":30},
+{"key":"T40_荐片","name":"📀┃荐片┃磁力2K","type":4,"api":"http://home.jundie.top:9520/spider/csp_JP","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1"},
+
+  
 {"key":"XBP_乐猪","name":"🐷┃乐猪┃超清（备Xb）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XBPQ/乐猪.json"},
 {"key":"XYQ_子子","name":"👶┃子子┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"BPQ_子子","name":"👶┃子子┃超清（备Bq）","type":3,"api":"csp_XBPQ","searchable":1,"changeable":1,"playerType":2,"ext":"./XBPQ/子子.json"},
