@@ -9,7 +9,7 @@
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"py0_1000000","name":"游戏直播（T4）","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"ext":{"url":"./XBPQ/live.json"},"changeable":0},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
-{"key":"py0_1000000","name":"央视频道（T4）","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0},
+{"key":"py0_2000000","name":"央视频道（T4）","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0},
 //{"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 //{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
