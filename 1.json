@@ -38,11 +38,8 @@
 {"key":"csp_SixV","name":"💫┃新7V┃磁力2K","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://www.xb6v.com/"},
 {"key":"js0_xb6v","name":"💫┃新7V┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/XB6V（磁）.js"},
 
-{"key":"csp_南南","name":"🎃┃南瓜┃超清","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
-{"key":"js0_南瓜","name":"🎃┃南瓜┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/南瓜（磁）.js"},
-
-{"key":"XYQ_磁熊","name":"🐻┃磁熊┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/磁力熊.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
-{"key":"js0_磁熊","name":"🐻‍┃磁熊┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/磁力熊（磁）.js"},
+{"key":"csp_八十","name":"👴┃八十┃磁力2K","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
+{"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃磁力2K（备Xy）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 
 {"key":"XYQ_旧6V","name":"🕠┃旧6V┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"XYQ_土鼠","name":"🐭┃土鼠┃搜索2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/土拨鼠搜索.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
@@ -53,8 +50,11 @@
 {"key":"csp_天堂","name":"🛰️┃天堂┃磁力2K","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"csp_美剧","name":"🛫┃美剧┃磁力2K","type":3,"api":"csp_MeijuMi","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 
-{"key":"csp_八十","name":"👴┃八十┃磁力2K","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
-{"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃超清（备Xy）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
+{"key":"csp_南南","name":"🎃┃南瓜┃超清","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
+{"key":"js0_南瓜","name":"🎃┃南瓜┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/南瓜（磁）.js"},
+
+{"key":"XYQ_磁熊","name":"🐻┃磁熊┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/磁力熊.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
+{"key":"js0_磁熊","name":"🐻‍┃磁熊┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/磁力熊（磁）.js"},
 
 {"key":"csp_哔嘀","name":"🚖┃哔嘀┃超清","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
 {"key":"XYQ_哔嘀","name":"🚖┃哔嘀┃磁力（备Xy）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json","jar":"./jar/XYQ1102.jar;md5;eabf452425cf0176d395c553c8bc3a54"},
