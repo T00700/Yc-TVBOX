@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan1108.jar;md5;488cfa45fed992feb2a2344586970d90",
+"spider":"./jar/fan1109.jar;md5;a9185ec02828f91eea15d086122a2d34",
 "wallpaper":"https://bing.img.run/rand.php",
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
