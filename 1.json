@@ -169,7 +169,7 @@
 //{"key":"csp_腾讯","name":"🏅┃腾讯视频┃官方","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_芒果","name":"🥇┃芒果视频┃官方","type":3,"api":"csp_Mgtv","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 //{"key":"csp_奇艺","name":"🥉┃奇艺视频┃官方","type":3,"api":"csp_I//Q//I//Y//I","quickSearch":1,"searchable":1,"filterable":1,"playerType":2},
-  
+
 {"key":"新片热播","name":"🔷┃新片┃官方","type":1,"api":"https://api.iku.cool/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":0,"categories":["连续剧","动漫"]},
 {"key":"js0_三三","name":"🏆┃360影视┃官方","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/360影视.js"},
 {"key":"js0_奇艺","name":"🥉┃奇艺视频┃官方","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./js/爱奇艺.js"},
@@ -188,6 +188,7 @@
 {"name":"发","type":1,"url":"http://json.84jia.com/home/api?type=ys&uid=335253&key=acefhmqsxEMPRVYZ26&url="},
 {"name":"心","type":1,"url":"https://api.tyun77.cn/api.php/provide/parseDicturl?url=","ext":{"flag":["爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
 {"name":"稻香🌾","type":1,"url":"http://42.157.128.109:2323/CH/app/tv.php?url=","ext":{"flag":["mgtv","qiyi","imgo","爱奇艺","奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","bilibili","哔哩哔哩","哔哩","mgtv","芒果","芒果"],"header":{"User-Agent":"okhttp/3.12.0"}}},
+{"name":"米太硬","type":1,"url":"http://luoye.shop/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"全民解析","type":0,"url":"http://jiexi44.qmbo.cn/jiexi/?url="},
 {"name":"YuMi-vip🥭","type":1,"url":"https://api.xn--kcr500a391b.cc/api/jiexi/common?Key=zcGXEL8jGntDoi3vSR&url=","ext":{"flag":["YuMi-vip"]}},
 {"name":"世界🥭","type":1,"url":"http://175.178.183.192:86/api/?key=b832096861839f56066bf4ae7a0d7be0&url=","ext":{"flag":["qq","mgtv","YuMi-vip"]}},
