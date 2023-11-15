@@ -4,8 +4,8 @@
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/ray/tvlive.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 //{"key":"csp_0000000","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/06😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"js0_9999999","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/13😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./libs/drpy2.min.js","ext":"./lib/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"js0_1234567","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/13😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
+{"key":"js0_9999999","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/15😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./libs/drpy2.min.js","ext":"./lib/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js0_1234567","name":"ㅤㅤㅤ豆瓣热榜ㅤㅤㅤㅤㅤ😃更新：11/15😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"py0_1000000","name":"游戏直播（T4）","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"ext":{"url":"./XBPQ/live.json"},"changeable":0},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
