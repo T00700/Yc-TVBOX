@@ -12,11 +12,10 @@
 {"key":"csp_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：11/27😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
-{"key":"csp_0短剧网","name":"短剧网播","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/fix1128.jar;md5;ce364d69792a2663e62022e66eae39c9"},
-{"key":"py0_2000000","name":"央视直播","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0},
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
+{"key":"py0_2000000","name":"央视直播","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0},
 {"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
-//{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
+{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 
 
 {"key":"T40_玩偶","name":"🎅┃玩偶┃阿里4K","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"4e0325440be84ba68901c1e929f0a762"},
@@ -97,6 +96,10 @@
 {"key":"csp_种子","name":"🥔┃种子┃磁力2K","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1127.jar;md5;ce364d69792a2663e62022e66eae39c9"},
 {"key":"XYQ_阿里","name":"🅰️┃HDR┃搜索4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/4KHDR.json","jar":"./jar/XYQ1127.jar;md5;ce364d69792a2663e62022e66eae39c9"},
 
+
+
+
+  
 {"key":"T50_玩偶","name":"🎅┃玩偶┃哥哥4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=4e0325440be84ba68901c1e929f0a762","searchable":1,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_玩偶","name":"🎅┃玩偶┃哥哥4K（备Sp）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"XYQ_玩偶","name":"🎅┃玩偶┃弟弟4K（备Xy）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ1127.jar;md5;ce364d69792a2663e62022e66eae39c9"},
