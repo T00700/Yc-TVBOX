@@ -12,7 +12,7 @@
 {"key":"py0_2000000","name":"小说相声","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/bookreader","searchable":1,"quickSearch":0,"filterable":1,"changeable":0,"playerType":2},
 
 {"key":"py0_0000000","name":"央视直播","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/cntv","searchable":0,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0},
-{"key":"py0_3000000","name":"平台轮播","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0,"ext":{"url":"http://111.67.195.139/yydf/lib/live.json"}},
+{"key":"py0_3000000","name":"平台轮播","type":4,"api":"https://api-lmteam.koyeb.app/PythonT4/live","searchable":1,"quickSearch":0,"filterable":1,"playerType":2,"changeable":0,"ext":{"url":"./哔哩哔哩/平台轮播.json"}},
 {"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 
 {"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
