@@ -67,12 +67,15 @@
 {"key":"csp_索索","name":"☁️┃索尼┃云播","type":1,"api":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","欧美剧","韩剧","日剧","港剧","台剧","泰剧","海外剧","纪录片","大陆综艺","日韩综艺","港台综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","动画片","港台动漫","海外动漫","演唱会","体育赛事","篮球","足球","预告片","斯诺克","影视解说"],"searchable":1,"quickSearch":1},
 {"key":"csp_四九","name":"☁️┃四九┃云播","type":1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playerType":2,"categories":["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key":"csp_光速","name":"☁️┃光速┃云播","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"categories":["大陆剧","港澳剧","综艺","动漫"]},
-{"key":"csp_新浪","name":"☁️┃新浪┃云播","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["大陆剧","动作片","动漫","综艺"]},
 
-{"key":"js0_子子","name":"👶┃大子┃超清","type":3,"api":"./libs/drpy2.min.js","searchable":1,"playerType":2,"ext":"./js/子子影视.js"},
-{"key":"XYQ_子子","name":"👶┃二子┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
+{"key":"csp_赞赞","name":"👍┃赞赞┃切片","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/zanzan.js"},
+{"key":"csp_飞云","name":"☁️┃飞云┃切片","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/fy.js"},
+{"key":"js0_子子","name":"👦┃大子┃超清","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/子子影视.js"},
+
 {"key":"js0_阿布","name":"🙅┃阿布┃超清","type":3,"api":"./libs/drpy2.min.js","searchable":1,"playerType":2,"ext":"./js/阿布影院.js"},
-  
+{"key":"csp_新浪","name":"☁️┃新浪┃云播","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1,"playerType":2,"playUrl":"","categories":["大陆剧","动作片","动漫","综艺"]},
+{"key":"XYQ_子子","name":"👶┃二子┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/子子影视.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
+
 {"key":"csp_一起","name":"🎉┃一起┃超清","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
 {"key":"csp_爱看","name":"👾┃爱看┃超清","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_在线","name":"📗┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"https://www.zxzj.pro/"},
@@ -94,7 +97,7 @@
 {"key":"XYQ_农民","name":"👨‍🌾┃农民┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/农民影视.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 
 
-  
+
 
 
 {"key":"js0_荐片","name":"💿┃荐片┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片（磁新）.js"},
@@ -112,7 +115,7 @@
 
 {"key":"XYQ_港口","name":"⚓┃港口┃磁力2K（备Xy）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/电影港磁力2K.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"js0_港口","name":"⚓┃港口┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/电影港（磁）.js"},
-{"key":"js0_酷吧","name":"😎┃酷吧┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/酷吧（磁）.js"},	
+{"key":"js0_酷吧","name":"😎┃酷吧┃磁力2K（备Js）","type":3,"api":"./libs/drpy2.min.js","quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/酷吧（磁）.js"},
 
 {"key":"js0_可乐","name":"🍾┃可乐┃超清（备Js）","type":3,"api":"./libs/drpy2.min.js","searchable":1,"playerType":2,"ext":"./js/cokemv.js"},
 {"key":"XYQ_可乐","name":"🍾┃可乐┃超清（备XQ）","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/COKEMV影院.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
