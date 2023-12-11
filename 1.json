@@ -22,6 +22,7 @@
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 
 
+         
 {"key":"csp_玩偶","name":"🎅┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"csp_荐片","name":"📀┃荐片┃磁力2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
