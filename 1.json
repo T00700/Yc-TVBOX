@@ -18,8 +18,8 @@
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 
 {"key":"csp_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"playerType":2},
-{"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"style":{"type":"oval","ratio":1.1},"changeable":1,"filterable":1,"changeable":0,"playerType":2},
-{"key":"csp_000看球","name":"体育直播","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"},"playerType":2},
+{"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"style":{"type":"oval","ratio":1.1},"changeable":1,"filterable":1,"playerType":2},
+{"key":"csp_000看球","name":"体育直播","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type":"list"},"playerType":2},
 
 
 
