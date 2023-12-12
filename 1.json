@@ -14,7 +14,7 @@
 {"key":"csp_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"playerType":2,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 
 {"key":"csp_2000000","name":"广场舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
-{"key":"csp_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
+{"key":"csp_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 {"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"playerType":2,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
