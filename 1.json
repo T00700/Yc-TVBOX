@@ -11,26 +11,23 @@
 
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_cct大全","name":"央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"changeable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"},
-{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
+{"key":"csp_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"playerType":2,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 
-{"key":"csp_2000000","name":"舞蹈歌曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
-{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
+{"key":"csp_2000000","name":"广场舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
+{"key":"csp_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":1,"changeable":0,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
+{"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"playerType":2,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
+
 {"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
-
-{"key":"csp_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"playerType":2},
-{"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"style":{"type":"oval","ratio":1.1},"changeable":1,"filterable":1,"playerType":2},
-{"key":"csp_000看球","name":"体育直播","type":3,"api":"csp_Kanqiu","searchable":0,"changeable":0,"style":{"type":"list"},"playerType":2},
-
-
-
+{"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
+{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 
 
 {"key":"csp_Wogg","name":"🎅┃玩偶┃哥哥4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"style":{"type":"rect","ratio":1.597},"ext":"http://127.0.0.1:9978/file/TV/token.txt$$$https://api.wogg.xyz/","jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 {"key":"csp_Wobg","name":"👴┃玩偶┃表哥4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 {"key":"csp_Gitc","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 
-{"key":"csp_影巢","name":"🎥┃影巢┃手动进","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","timeout":30},
-{"key":"csp_皮皮","name":"🦐┃皮皮┃手动进","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null$$$1","timeout":30},
+{"key":"csp_影巢","name":"🎥┃影巢┃手动进","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","timeout":30,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
+{"key":"csp_皮皮","name":"🦐┃皮皮┃手动进","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null$$$1","timeout":30,"jar":"./jar/pg.jar;md5;1d99562d6076ace2ca5c095a301d108f","timeout":30},
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 
 {"key":"csp_荐片","name":"📀┃荐片┃磁力2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
