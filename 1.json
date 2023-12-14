@@ -32,7 +32,7 @@
 
 {"key":"csp_影巢","name":"🎥┃影巢┃手动进","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_皮皮","name":"🦐┃皮皮┃手动进","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
-{"key":"csp_4KHD","name":"🅰️┃HR4K┃手动进","type":3,"api":"csp_FourKHDR","quickSearch":1,"changeable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$http://127.0.0.1:9978/file/TV/4khdr.txt","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
+{"key":"csp_4KHD","name":"🅰️┃HR4K┃手动进","type":3,"api":"csp_FourKHDR","quickSearch":1,"changeable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$./TV/4khdr.txt","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
 {"key":"csp_荐片","name":"📀┃荐片┃磁力2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_Mp4k","name":"🎧┃Mp4K┃磁力2K","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
@@ -110,7 +110,13 @@
 
 {"key":"XYQ_农民","name":"👨‍🌾┃农民┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/农民影视.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_河马","name":"🦛┃河马┃超清","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn"},
+  
+{"key":"河马","name":"河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
+  {"key": "888解忧愁","name": "888解忧愁","type": 4,"api": "https://private--t410.repl.co/888?","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
+  
+  
+  
 {"key":"csp_紙條","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_Gitc","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_Funl","name":"🔍┃趣盘┃搜索4K","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
