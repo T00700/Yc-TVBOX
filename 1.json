@@ -28,7 +28,7 @@
 
 {"key":"csp_Gitc","name":"📜┃纸条┃搜索4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_新6V","name":"💫┃新6V┃弹幕2K","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"playerType":2,"ext":"http://127.0.0.1:9978/file/TV/token.json$$$http://www.xb6v.com$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
-{"key":"csp_荐荐","name":"💿┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./json/jianpian.json$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
+{"key":"csp_荐荐","name":"💿┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./XYQHiker/jianpian.json$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
 {"key":"csp_天天","name":"☀️┃天天┃秒播2K","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_影巢","name":"🎥┃影巢┃手动进","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TV/token.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
