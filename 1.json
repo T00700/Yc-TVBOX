@@ -24,7 +24,7 @@
 
 {"key":"csp_Wogg","name":"🎅┃玩哥┃弹幕4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"style":{"type":"rect","ratio":1.597},"ext":"./TV/token.txt$$$https://api.wogg.xyz/","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_4KHD","name":"🅰️┃HR4K┃弹幕4K","type":3,"api":"csp_FourKHDR","quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
-{"key":"csp_校长","name":"👨‍🦳┃校长┃弹幕4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/token.txt","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
+{"key":"csp_校长","name":"👨‍🦳┃校长┃弹幕4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
 {"key":"csp_天天","name":"☀️┃天天┃秒播2K","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_荐荐","name":"💿┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./XYQHiker/jianpian.json$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
@@ -33,9 +33,6 @@
 {"key":"csp_Wobg","name":"👴┃玩弟┃弹幕4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_影巢","name":"🎥┃影巢┃弹幕4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./TV/tokenm.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_皮皮","name":"🦐┃皮皮┃弹幕4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
-
-
-
 
 {"key":"csp_荐片","name":"📀┃荐片┃磁力2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 {"key":"csp_Mp4k","name":"🎧┃Mp4K┃磁力2K","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
