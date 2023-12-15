@@ -22,7 +22,7 @@
 {"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 
 
-{"key":"csp_Wogg","name":"🎅┃玩哥┃弹幕4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"style":{"type":"rect","ratio":1.597},"ext":"./TV/token.txt$$$https://api.wogg.xyz/","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
+{"key":"csp_Wogg","name":"🎅┃玩哥┃弹幕4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"style":{"type":"rect","ratio":1.597},"ext":"./TV/tokenm.json$$$https://api.wogg.xyz/","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_4KHD","name":"🅰️┃HR4K┃弹幕4K","type":3,"api":"csp_FourKHDR","quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_校长","name":"👨‍🦳┃校长┃弹幕4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
