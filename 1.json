@@ -109,8 +109,7 @@
 {"key":"csp_Nmys","name":"🌾┃农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 {"key":"XYQ_农民","name":"👨‍🌾┃农民┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/农民影视.json","jar":"./jar/XYQ1205.jar;md5;316660b0adb299c1dc63587579a3522e"},
 
-
-
+{"key":"js0_人人","name":"🚩┃人人┃影视","type":3,"api":"./libs/drpy2.min.js","quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/yyets.js","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_团长","name":"💪┃团长┃弹幕4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 {"key":"csp_夸克","name":"🦶┃夸克┃弹幕4K","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","jar":"./jar/pg1214.jar;md5;2a66beaf035cd7d8befe739fa7a22fb4","timeout":60},
 
