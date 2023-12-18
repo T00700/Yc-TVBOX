@@ -125,13 +125,13 @@
 {"key":"csp_易搜","name":"🔍┃易搜┃搜索4K","type":3,"api":"csp_YiSo","playerType":2,"ext":"./lib/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 
 
-{"key": "996影院","name": "影视 | 996[jar]","type": 3,"api": "csp_Cs1369","searchable": 1,"changeable": 1},
-{"key": "河马","name": "弹幕 | 河马[jar]","type": 3,"api": "csp_Hmys","playerType": 1,"ext": "https://m.jmzp.net.cn$$$null$$$1"},
+{"key":"996影院","name":"影视|996[jar]","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"河马","name":"弹幕|河马[jar]","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 
 
 
 
-  
+
 {"key":"csp_酷吧","name":"😎┃酷吧┃磁力2K","type":3,"api":"csp_KubaCL","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
 {"key":"csp_八十","name":"👴┃八十┃磁力2K","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
 {"key":"XYQ_乐猪","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
