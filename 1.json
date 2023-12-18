@@ -22,20 +22,20 @@
 {"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 
 
-{"key":"csp_WoGG","name":"🎅┃玩哥┃弹幕4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wogg.xyz/","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_Wobg","name":"👴┃玩弟┃弹幕4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_校长","name":"👨‍🦳┃校长┃弹幕4K","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_WoGG","name":"🎅┃玩哥┃弹幕4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/token.json$$$https://wogg.xyz/","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_Wobg","name":"👴┃玩弟┃弹幕4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/token.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_校长","name":"👨‍🦳┃校长┃弹幕4K","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/token.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 
 {"key":"csp_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 {"key":"csp_九六","name":"🎀┃九六┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"playerType":2,"jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
   
-{"key":"csp_4KHD","name":"🅰️┃HR4K┃弹幕4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_影巢","name":"🎥┃影巢┃弹幕4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_皮皮","name":"🦐┃皮皮┃弹幕4K","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_4KHD","name":"🅰️┃HR4K┃弹幕4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/token.json$$$./TV/4khdr.txt","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_影巢","name":"🎥┃影巢┃弹幕4K","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./TV/token.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_皮皮","name":"🦐┃皮皮┃弹幕4K","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/token.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 
 {"key":"csp_荐荐","name":"💿┃荐片┃弹幕2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./XYQHiker/jianpian.json$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_新6V","name":"💫┃新6V┃弹幕2K","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$http://www.xb6v.com$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_Gitc","name":"📜┃纸条┃弹幕4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_新6V","name":"💫┃新6V┃弹幕2K","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"playerType":2,"ext":"./TV/token.json$$$http://www.xb6v.com$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
+{"key":"csp_Gitc","name":"📜┃纸条┃弹幕4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/token.json","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 
 {"key":"csp_荐片","name":"📀┃荐片┃磁力2K","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
 {"key":"csp_Mp4k","name":"🎧┃Mp4K┃磁力2K","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
