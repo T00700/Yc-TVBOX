@@ -24,7 +24,7 @@
 
 
 {"key":"csp_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
-{"key":"csp_九六","name":"🎀┃九六┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1,"playerType":2},
+{"key":"csp_九六","name":"🎀┃九六┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"jar":"./jar/pg1218.jar;md5;efb86a0831e4de3beac0045d23ecbd01","timeout":60},
 {"key":"csp_赞赞","name":"👍┃赞赞┃秒播","type":3,"api":"./libs/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./js/zanzan.js"},
 
 {"key":"csp_鑫鑫","name":"👁️┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://yingszj.xn--654a.cc/api.php/app/","jar":"./jar/XBPQ.jar;md5;c253e1930a210fa5141e5418f1f90949"},
