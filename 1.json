@@ -143,7 +143,7 @@
 
 
 {"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
-{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=QianFanID=f4hs2m1gta2h83lu218e38pl1ngyfz80;csrftoken=rdm7cge64fRXTm6ZT46sC0zKyonsZUXGTsmVA8MwVAIqFFXa1PY57khpkdHbdLCX;_ga=GA1.1.664985626.1703211664;_ga_6Z94VT54DV=GS1.1.1703211663.1.1.1703211692.0.0.0","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
+{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=f4hs2m1gta2h83lu218e38pl1ngyfz80;csrftoken=rdm7cge64fRXTm6ZT46sC0zKyonsZUXGTsmVA8MwVAIqFFXa1PY57khpkdHbdLCX;_ga=GA1.1.664985626.1703211664;_ga_6Z94VT54DV=GS1.1.1703211663.1.1.1703211692.0.0.0","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
 
 {"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
 {"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
