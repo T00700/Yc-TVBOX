@@ -143,7 +143,7 @@
 
 
 {"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
-{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
+{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=QianFanID=f4hs2m1gta2h83lu218e38pl1ngyfz80;csrftoken=rdm7cge64fRXTm6ZT46sC0zKyonsZUXGTsmVA8MwVAIqFFXa1PY57khpkdHbdLCX;_ga=GA1.1.664985626.1703211664;_ga_6Z94VT54DV=GS1.1.1703211663.1.1.1703211692.0.0.0","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
 
 {"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
 {"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar":"./jar/pg1221.jar;md5;363ab9481b1be5664752c6b2aff6a298","timeout":30},
@@ -157,7 +157,7 @@
 
 
 
-  
+
 {"key":"csp_玩偶","name":"👲┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/token.json+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"T40_玩偶","name":"👲┃玩偶┃阿里4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"97fa226cba5d43d1b8dfcbf04b0952fb"},
 {"key":"XYQ_玩偶","name":"👲┃玩偶┃弟弟4K（备Xy）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ1218.jar;md5;857c3864f652a8f670797d2002aadb82"},
