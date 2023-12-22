@@ -143,7 +143,7 @@
 
 
 {"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","jar":"./jar/pg1222.jar;md5;6dee46e7e25d8383f05d9100edbece39","timeout":30},
-
+{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID=f4hs2m1gta2h83lu218e38pl1ngyfz80;csrftoken=rdm7cge64fRXTm6ZT46sC0zKyonsZUXGTsmVA8MwVAIqFFXa1PY57khpkdHbdLCX","jar":"./jar/pg1222.jar;md5;6dee46e7e25d8383f05d9100edbece39","timeout":30},
 
 
 
