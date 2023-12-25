@@ -12,7 +12,7 @@ var rule = {
     headers:{
         'User-Agent':'PC_UA',
         "Referer": "https://www.bilibili.com",
-        "Cookie":"SESSDATA=85542c5b%2C1710126770%2C5b716%2A91CjCgS7eRyYhrvsAyhmrqpG7zPAuslwDk1982yJ96_fVtlTT6pYjeN4g_6YdPiM7CDNcSVi1tT2F4NmpIazR4WkZneXNqOFdySFVBTmVIdVVkU3owd1htVFRRbHZwUXd5bjZ3NTZEcWxiT1lHYUFwME5fMTdKd1FxYzN5RHNLR2QyMU1hSUFXWTBBIIEC;bili_jct=639a6d6e00aaa130e82ed31684932187;DedeUserID=40836986; DedeUserID__ckMd5=6a2a8e23f8042d4a"
+        "Cookie":"buvid3=F3D03D34-8997-CC3F-4C62-1B6AD34DE70937384infoc;b_nut=1701739437;_uuid=FB1FCF96-595F-7BC9-75AF-BFD8B1010842E684730infoc;buvid4=BB62D0CA-32A2-0B21-F0E3-995434E22DC074302-023051511-omnIDiwYNDwuaYjJY7YbHg%3D%3D;buvid_fp=4e9a1c1a50ccc93775a12bfc3bf64bad;enable_web_push=DISABLE;header_theme_version=CLOSE;CURRENT_FNVAL=4048;rpdid=|(k|RlYkRJ~J0J'u~|u~lY|R);bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDMyMjMzMjIsImlhdCI6MTcwMjk2NDA2MiwicGx0IjotMX0.1W1f3NXyLv-rZMdcvu6RKH3yFjfPVXwZZtpILrDmrC4;bili_ticket_expires=1703223262;b_lsid=B3A2BFC2_18C8F722EE0;bmg_af_switch=1;bmg_src_def_domain=i2.hdslb.com;innersign=0;SESSDATA=46af09d4%2C1718765773%2Ce1c8a%2Ac2CjAyJSdB5o9Did2BQd0PmQoaD-tIn5fv5FacikzMyRgkKm7ZrRVM-svtd-r1Dc6ckywSVjcxd25YNnh4QUdMTFpmNzg1QXJoNHVRNDkzV1VSNEtwVnlWQm1lWGREUUU5bGZSSDN2M21JbmowMGZKLUZyR0J0T25sS1VLdS04cGU0VTh1WnZkOEtRIIEC;bili_jct=9875a7f64e1c669b7162cf212bfb93f3;DedeUserID=40836986;DedeUserID__ckMd5=6a2a8e23f8042d4a;sid=gjim2rcs;home_feed_column=4;browser_resolution=150-838"},"jar":"./jar/pg1224.jar;md5;b44eb2976831dde82168091e8c3a6967"
     },
     timeout:3000,
     class_name:'国创&番剧&纪录片&电视剧&电影&综艺&全部&追番&追剧&时间表',
