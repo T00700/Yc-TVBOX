@@ -42,15 +42,14 @@
 {"key":"csp_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_视车","name":"🚛┃视车┃网盘4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.weixine.net/$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_Wobg","name":"👴┃表哥┃网盘4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-{"key":"csp_4KHD","name":"🅰️┃4KHD┃网盘4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":60},
 
+{"key":"csp_4KHD","name":"🅰️┃4KHD┃网盘4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":60},
 {"key":"csp_校长","name":"🎓┃校长┃网盘4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_影巢","name":"🎥┃影巢┃网盘4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-{"key":"csp_皮皮","name":"🦐┃皮皮┃网盘4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 
+{"key":"csp_皮皮","name":"🦐┃皮皮┃网盘4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"XYQ_蚂蚁","name":"🐜┃蚂蚁┃磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"csp_Gitc","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-{"key":"csp_七夜","name":"🔍┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 
 {"key":"csp_迅雷","name":"⚡┃迅雷┃磁力2K","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"XYQ_旧6V","name":"🕠┃旧6V┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
@@ -114,12 +113,12 @@
 
 
 {"key":"csp_紙條","name":"📃┃紙條┃阿里4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
+{"key":"csp_七夜","name":"🔍┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
+{"key":"csp_資源","name":"🔍┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json$$$z337898581$$$z123456789","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
+
 {"key":"csp_UP云","name":"🔍┃云搜┃阿里4K","type":3,"api":"csp_UpYun","playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_易搜","name":"🔍┃易搜┃阿里4K","type":3,"api":"csp_YiSo","playerType":2,"ext":"./TV/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-
 {"key":"csp_盘搜","name":"🔍┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-{"key":"csp_資源","name":"🔍┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
-{"key":"csp_資源","name":"🔍┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json$$$z337898581$$$z123456789","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 
 
 
