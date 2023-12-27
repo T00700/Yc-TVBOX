@@ -39,7 +39,8 @@
 {"key":"csp_New6","name":"💫┃新6V┃磁力2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.xb6v.com","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"csp_港口","name":"⚓┃港口┃磁力2K","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
-{"key":"csp_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
+{"key":"csp_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$https://fm.t4tv.hz.cz/json/wogg.json","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
+{"key":"csp_视车","name":"🚛┃视车┃网盘4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.weixine.net/$$$null$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_Wobg","name":"👴┃表哥┃网盘4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":30},
 {"key":"csp_4KHD","name":"🅰️┃4KHD┃网盘4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg1226.jar;md5;6633b55ad0494d70281c024fbd5f0b30","timeout":60},
 
