@@ -6,25 +6,25 @@
 "vip_thread_limit":10,                                 //這裏是阿里云盤的轉存原畫(OpenToken)并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
 "vod_flags":"4k|4kz|auto",                             //這裏是播放阿里雲的畫質選項，4k代表不轉存原畫（GO原畫），4kz代表轉存原畫,其他都代表預覽畫質,可選的預覽畫質包括qhd,fhd,hd,sd,ld，
 
+"quark_cookie":"_UP_A4A_11_=wb90816f0cc648d6a38b146975c0d955; __wpkreporterwid_=a683070d-9a05-4f2c-1597-b3d98c5c880d; __pus=c69f9cb09d3f01e0f26ed640db48c68aAARZWc3li7Jbx2uI0k18mtrMq/hvrDXeZcXTpo4/E7i/vusL23VPwy764DVPsaLGFCfyXuaZ+JgZiSuCfE5g9FSQ; __kp=4e23f940-9a47-11ee-852b-4fe26ceb14e6; __kps=AATYRkZh0jh0YJ+tK8yD2e7j; __ktd=l1OipD+nUIQ8WA3OGHhMlQ==; __uid=AATYRkZh0jh0YJ+tK8yD2e7j; __itrace_wid=a00bec8d-fe63-469b-aa7a-8716c39098eb; __puus=c58642bed46fa3ab362e8b3eb5c0573aAAQqgre7E7PF5caf/FnBIU8zUeUInJWwqRuK18tx3ttnQ+bBehxvQwmxRzWbJqXUo7VUB23dEVp11UU7stIJGi4lTwhi6nWgVN/Js9lQiCcsuS8xxH4YSu+GxC81nSqKqoPaOW+OpB1LipWqmPp4W1Ov5Tq83z80fgburUGz2VRUQUQq57xQK0qHqYruDM+iW6jvb840csdpF1hiFg2NxXsA",
 "quark_thread_limit":32,                               //這裏是夸克網盤GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制並發數，請將此數值改爲10
 "quark_is_vip":false,                                  //是否是夸克網盤的VIP用戶，設置為true后，固定10綫程，不受quark_thread_limit控制
 "quark_vip_thread_limit":16,                           //這裏是夸克網盤設置quark_is_vip:true之後的并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
 "quark_flags":"auto|4kz",                              //這裏是播放夸克網盤的畫質選項，4kz代表轉存原畫（GO原畫），其他都代表轉碼畫質,可選的預覽畫質包括4k,2k,super,high,low,normal
-"quark_cookie":"_UP_A4A_11_=wb90816f0cc648d6a38b146975c0d955; __wpkreporterwid_=a683070d-9a05-4f2c-1597-b3d98c5c880d; __pus=c69f9cb09d3f01e0f26ed640db48c68aAARZWc3li7Jbx2uI0k18mtrMq/hvrDXeZcXTpo4/E7i/vusL23VPwy764DVPsaLGFCfyXuaZ+JgZiSuCfE5g9FSQ; __kp=4e23f940-9a47-11ee-852b-4fe26ceb14e6; __kps=AATYRkZh0jh0YJ+tK8yD2e7j; __ktd=l1OipD+nUIQ8WA3OGHhMlQ==; __uid=AATYRkZh0jh0YJ+tK8yD2e7j; __itrace_wid=a00bec8d-fe63-469b-aa7a-8716c39098eb; __puus=c58642bed46fa3ab362e8b3eb5c0573aAAQqgre7E7PF5caf/FnBIU8zUeUInJWwqRuK18tx3ttnQ+bBehxvQwmxRzWbJqXUo7VUB23dEVp11UU7stIJGi4lTwhi6nWgVN/Js9lQiCcsuS8xxH4YSu+GxC81nSqKqoPaOW+OpB1LipWqmPp4W1Ov5Tq83z80fgburUGz2VRUQUQq57xQK0qHqYruDM+iW6jvb840csdpF1hiFg2NxXsA",
 
+"uc_cookie":"b-user-id=d88fd0fe-9a95-1e24-2b98-8008bdf72a84;__itrace_wid=022523cb-dd94-4861-a15a-909a639b0dbd;__pus=0b24f5363107fd821b971f5dd05daf26AAR4kgxjtRWX+SaXSJb055qJSv7TJE8+j43xeS08sdRHQMiC7uwGSwNYHkvmWAu+D2NmMPuKnWL0KiWQsBL5fir6;__kp=bcbce2e0-9fb0-11ee-9668-ff4557f2ae4a;__kps=AARaPsy19sE3hhs3YqPg7HCa;__ktd=DLqnFPYlfx+M0VDP+KMRtQ==;__uid=AARaPsy19sE3hhs3YqPg7HCa;ctoken=gCwzwo-gmKXewK07KZjgb-gC;__puus=f50ef09ddcc7aae17a0d82a804978c0fAATCov9Z78OJHuGuNarL9J5TchqsqXy7XFmWpewTkl207pTUNhw7vJ85lDPOYQGE5fYppYdpMqPdooWeuNnvVgt53i24aXsbEze34WoEyUBSu2iNl6QPQ6zr0HIL3qWTbjQc1uBIySj6BzozF2eAZdHrJCJHA6feoeWSZ4hE1QcyyPOtL3HwQJXP0FxmoMx8szI=",
 "uc_thread_limit":32,
 "uc_is_vip":false,
 "uc_vip_thread_limit":16,
 "uc_flags":"auto|4kz",
-"uc_cookie":"b-user-id=d88fd0fe-9a95-1e24-2b98-8008bdf72a84;__itrace_wid=022523cb-dd94-4861-a15a-909a639b0dbd;__pus=0b24f5363107fd821b971f5dd05daf26AAR4kgxjtRWX+SaXSJb055qJSv7TJE8+j43xeS08sdRHQMiC7uwGSwNYHkvmWAu+D2NmMPuKnWL0KiWQsBL5fir6;__kp=bcbce2e0-9fb0-11ee-9668-ff4557f2ae4a;__kps=AARaPsy19sE3hhs3YqPg7HCa;__ktd=DLqnFPYlfx+M0VDP+KMRtQ==;__uid=AARaPsy19sE3hhs3YqPg7HCa;ctoken=gCwzwo-gmKXewK07KZjgb-gC;__puus=f50ef09ddcc7aae17a0d82a804978c0fAATCov9Z78OJHuGuNarL9J5TchqsqXy7XFmWpewTkl207pTUNhw7vJ85lDPOYQGE5fYppYdpMqPdooWeuNnvVgt53i24aXsbEze34WoEyUBSu2iNl6QPQ6zr0HIL3qWTbjQc1uBIySj6BzozF2eAZdHrJCJHA6feoeWSZ4hE1QcyyPOtL3HwQJXP0FxmoMx8szI=",
 
+"thunder_captchatoken":"ck0.-mUrbDJvXlsuleyJ6mNMqs4NY1KoloygdyMvB15KLTqNraGsKGTzBeMkCXUJiD0MFf-42-CceoGoOZsY8ijpAElVczxD9vtJLltPxChrRWRdUKLwEIhMl-f8r7dHDENWKy0o34DpvFmSqx9kipMOP4m1_pXBFcVAUHLTQGalXq5-gCIXutRNIjRQH0MJNLCGRBwo1A2_Sc9Zv2GpsAL84wRou64EkBuJPHMKAqSrf0Ft2enAw0YAugnZohg6TgKybNuD7PpIQr8XzjpWns4iIYIxxFVt5T--lqN0FyrYDNTNsGM6MvqI5IPreWu3w_UpiFMCIWShu0-ey8rxQCd1mzsVOQ-K_tDkruThumjH4GT0V356Cgk4YvSgyw083Pe8&expires_in=1197",
 "thunder_thread_limit":32,
 "thunder_is_vip":false,
 "thunder_vip_thread_limit":16,
 "thunder_flags":"auto|4k|4kz",
 "thunder_username":"+86 18052000426",
 "thunder_password":"z57115160",
-"thunder_captchatoken":"ck0.-mUrbDJvXlsuleyJ6mNMqs4NY1KoloygdyMvB15KLTqNraGsKGTzBeMkCXUJiD0MFf-42-CceoGoOZsY8ijpAElVczxD9vtJLltPxChrRWRdUKLwEIhMl-f8r7dHDENWKy0o34DpvFmSqx9kipMOP4m1_pXBFcVAUHLTQGalXq5-gCIXutRNIjRQH0MJNLCGRBwo1A2_Sc9Zv2GpsAL84wRou64EkBuJPHMKAqSrf0Ft2enAw0YAugnZohg6TgKybNuD7PpIQr8XzjpWns4iIYIxxFVt5T--lqN0FyrYDNTNsGM6MvqI5IPreWu3w_UpiFMCIWShu0-ey8rxQCd1mzsVOQ-K_tDkruThumjH4GT0V356Cgk4YvSgyw083Pe8&expires_in=1197",
 
 "aliproxy":"",                                          //這裏填寫外部的加速代理，用於在盒子性能不夠的情況下，使用外部的加速代理來加速播放，可以不填寫
 "proxy":"",                                             //這裏填寫用於科學上網的地址，連接openapi或某些資源站可能會需要用到，可以不填寫"
