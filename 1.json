@@ -8,7 +8,7 @@
 {"key":"js0_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
 {"key":"csp_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"csp网盘配置","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
- 
+
 
 
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
@@ -172,6 +172,7 @@
 {"key":"Mayiys","name":"蚂蚁影视","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"Maolv","name":"毛驴","type":3,"api":"csp_Maolv","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
+{"key":"盘99","name":"盘99","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"/TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
 
 
 
