@@ -7,7 +7,8 @@
 {"key":"js0_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./libs/drpy2.min.js","ext":"./lib/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"js0_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
 {"key":"csp_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
-  
+{"key":"csp网盘配置","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
+ 
 
 
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
@@ -21,7 +22,6 @@
 {"key":"csp_3000000","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 {"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
-{"key":"csp网盘配置","name":"观看4K电影进入配置即可","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 
 
 
