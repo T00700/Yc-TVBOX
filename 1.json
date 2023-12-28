@@ -7,18 +7,22 @@
 {"key":"js0_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./libs/drpy2.min.js","ext":"./lib/drpy.js","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"js0_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./libs/lf_search3_min.js"},
 {"key":"csp_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：12/28😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+  
+
 
 {"key":"csp_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"playerType":2},
 {"key":"csp_cct大全","name":"央视大全","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"changeable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;25d9c3d97411a77f12652fde9b88dbc5"},
 {"key":"csp_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"playerType":2,"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 
-{"key":"csp_2000000","name":"广场舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
+{"key":"csp_2000000","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"csp_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"csp_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"playerType":2,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
 
-{"key":"csp_3000000","name":"空中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
+{"key":"csp_3000000","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 {"key":"csp_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
-{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
+//{"key":"csp_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
+{"key":"csp网盘配置","name":"手机“阿里云盘”扫码观看4K影视","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
+
 
 
 
@@ -39,11 +43,10 @@
 {"key":"csp_New6","name":"💫┃新6V┃磁力2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.xb6v.com","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"csp_港口","name":"⚓┃港口┃磁力2K","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
+
 {"key":"csp_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://api.wogg.xyz/$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
 {"key":"csp_视车","name":"🚛┃视车┃网盘4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
 {"key":"csp_Wobg","name":"👴┃表哥┃网盘4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
-
-
 
 {"key":"csp_4KHD","name":"🅰️┃4KHD┃网盘4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":60},
 {"key":"csp_校长","name":"🎓┃校长┃网盘4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
@@ -147,7 +150,6 @@
 {"key":"js0_人人","name":"🚩┃人人┃影视","type":3,"api":"./libs/drpy2.min.js","quickSearch":1,"changeable":1,"playerType":2,"ext":"./js/yyets.js","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":30},
 {"key":"XYQ_乐猪","name":"🐷┃乐猪┃超清","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./XYQHiker/乐猪TV.json","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 
-{"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./XYQHiker/douban.json","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"JustLive","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90"},
 {"key":"新6V","name":"新6V|网盘","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.66ss.org$$$null$$$1","jar":"./jar/pg1227.jar;md5;0870b6ccd06622cf02289cca8454ba90","timeout":60},
