@@ -1,5 +1,5 @@
 {
-"token":"cfcea709cf7c492a8aa4f9fee03ffe40",
+"token":"e456be36911642a690a822275b85db67",
 "open_token":"",
 "thread_limit":32,                                     //這裏是阿里云盤的GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
 "is_vip":true,                                         //是否是阿里云盤的VIP用戶，設置為true后，使用vip_thread_limit設置的數值來并發加速。如本設置項目不是true，則自動隱藏“轉存原畫”
