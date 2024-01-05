@@ -109,17 +109,17 @@
 {"key":"csp_Nmys","name":"🌾┃农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 
 
-{"key":"csp_紙條","name":"📃┃紙條┃阿里4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
-{"key":"csp_七夜","name":"🔍┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
-{"key":"csp_資源","name":"🔍┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json$$$z337898581$$$z123456789","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_紙條","name":"📃┃紙條┃阿里4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/token.txt","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_七夜","name":"🔍┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/token.txt","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_資源","name":"🔍┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/token.txt$$$z337898581$$$z123456789","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 {"key":"csp_大盘","name":"🔍┃大盘┃网盘4K","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://dapanso.com$$$null","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 
 {"key":"csp_盘Ta","name":"🔍┃盘Ta┃网盘4K","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.91panta.cn/$$$null$$$1","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 {"key":"csp_PanS","name":"🔍┃PanS┃网盘4K","type":3,"api":"csp_PanSearch","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
-{"key":"csp_UP云","name":"🔍┃云搜┃阿里4K","type":3,"api":"csp_UpYun","playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
-{"key":"csp_易搜","name":"🔍┃易搜┃阿里4K","type":3,"api":"csp_YiSo","playerType":2,"ext":"./TV/tokenm.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_UP云","name":"🔍┃云搜┃阿里4K","type":3,"api":"csp_UpYun","playerType":2,"ext":"./TV/token.txt","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_易搜","name":"🔍┃易搜┃阿里4K","type":3,"api":"csp_YiSo","playerType":2,"ext":"./TV/token.txt$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 
-{"key":"csp_盘搜","name":"🔍┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
+{"key":"csp_盘搜","name":"🔍┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","playerType":2,"ext":"./TV/token.txt","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 {"key":"csp_夸克","name":"🦶┃夸克┃网盘4K","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 {"key":"csp_团长","name":"💪┃团长┃网盘4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
 {"key":"csp_Funl","name":"✍️┃趣盘┃网盘4K","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0105.jar;md5;82379B5F45E0B7F9D7DFD44FED733F7F","timeout":30},
