@@ -38,7 +38,7 @@
 {"key":"csp_港口","name":"⚓┃港口┃磁力2K","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
 {"key":"csp_Wogg","name":"🎅┃玩偶┃弹幕4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/token.json$$$https://wogg.xyz/|cdn.wogg.xyz$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0107.jar;md5;F565A30B771F9B53E146226BD94A97C1","timeout":30},
-{"key":"csp_视车","name":"🚛┃视车┃弹幕4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"{"token":"./TV/token.txt","cookie":"./TV/quark.txt"},$$$https://www.weixine.net/$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0107.jar;md5;F565A30B771F9B53E146226BD94A97C1","timeout":30},
+{"key":"csp_视车","name":"🚛┃视车┃弹幕4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/token.json$$$https://www.weixine.net/$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0107.jar;md5;F565A30B771F9B53E146226BD94A97C1","timeout":30},
 {"key":"csp_Wobg","name":"👴┃表哥┃弹幕4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/token.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0107.jar;md5;F565A30B771F9B53E146226BD94A97C1","timeout":30},
 {"key":"csp_4KHD","name":"🅰️┃4KHD┃弹幕4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"playerType":2,"ext":"./TV/token.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg0107.jar;md5;F565A30B771F9B53E146226BD94A97C1","timeout":60},
 
