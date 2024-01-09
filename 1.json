@@ -36,6 +36,7 @@
 {"key":"csp_New6","name":"💫┃新6V┃磁力2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"http://www.xb6v.com","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 {"key":"csp_港口","name":"⚓┃港口┃磁力2K","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
+{"key":"csp_玩偶","name":"👲┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/token.json+auto|4k|fhd$$$https://wogg.888484.xyz/$$$弹"},
 {"key":"csp_Wogg","name":"🎅┃玩偶┃弹幕4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wogg.888484.xyz/|104.18.8.226$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0109.jar;md5;669701E99FC5BB8518C3EBAA37EC2D6D","timeout":30},
 {"key":"csp_视车","name":"🚛┃视车┃弹幕4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0109.jar;md5;669701E99FC5BB8518C3EBAA37EC2D6D","timeout":30},
 {"key":"csp_Wobg","name":"👴┃表哥┃弹幕4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./XYQHiker/wogg.json","jar":"./jar/pg0109.jar;md5;669701E99FC5BB8518C3EBAA37EC2D6D","timeout":30},
@@ -168,7 +169,6 @@
 
 
 
-{"key":"csp_玩偶","name":"👲┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/token.json+auto|4k|fhd$$$https://wogg.xyz/$$$弹"},
 {"key":"T40_玩偶","name":"👲┃玩偶┃阿里4K（备T4）","type":4,"api":"http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"97fa226cba5d43d1b8dfcbf04b0952fb"},
 {"key":"XYQ_玩偶","name":"👲┃玩偶┃弟弟4K（备Xy）","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"./XYQHiker/玩偶哥哥.json","jar":"./jar/XYQ1223.jar;md5;694a5575722bb086b6fde7a23a68a1d8"},
 
