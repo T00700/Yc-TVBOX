@@ -120,8 +120,8 @@
 
 {"key":"csp_盘搜","name":"🔍┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","playerType":2,"ext":"./TV/tokenm.json$$$./TV/token.txt","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
 {"key":"csp_夸克","name":"🦶┃夸克┃网盘4K","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$./TV/quark_cookie.txt","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
-{"key":"csp_团长","name":"💪┃团长┃网盘4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
-{"key":"csp_Funl","name":"✍️┃趣盘┃网盘4K","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
+{"key":"csp_团长","name":"💪┃团长┃网盘4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$./TV/quark_cookie.txt$$$null$$$1","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
+{"key":"csp_Funl","name":"✍️┃趣盘┃网盘4K","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$./TV/quark_cookie.txt","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
 
 
 {"key":"csp_千帆","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://pan.qianfan.app$$$null$$$./TV/qianfan.txt","jar":"./jar/pg0111.jar;md5;00D02276598434285B53296E541F5213","timeout":30},
