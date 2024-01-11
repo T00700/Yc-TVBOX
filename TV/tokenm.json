@@ -1,6 +1,7 @@
 {
 "token":"35267923280d4b6fa5f3a1edb547d3a0",                                        //這裏填寫阿里云盤的32位token，也可以不填寫，在播放阿里云盤内容時會彈出窗口，點擊QrCode，用阿里云盤app掃碼
-"open_token":"",                                                                   //這裏填寫通過alist或其他openapi提供方申請的280位aliyun openapi token，也可以不寫，會自動隱藏轉存原畫
+"open_token":"eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5NzMxN2M4NjQ3MDA0ODgzYjA3N2VkYWJiOTczODA1ZCIsImN1c3RvbUpzb24iOiJ7XCJjbGllbnRJZFwiOlwiMjVkelgzdmJZcWt0Vnh5WFwiLFwiZG9tYWluSWRcIjpcImJqMjlcIixcInNjb3BlXCI6W1wiRFJJVkUuQUxMXCIsXCJTSEFSRS5BTExcIixcIkZJTEUuQUxMXCIsXCJVU0VSLkFMTFwiLFwiVklFVy5BTExcIixcIlNUT1JBR0UuQUxMXCIsXCJTVE9SQUdFRklMRS5MSVNUXCIsXCJCQVRDSFwiLFwiT0FVVEguQUxMXCIsXCJJTUFHRS5BTExcIixcIklOVklURS5BTExcIixcIkFDQ09VTlQuQUxMXCIsXCJTWU5DTUFQUElORy5MSVNUXCIsXCJTWU5DTUFQUElORy5ERUxFVEVcIl0sXCJyb2xlXCI6XCJ1c2VyXCIsXCJyZWZcIjpcImh0dHBzOi8vd3d3LmFsaXl1bmRyaXZlLmNvbS9cIixcImRldmljZV9pZFwiOlwiNWFlMmZiYzM1MmUyNDQ0Zjg0ZTk3ODFjYWQ3YTQyYWNcIn0iLCJleHAiOjE3MDQ5NjA5NzYsImlhdCI6MTcwNDk1MzcxNn0.RWrOewgL3Un1afNWWzVnU93rsSz-yJOSKrmLBM5WR54IFbkESvaFZy-8FAviWGaOeB2UZGRbLwNZ_Q9pmHviEORnaYskh3L0ER6ZkULblYL1Xn3nv8z-D3Sz70bKdQ1SeeQIBZL1S36Je2m0dNYdwzu4SnWkQjis_1diVagNf7g",
+//這裏填寫通過alist或其他openapi提供方申請的280位aliyun openapi token，也可以不寫，會自動隱藏轉存原畫
 "thread_limit":32,                                                                 //這裏是阿里云盤的GO代理的并發協程數或java代理的并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
 "is_vip":true,                                                                     //是否是阿里云盤的VIP用戶，設置為true后，使用vip_thread_limit設置的數值來并發加速。如本設置項目不是true，則自動隱藏“轉存原畫”
 "vip_thread_limit":10,                                                             //這裏是阿里云盤的轉存原畫(OpenToken)并發綫程數，若遇到賬號被限制并發數，請將此數值改爲10
