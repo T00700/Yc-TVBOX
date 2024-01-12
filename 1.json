@@ -105,6 +105,7 @@
 {"key":"csp_玩偶","name":"👲┃玩偶┃哥哥4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"playerType":2,"ext":"./TV/tokenm.json+auto|4k|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"csp_ytvi","name":"️┃探探┃影视(CJ)","type":3,"api":"csp_AppYsV2","ext":"http://wvvipcms.lyyytv.cn/api.php/app/","searchable":1,"changeable":1},
 {"key":"csp_影探","name":"┃影探┃影视","type":3,"api":"./libs/drpy2.min.js","ext":"./js/影探.js"},
+{"key":"csp_圣城","name":"🥝┃圣城┃超清","type":3,"api":"./libs/drpy2.min.js","ext":"./js/圣城.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 
 
@@ -153,7 +154,7 @@
 {"key":"csp_Seed","name":"🍉┃Seed┃弹幕2K","type":3,"api":"csp_SeedHub","changeable":1,"timeout":60,"jar":"./jar/pg0112.jar;md5;09E941C7EAEDF03E7C43058F62315F76"},
 {"key":"csp_Bdys","name":"🚖┃哔嘀┃弹幕","type":3,"api":"csp_Bdys01","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.bdys03.com/$$$null$$$1","jar":"./jar/pg0112.jar;md5;09E941C7EAEDF03E7C43058F62315F76"},
 {"key":"csp_快看","name":"👀┃快看┃弹幕","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"jar":"./jar/pg0112.jar;md5;09E941C7EAEDF03E7C43058F62315F76"},
-  
+
 {"key":"Cable","name":"Cable","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"","jar":"./jar/pg0112.jar;md5;09E941C7EAEDF03E7C43058F62315F76"},
 
 
