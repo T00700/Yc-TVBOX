@@ -134,7 +134,7 @@
 
 
 {"key":"csp_PikaSo","name":"┃皮卡┃搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.pikaso.top/|104.17.43.243$$$null","jar":"./jar/pg0112.jar;md5;09E941C7EAEDF03E7C43058F62315F76","timeout":30},
-
+{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"timeout":60,"ext":"./TV/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 
 
 
