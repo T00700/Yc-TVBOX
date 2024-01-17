@@ -3,9 +3,9 @@
 "wallpaper":"https://bing.img.run/rand.php",
 "lives":[{"name":"live","type":0,"url":"./zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"js00_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：1/15😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"js00_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/15😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
-{"key":"饭佬_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：1/15😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js00_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：1/17😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"js00_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/17😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
+{"key":"饭佬_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：1/17😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"PGon_000000","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559"},
 
 
@@ -21,7 +21,6 @@
 //{"key":"饭佬_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"playerType":2,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 //{"key":"巧记_看看","name":"🙉┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
-{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./TV/tokenm.json$$$./lib/alishare.txt$$$./lib/alishare.db.txt.gz","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559"},
 
 {"key":"巧记_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","playerType":1,"ext":"http://op.ysdqjs.cn","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_巧技","name":"㊗️┃巧技┃秒播","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
@@ -136,7 +135,7 @@
 {"key":"PGon_盘Ta","name":"🥉┃盘Ta┃移动4K","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"playerType":2,"ext":"./TV/tokenm.json$$$https://www.91panta.cn/|47.57.235.24$$$null$$$1","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559","timeout":30},
 {"key":"PGon_資源","name":"🥇┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"./TV/tokenm.json$$$z337898581$$$z123456789","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559","timeout":30},
 
-
+{"key":"AliShare","name":"阿里云盘分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./TV/tokenm.json$$$./lib/alishare.txt$$$./lib/alishare.db.txt.gz","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559"},
 {"key":"PGon_Pika","name":"┃皮卡┃搜|网盘","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.pikaso.top/|154.9.253.152$$$null","jar":"./jar/pg0117.jar;md5;b9af974ea9f903c4e7943f1de1802559","timeout":30},
 {"key":"PGon_PikP","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"timeout":60,"ext":"./TV/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"},
 
