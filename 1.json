@@ -9,7 +9,7 @@
 {"key":"PGon_000000","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV/tokenm.json","jar":"./jar/pg0117.jar;md5;c99d099dbd863e665386647e6b13c96a"},
 
 
-{"key":"饭佬_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,},
+{"key":"饭佬_1000000","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1},
 {"key":"csp0_cct大全","name":"CCTV回看","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"changeable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;c99d099dbd863e665386647e6b13c96a"},
 {"key":"PGon_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"jar":"./jar/pg0117.jar;md5;c99d099dbd863e665386647e6b13c96a"},
 {"key":"饭佬_2000000","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
