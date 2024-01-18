@@ -5,7 +5,7 @@
 "sites":[
 {"key":"饭佬_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"豆瓣_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"悟空_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
+{"key":"悟空_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/19😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"PGon_0000000","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 
 
@@ -122,7 +122,7 @@
 {"key":"PGon_豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"ext":"./lib/douban.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 {"key":"PGon_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 
-{"key":"PGon_紙條","name":"📃┃紙條┃阿里4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
+{"key":"PGon_紙條","name":"📃┃紙條┃阿里4K","type":3,"api":"csp_XiaoZhiTiao","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_混合","name":"🥇┃混合┃阿里4K","type":3,"api":"csp_HunHePan","ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_千帆","name":"🥇┃千帆┃阿里4K","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$https://pan.qianfan.app$$$null$$$./TV/qianfan.txt","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_七夜","name":"🥇┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
