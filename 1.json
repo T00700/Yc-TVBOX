@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan0117.jar;md5;65f40573df4dd7d536c55c977f8a1440",
+"spider":"./jar/fan0118.jar;md5;eea132982ffc884d7a39295f06a5141c",
 "wallpaper":"https://bing.img.run/rand.php",
 "lives":[{"name":"live","type":0,"url":"./zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
