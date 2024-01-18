@@ -22,9 +22,9 @@
 //{"key":"巧记_看看","name":"🙉┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 
 
-{"key":"PGon_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.txt$$$https://www.wogg.xyz/|104.17.43.243$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
-{"key":"PGon_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.txt$$$https://www.weixine.net/|103.108.66.196$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
-{"key":"PGon_Wobg","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$https://wobge.run.goorm.io|13.124.244.146$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
+{"key":"PGon_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json$$$https://www.wogg.xyz/|104.17.43.243$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
+{"key":"PGon_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json$$$https://www.weixine.net/|103.108.66.196$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
+{"key":"PGon_Wobg","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json$$$https://wobge.run.goorm.io|13.124.244.146$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_校长","name":"🎓┃校长┃阿里4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$null$$$1","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 
 {"key":"巧记_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
@@ -49,7 +49,7 @@
 
 {"key":"PGon_影巢","name":"🎥┃影巢┃阿里4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$null$$$1","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_皮皮","name":"🦐┃皮皮┃阿里4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
-{"key":"PGon_Gitc","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
+{"key":"PGon_Gitc","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_Jian","name":"💿┃荐片┃磁力2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 
 {"key":"香佬_蚂蚁","name":"🐜┃蚂蚁┃磁力4K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/蚂蚁4K.json","jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
@@ -57,7 +57,7 @@
 {"key":"香佬_Seed","name":"🍉┃Seed┃磁力2K","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 {"key":"香佬_New6","name":"💫┃新6V┃磁力2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com","jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 
-{"key":"饭佬_WoGG","name":"👲┃玩偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"饭佬_WoGG","name":"👲┃玩偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"PGon_lei8","name":"⚡┃迅雷┃磁力2K","type":3,"api":"csp_Xunlei8","searchable":1,"changeable":1,"jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2","timeout":30},
 {"key":"PGon_BLSG","name":"☂️┃BLSG┃磁力2K","type":3,"api":"csp_BLSGod","changeable":1,"timeout":30,"jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 {"key":"PGon_Seed","name":"🍉┃Seed┃磁力2K","type":3,"api":"csp_SeedHub","changeable":1,"timeout":30,"jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
