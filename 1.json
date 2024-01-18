@@ -99,7 +99,6 @@
 {"key":"饭佬_奥特","name":"⛲┃奥特┃超清","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/"},
 {"key":"饭佬_在线","name":"👒┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/"},
-{"key":"饭佬_圣城","name":"🥝┃圣城┃超清","type":3,"api":"./lib/drpy2.min.js","ext":"./js/圣城.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
@@ -130,6 +129,7 @@
 {"key":"PGon_YunP","name":"🥇┃云盘┃资源4K","type":3,"api":"csp_YunPanOne","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV.tokenm.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_Pan9","name":"🥇┃盘99┃阿里4K","type":3,"api":"csp_Pan99","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV.tokenm.json$$$https://pan99.xyz$$$null$$$1","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_資源","name":"🥇┃資源┃阿里4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"./TV.tokenm.json$$$z337898581$$$z123456789","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
+
 {"key":"PGon_4KHD","name":"🥈┃4KHD┃夸克4K","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./TV.tokenm.json$$$./TV/4khdr.txt$$$1","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_夸克","name":"🥈┃夸克┃网盘4K","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV.tokenm.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_团长","name":"🥈┃团长┃夸克4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV.tokenm.json$$$null$$$1","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
