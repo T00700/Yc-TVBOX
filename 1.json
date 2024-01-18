@@ -5,7 +5,7 @@
 "sites":[
 {"key":"饭佬_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"豆瓣_9999999","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"悟空_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/19😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
+{"key":"悟空_1234567","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：1/18😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"PGon_0000000","name":"4K电影配置页","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./TV.tokenm.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca"},
 
 
@@ -42,9 +42,9 @@
 {"key":"香佬_Bdys","name":"🚖┃哔嘀┃秒播2K","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 {"key":"香佬_迅雷","name":"⚡┃迅雷┃磁力2K","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 
-{"key":"PGon_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"https://pan.shangui.cc/f/VQj8U8/token.txt$$$https://www.wogg.xyz/|104.17.43.243$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
+{"key":"PGon_Wogg","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://pan.shangui.cc/f/VQj8U8/token.txt$$$https://www.wogg.xyz/|104.17.43.243$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"https://pan.shangui.cc/f/VQj8U8/token.txt$$$https://www.weixine.net/|103.108.66.196$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
-{"key":"PGon_Wobg","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$https://wobge.run.goorm.io|13.124.244.146$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
+{"key":"PGon_Wobg","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"http://pan.shangui.cc/f/pQvPSL/tokenm.json$$$https://wobge.run.goorm.io|13.124.244.146$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 
 {"key":"PGon_校长","name":"🎓┃校长┃阿里4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$null$$$1","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
 {"key":"PGon_影巢","name":"🎥┃影巢┃阿里4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV.tokenm.json$$$null$$$1","jar":"./jar/pg0118.jar;md5;85cb44f3caefc47f7304fe5d24ccaeca","timeout":30},
