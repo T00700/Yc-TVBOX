@@ -45,6 +45,6 @@
 "aliproxy":"",
 "aliproxy_url":"",
 "proxy":"",
-"open_api_url":"",
+"open_api_url":"https://api.xhofe.top/alist/ali_open/token",
 "danmu":true
 }
