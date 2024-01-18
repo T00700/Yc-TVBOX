@@ -1,6 +1,6 @@
 {
 "token":"35267923280d4b6fa5f3a1edb547d3a0",
-"open_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiI5NzMxN2M4NjQ3MDA0ODgzYjA3N2VkYWJiOTczODA1ZCIsImF1ZCI6Ijc2OTE3Y2NjY2Q0NDQxYzM5NDU3YTA0ZjYwODRmYjJmIiwiZXhwIjoxNzEzMjM1NTM0LCJpYXQiOjE3MDU0NTk1MzQsImp0aSI6IjRmOTcwMWJmODRlMTRmODFhNDg2MzU3NmUxNGJlZGFlIn0.S5GP1dhNdGBJGHuCycMfWspbipJWf6_6F_6ZiPjLf31cOg4briJDVOjT0U3iCTzHM1UURLgL-9HE_46wHepy0w",
+"open_token":"",
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":0,
@@ -45,6 +45,6 @@
 "aliproxy":"",
 "aliproxy_url":"",
 "proxy":"",
-"open_api_url":"https://api.xhofe.top/alist/ali_open/",
+"open_api_url":"",
 "danmu":true
 }
