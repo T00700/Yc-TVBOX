@@ -111,8 +111,8 @@
 {"key":"饭佬_Nmys","name":"🌾┃农民┃超清","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
 
 
-{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$./lib/thundershare.txt"},
-{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$./lib/quarkshare.txt"},
+{"key":"ThunderShare","name":"迅雷云盘分享","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$./lib/thundershare.txt","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
+{"key":"QuarkShare","name":"夸克云盘分享","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$./lib/quarkshare.txt","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 {"key":"PGon_AliS","name":"🥇┃阿里┃分享4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":30,"ext":"https://pan.shangui.cc/f/pQvPSL/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg0118.jar;md5;0311e7d36f30655bfb6e2e33118e69c2"},
 
 
