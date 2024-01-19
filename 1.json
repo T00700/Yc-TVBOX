@@ -110,6 +110,7 @@
 {"key":"js00_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
 {"key":"js00_阿布","name":"🙅┃阿布┃超清","type":3,"api":"./lib/drpy2.min.js","searchable":1,"ext":"./js/阿布影院.js"},
 {"key":"饭佬_Nmys","name":"🌾┃农民┃超清","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fanty.run.goorm.site/ext/nmys.json"},
+{"key":"csp_appys_影探","name":"影探四K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vpp.lyyytv.cn/api.php/app/"},
 
 
 {"key":"PGon_AliS","name":"🥇┃阿里┃分享4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":30,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg0118.jar;md5;700a6e117c244c8fd6165fb0de869307"},
