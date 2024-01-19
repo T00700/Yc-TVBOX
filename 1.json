@@ -57,7 +57,7 @@
 {"key":"香佬_Seed","name":"🍉┃Seed┃磁力2K","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 {"key":"香佬_New6","name":"💫┃新6V┃磁力2K","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com","jar":"./jar/XYQ0115.jar;md5;8AD8655497F68798486068D6360C4142"},
 
-{"key":"饭佬_WoGG","name":"👲┃玩偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.json+4k|auto|fhd$$$https://www.wogg.link/$$$弹"},
+{"key":"饭佬_WoGG","name":"👲┃玩偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://aqnjqlzo.shenzhuo.vip:11749/Yc/TV/token.txt+4k|auto|fhd$$$https://www.wogg.link/$$$弹"},
 {"key":"PGon_lei8","name":"⚡┃迅雷┃磁力2K","type":3,"api":"csp_Xunlei8","searchable":1,"changeable":1,"jar":"./jar/pg0118.jar;md5;700a6e117c244c8fd6165fb0de869307","timeout":30},
 {"key":"PGon_BLSG","name":"☂️┃BLSG┃磁力2K","type":3,"api":"csp_BLSGod","changeable":1,"timeout":30,"jar":"./jar/pg0118.jar;md5;700a6e117c244c8fd6165fb0de869307"},
 {"key":"PGon_Seed","name":"🍉┃Seed┃磁力2K","type":3,"api":"csp_SeedHub","changeable":1,"timeout":30,"jar":"./jar/pg0118.jar;md5;700a6e117c244c8fd6165fb0de869307"},
