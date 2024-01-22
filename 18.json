@@ -7,12 +7,11 @@
 ],
 
 "sites":[
-{"key":"非凡","name":"🍒非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖(直连)","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"categories":["伦理"]},
+{"key":"非凡","name":"🍒非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"csp_CandyMuj_lm5","name":"💖星辰影院(直连)","type":3,"api":"csp_CandyMuj_lm5","searchable":1,"quickSearch":1,"filterable":0,"categories":["伦理","野花"]},
 {"key":"csp_AList","name":"💕AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":{"drives":[{"name":"罗汉果","server":"https://lala-ofbip.run.goorm.site/"}]}},
 //FongMi
-{"key":"非凡","name":"🍒非凡(直连)","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
 {"key":"cjmygzy.com","name":"🍒成人02(直连)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"filterable":1},
 //{"key":"jcspcj8.com","name":"🍒成人04(直连)","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"filterable":1},
 {"key":"bttcj.com","name":"🍒成人05(直连)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
