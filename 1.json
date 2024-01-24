@@ -15,15 +15,14 @@
 {"key":"饭佬_2000000","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 
 {"key":"0000_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":"./XYQHiker/kugou.json","jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
-{"key":"PGon_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2","timeout":30},
+{"key":"0000_000小雅","name":"小雅网盘","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"./XYQHiker/xiaoya.json","style":{"type":"list"},"jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
 {"key":"饭佬_3000000","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 {"key":"饭佬_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"饭佬_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 //{"key":"巧记_看看","name":"🙉┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 //{"key":"PGon_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
+//{"key":"PGon_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2","timeout":30},
 
-{"key":"AList111","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./XYQHiker/alistjar.json","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
-{"key":"AList112","name":"网盘|雅雅","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"./XYQHiker/xiaoya.json","style":{"type":"list"},"jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
 
 {"key":"PGon_九六","name":"🎀┃九六┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cs1369.com$$$null$$$1","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
 {"key":"PGon_天天","name":"☀️┃天一┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
