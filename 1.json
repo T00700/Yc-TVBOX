@@ -22,8 +22,6 @@
 //{"key":"巧记_看看","name":"🙉┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix1128.jar;md5;54533ae83bcd500b92880651bd4abd17"},
 //{"key":"PGon_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
 
-{"key":"AList","name":"网盘|Alist[jar]","type":3,"api":"csp_AList","searchable":1,"filterable":1,"changeable":1,"ext":"./XYQHiker/alistjar.json","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
-{"key":"AList","name":"网盘|雅雅","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/json/xiaoya.json","style":{"type":"list"},"jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
 
 {"key":"PGon_九六","name":"🎀┃九六┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cs1369.com$$$null$$$1","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
 {"key":"PGon_天天","name":"☀️┃天一┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
