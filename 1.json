@@ -15,7 +15,7 @@
 {"key":"饭佬_2000000","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 
 {"key":"0000_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":"./XYQHiker/kugou.json","jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
-{"key":"0000_000小雅","name":"小雅网盘","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"./XYQHiker/xiaoya.json","style":{"type":"list"},"jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
+{"key":"0000_000小雅","name":"小雅网盘","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"ext":"https://d.kstore.space/download/6474/tvbox/json/xiaoya.json","style":{"type":"list"},"jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
 {"key":"饭佬_3000000","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 {"key":"饭佬_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"饭佬_4000000","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
