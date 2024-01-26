@@ -30,7 +30,7 @@
 
 {"key":"巧记_技二","name":"㊗️┃巧记┃秒播","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_天天","name":"☀️┃天一┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
-{"key":"巧记_超神","name":"🦸‍♂️┃超神┃秒播","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
+{"key":"巧记_超神","name":"🤴┃超神┃秒播","type":3,"api":"csp_qiao","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_港剧","name":"🗻┃港一┃秒播","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","jar":"./jar/XBPQ.jar;md5;c253e1930a210fa5141e5418f1f90949"},
