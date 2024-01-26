@@ -1,6 +1,6 @@
 {
-"token":"https://pan.shangui.cc/f/VQj8U8/token.txt",
-"open_token":"https://pan.shangui.cc/f/xxj7FZ/open_token.txt",
+"token":"http://pan.shangui.cc/f/VQj8U8/token.txt",
+"open_token":"http://pan.shangui.cc/f/xxj7FZ/open_token.txt",
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":32,
