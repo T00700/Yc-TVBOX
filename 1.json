@@ -23,6 +23,18 @@
 //{"key":"PGon_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
 //{"key":"PGon_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2","timeout":30},
 
+{"key":"壹梦_熊掌","name":"熊掌┃秒播","type":1,"api":"https://xzcjz.com/api.php/provide/vod"},
+{"key":"壹梦_星辰","name":"星辰┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/xcys.json"},
+{"key":"壹梦_九八","name":"九八┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/98.json"},
+{"key":"壹梦_奈飞","name":"奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/nfzw.json"},
+
+{"key":"壹梦_盒子","name":"盒子┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/hezi.json"},
+{"key":"壹梦_不卡","name":"不卡┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/zhenbuka.json"},
+{"key":"壹梦_七年","name":"七年┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://atomgit.com/yimeng/ym/raw/master/qinian.json"},
+{"key":"壹梦_圣城","name":"圣城┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/sc1080.json"},
+
+{"key":"壹梦_Vofl","name":"Vofl┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/voflix.json"},
+
 
 {"key":"巧记_技二","name":"㊗️┃巧记┃秒播","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_天天","name":"☀️┃天一┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
