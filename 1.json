@@ -23,7 +23,9 @@
 //{"key":"PGon_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2"},
 //{"key":"PGon_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0124.jar;md5;f75f0ff9fddf796218f5282c161ad3a2","timeout":30},
 
-
+{"key":"巧技四","name":"巧技四┃App","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
+{"key":"巧技三","name":"巧技三┃App","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
+{"key":"巧技五","name":"巧技五┃App","type":3,"api":"csp_qiao2","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 
 {"key":"巧记_天天","name":"☀️┃天二┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_技二","name":"㊗️┃巧二┃秒播","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
