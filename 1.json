@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fan0129.jar;md5;6695b4fe705a1eedcae352abe5412640",
-"wallpaper":"https://bing.img.run/rand.php",
+"wallpaper":"http://www.饭太硬.top/深色壁纸/api.php",
 "lives":[{"name":"live","type":0,"url":"./zhibo.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
 {"key":"饭佬_0000000","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：1/29😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
