@@ -14,7 +14,7 @@
 {"key":"PGon_000短剧","name":"热播短剧","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
 {"key":"饭佬_2000000","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 
-{"key":"0000_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":"./XYQHiker/kugou.json","jar":"./jar/YSZYZ0124.jar;md5;e4f1ba4b12948b32aa110b46e2b91643"},
+{"key":"影视_000酷狗","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":"./XYQHiker/kugou.json","jar":"./jar/YSZYZ0130.jar;md5;25ac0971f5fea2a0aba8243f4cacb379"},
 {"key":"饭佬_3000000","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-学习.json"},
 {"key":"饭佬_5000000","name":"全国戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 {"key":"PGon_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74"},
@@ -44,6 +44,11 @@
 {"key":"香佬_迅雷","name":"⚡┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"香佬_荐片","name":"📀┃荐片┃磁力","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"js00_港口","name":"⚓┃港口┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
+
+{"key":"壹梦_影视","name":"👼┃壹梦┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/壹梦影视.json","jar":"./jar/ttkx0126.jar;md5;beb8825aa2f166dd2a127fc21ddf285b"},
+{"key":"影视_皮皮","name":"🦐┃皮皮┃秒播","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://aikun.tv","jar":"./jar/YSZYZ0130.jar;md5;25ac0971f5fea2a0aba8243f4cacb379"},
+{"key":"影视_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://v.nmvod.cn","jar":"./jar/YSZYZ0130.jar;md5;25ac0971f5fea2a0aba8243f4cacb379"},
+{"key":"影视_九九","name":"🥂┃九九┃秒播","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"./jar/YSZYZ0130.jar;md5;25ac0971f5fea2a0aba8243f4cacb379"},
 
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
