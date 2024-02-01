@@ -104,7 +104,7 @@
 {"key":"饭佬_九九","name":"🎀┃九九┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"js00_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"js00_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
-{"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://wogg.888484.xyz/$$$弹","jar":"./jar/fan0122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5"},
+{"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./jar/fan0122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5"},
 
 
 
@@ -122,7 +122,7 @@
 {"key":"香佬_极影","name":"💥┃极影┃磁力2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/极影网.json","jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 
 
-{"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://wogg.888484.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74","timeout":30},
+{"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74","timeout":30},
 {"key":"屁股_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74","timeout":30},
 {"key":"屁股_表哥","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74","timeout":30},
 {"key":"屁股_纸条","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./TV/tokenm.json","jar":"./jar/pg0127.jar;md5;58fc87042d81c94a11056d7b481d4c74","timeout":30},
