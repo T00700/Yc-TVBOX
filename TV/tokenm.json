@@ -46,7 +46,8 @@
 "aliproxy":"",
 "aliproxy_url":"",
 "proxy":"",
-"open_api_url":"https://api.xhofe.top/alist/ali_open/token",
+"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",
+//"open_api_url":"https://api.xhofe.top/alist/ali_open/token",原版
 //"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",备用
 "danmu":true
 }
