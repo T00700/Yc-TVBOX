@@ -1,9 +1,5 @@
 [
-  {
-    "share_name": "优品阁",
-    "share_id": "uWa9gbM3RJ7",
-    "search": "false"
-  },
+
   {
     "share_name": "玩偶哥哥一号",
     "share_id": "FkXPgsUP76F"
@@ -15,6 +11,11 @@
   {
     "share_name": "全球分享",
     "share_id": "53wnUaTUWN8"
+  },
+  {
+    "share_name": "优品阁",
+    "share_id": "uWa9gbM3RJ7",
+    "search": "false"
   },
   {
     "share_name": "平凡中的",
