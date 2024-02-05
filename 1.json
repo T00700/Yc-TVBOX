@@ -95,6 +95,7 @@
 {"key":"csp0_卧龙","name":"☁️┃卧龙┃云播","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
 {"key":"csp0_红牛","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
 
+{"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./jar/fan0122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5"},
 {"key":"饭佬_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
@@ -107,7 +108,6 @@
 {"key":"饭佬_九九","name":"🎀┃九九┃秒播","type":3,"api":"csp_Cs1369","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"js00_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"js00_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
-{"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar":"./jar/fan0122.jar;md5;c309b0f793045f88f75aa088cd0cc7b5"},
 
 
 
