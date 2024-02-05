@@ -33,8 +33,6 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 
-{"key":"玩我哥哥","name":"玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩我哥哥.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
-{"key":"玩我11","name":"玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩我哥哥.json","jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 
   
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
