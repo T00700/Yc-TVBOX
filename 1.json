@@ -34,7 +34,6 @@
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 
 {"key":"玩我哥哥","name":"玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩我哥哥.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
-{"key":"Wobg1","name":"土豆网盘","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./TV/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
 {"key":"玩我11","name":"玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/玩我哥哥.json","jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 
   
@@ -131,11 +130,12 @@
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 {"key":"屁股_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 {"key":"屁股_表哥","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
-{"key":"屁股_纸条","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./TV/tokenm.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
+{"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4""timeout":30,},
 
 {"key":"屁股_校长","name":"🎓┃校长┃阿里4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://xzys.fun$$$null$$$1","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 {"key":"屁股_影巢","name":"🎥┃影巢┃阿里4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$null$$$1","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 {"key":"屁股_皮皮","name":"🦐┃皮皮┃阿里4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://ppxzy.net/$$$null$$$1","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
+{"key":"屁股_纸条","name":"📜┃纸条┃阿里4K","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"./TV/tokenm.json","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 {"key":"屁股_荐片","name":"💿┃荐片┃磁力2K","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4","timeout":30},
 
 {"key":"屁股_书籍","name":"🥇┃阿里┃书籍","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"./TV/tokenm.json$$$./lib/alishare.ebook.txt","jar":"./jar/pg0204.jar;md5;a4641d44614be4500b314841116b55a4"},
