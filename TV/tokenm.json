@@ -8,6 +8,7 @@
 //"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",备用
 "open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",
 "danmu":true,
+
 	
 "quark_thread_limit":32,
 "quark_is_vip":false,
