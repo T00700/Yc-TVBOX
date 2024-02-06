@@ -1,12 +1,11 @@
 {
 "token":"http://pan.shangui.cc/f/VQj8U8/token.txt",
 "open_token":"",
+"open_api_url":"https://adrive.xdow.net/oauth/access_token",     //"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":0,
-"vod_flags":"4kz|4k|auto",
-//"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",备用
-"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",
+"vod_flags":"4k|4kz|auto",
 "danmu":true,
 
 	
