@@ -1,7 +1,7 @@
 {
 "token":"http://pan.shangui.cc/f/VQj8U8/token.txt",
 "open_token":"",
-"open_api_url":"https://adrive.xdow.net/oauth/access_token",     //"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
+"open_api_url":"get|https://adrive.xdow.net/oauth/access_token",     //"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
 "thread_limit":32,
 "is_vip":true,
 "vip_thread_limit":0,
