@@ -1,11 +1,12 @@
 {
-"spider":"./jar/fan0205.jar;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+"spider":"./jar/fan0209.jar;md5;1f399f48364375f6687cb69873482cc6",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
+{"name":"本地直播","type":0,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"微笑直播","type":"0","pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"中央直播","type":0,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"./央视频嗅探.m3u","boot":false,"timeout":20},
-{"name":"俊佬直播","type":"0","pass":true,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"本地直播","type":0,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+{"name":"俊佬直播","type":"0","pass":true,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+],
 "sites":[
 {"key":"悟空_悟空搜索","name":"ㅤㅤ新年快乐ㅤㅤㅤ祝你龙行龘龘，前程朤朤，生活䲜䲜！","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：2/07😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
