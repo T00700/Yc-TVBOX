@@ -46,7 +46,7 @@
 {"key":"饭佬_率率","name":"🌸┃率率┃秒播","type":3,"api":"csp_AppLd","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ=="},
 
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
-//{"key":"巧记_港剧","name":"🗻┃港二┃秒播","type":3,"api":"csp_Skapp","ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
+{"key":"巧记_港剧","name":"🗻┃港二┃秒播","type":3,"api":"csp_Skapp","ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_看看","name":"🙉┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 
