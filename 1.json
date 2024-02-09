@@ -41,8 +41,8 @@
 "api":"csp_XBPQ",
 "ext":{
 "分类url":"https://sc1080.top//show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
-  "分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"}},
-
+"分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14","筛选":"1"},
+"jar":"https://123.155123.xyz/Yoursmile.jar"},
 
 
 {"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0208.jar;md5;cb67fdc8cc37d49e41bf87be9a1e3201"},
@@ -223,7 +223,7 @@
 {"key":"道长_可乐","name":"🍾┃可乐┃超清（备Js）","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./js/cokemv.js"},
 
 
-{"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0205.jar"},
+{"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_电影","name":"🍄┃电影┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"},
 {"key":"饭佬_小柚","name":"🍊┃小柚┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"饭佬_影探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"./lib/drpy.min.js","ext":"./js/影探.js"},
