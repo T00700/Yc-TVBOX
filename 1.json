@@ -33,6 +33,18 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0208.jar;md5;cb67fdc8cc37d49e41bf87be9a1e3201"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0208.jar;md5;cb67fdc8cc37d49e41bf87be9a1e3201","timeout":30},
 
+{
+"key":"圣城",
+"name":"圣城|影视",
+"type":3,
+"filterable":1,
+"api":"csp_XBPQ",
+"ext":{
+"分类url":"https://sc1080.top//show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+"分类":"电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+"筛选":"1"
+},
+
 
 
 {"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0208.jar;md5;cb67fdc8cc37d49e41bf87be9a1e3201"},
