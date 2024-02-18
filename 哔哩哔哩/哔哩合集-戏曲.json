@@ -2,6 +2,10 @@
   "cookie":"SESSDATA=d811bcfa%2C1707272909%2C46d7f%2A82yQ-tlZ9ukV7pIdh5tfSESi4NM50xJj9MCzR6AyjuGzwD62Xyc7Fljuqy6ft4rK9Iymc2RgAAVgA;bili_jct=22326e9fa3cbfccaa59f8da84d7d1b8d;DedeUserID=40836986;DedeUserID__ckMd5=6a2a8e23f8042d4a",
     "classes": [
         {
+            "type_name": "相声小品",
+            "type_id": "相声小品"
+        },
+        {
             "type_name": "戏曲",
             "type_id": "戏曲4K"
         },
@@ -29,10 +33,7 @@
             "type_name": "演唱会",
             "type_id": "演唱会4K"
         },
-        {
-            "type_name": "相声小品",
-            "type_id": "相声小品"
-        },
+
         {
             "type_name": "MV",
             "type_id": "MV4K"
