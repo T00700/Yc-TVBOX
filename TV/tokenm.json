@@ -24,7 +24,7 @@
 "uc_is_vip":false,
 "uc_vip_thread_limit":0,
 "uc_flags":"4kz|auto",
-"uc_cookie":"_UP_28A_52_=381; _UP_A4A_11_=wb9611f272764e12a6ecde8762c0bd54; _UP_D_=pc; __pus=fdec9ca70fb8e593dd441c22a0cd395cAAQ1nxPlHxDw0/sCrZlIohXPQz7pYY+oymkY8g7YqzVwBmKnYVHazMWYrKuQWo7xAUzMrQEf7jj8f2JtZAwVsdE+; __kp=368071a0-b4e2-11ee-9bcd-d59f1d618db4; __kps=AAQhohjLsXsJCvwn/v6ykJhY; __ktd=LNyvdc4e+UEhmTW8Z8fLIw==; __uid=AAQhohjLsXsJCvwn/v6ykJhY; __puus=023eaa75776c98819ae00180506582dfAATdFkPGsqhz54hRjSOBsQPY67XnA2tlE//tPVqK6dP40rz/219WHpvnsBVN263LWssYp+fkOKR2V6879oeJrQJ6lnFvnECfiy7L1KlFO8Z8hQQ0dRYh+AzzTN6EgiHV4FO76p/p1kOKONfQr13S6Tp2JqyHA9itdAZ8y0o+onl6/lBc2CHuJAfAhZexWMOsa58=",
+"uc_cookie":"",
 	
 "thunder_thread_limit":2,
 "thunder_is_vip":false,
@@ -34,7 +34,7 @@
 "thunder_password":"Zz57115160",
 "thunder_captchatoken":"",
 
-"yd_auth":"cGM6MTgwNTIwMDA0MjY6ajV2QkY5bm58MXxSQ1N8MTcwODA1MTU4NTMzOHxScXN4UzBtS1BxVVlrX0FXMVVOeFdDQ0NHNVcuMWdXV1JwYU5zREdIMlpwc2x2eW9mNUdyZnFlMFNxUjJZMWJmTElpOHZHRXRsdzc3ZC5DWlVIb2RPcHFaWl9ISlExQmEya0Z1eWFrYkc1dnFRTTR5WDh3MnI3MGdqal96OExjZURBNlJySFdDakcwaGJ3eU85WnZGY2ZhSWh1bDNsMzRJVmRxODRNMzZwLjgt",
+"yd_auth":"",
 "yd_thread_limit":4,
 "yd_flags":"4kz|auto",
 "yd_danmu":true,
