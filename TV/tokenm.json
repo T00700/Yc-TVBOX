@@ -1,5 +1,5 @@
 {
-"token":"http://pan.shangui.cc/f/VQj8U8/token.txt",
+"token":"",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",     //"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
 "oauth_client_id":"",
