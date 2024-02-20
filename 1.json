@@ -22,10 +22,10 @@
 {"key":"饭佬_广场舞舞","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"饭佬_短剧在线","name":"短剧一线","type":3,"api":"csp_Duanju","searchable":0,"quickSearch":1,"changeable":1,"ext":"https://duanju.one"},
 {"key":"屁股_短剧二线","name":"短剧二线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"jar":"./jar/pg0217.jar;md5;2439bccf8b413976b3176f9a0aa8262e"},
-{"key":"影视_短剧三线","name":"短剧三线","type":3,"api":"csp_App","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0131.jar;md5;174a3fadad78ab72cb6aa0830053c219"},
+{"key":"影视_短剧三线","name":"短剧三线","type":3,"api":"csp_App","searchable":0,"quickSearch":1,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0220.jar;md5;a378a2ef6e0fd147b0ed3f426a20785f"},
 
-{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"ext":"./XYQHiker/kugou.json","jar":"./jar/YSZYZ0131.jar;md5;174a3fadad78ab72cb6aa0830053c219"},
-{"key":"影视_听书小说","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0131.jar;md5;174a3fadad78ab72cb6aa0830053c219"},
+{"key":"影视_爱听音乐","name":"爱听音乐","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0220.jar;md5;a378a2ef6e0fd147b0ed3f426a20785f"},
+{"key":"影视_听书小说","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0220.jar;md5;a378a2ef6e0fd147b0ed3f426a20785f"},
 {"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 {"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
@@ -49,7 +49,7 @@
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_港剧","name":"🗻┃港二┃秒播","type":3,"api":"csp_Skapp","ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
-{"key":"影视_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://v.nmvod.cn","jar":"./jar/YSZYZ0131.jar;md5;174a3fadad78ab72cb6aa0830053c219"},
+{"key":"影视_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://v.nmvod.cn","jar":"./jar/YSZYZ0220.jar;md5;a378a2ef6e0fd147b0ed3f426a20785f"},
 
 {"key":"香佬_Mp4k","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"香佬_迅雷","name":"⚡┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
@@ -113,7 +113,7 @@
 
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-  
+
 
 
 
