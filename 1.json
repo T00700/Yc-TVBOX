@@ -113,7 +113,7 @@
 
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"bulei","name":"布蕾Tv","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://tv.bl4k.xyz/api.php/app/"},
+  
 
 
 
