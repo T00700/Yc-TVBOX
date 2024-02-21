@@ -54,7 +54,7 @@
 
 {"key":"壹梦_哔嘀","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 {"key":"壹梦_低端","name":"⏮️┃低端┃秒播","type":3,"api":"https://atomgit.com/yimeng/tt/raw/master/apiv43drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/ddys.js"},
-{"key":"壹梦_视频","name":"🎥┃视频┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/Vidhub.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
+{"key":"壹梦_九八","name":"🎥┃九八┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/98.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 {"key":"壹梦_圣城","name":"🏛️┃圣城┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/sc1080.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 
 {"key":"香佬_Mp4k","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
