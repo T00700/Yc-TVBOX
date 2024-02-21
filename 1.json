@@ -66,7 +66,7 @@
 
 {"key":"业余_泰泰","name":"🍀┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"业余_采集","name":"🥃┃自营┃秒播","type":1,"api":"http://ys.540734621.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧","电影","电视剧","动漫","综艺","记录片","体育"]},
-{"key":"Yingtantv","name":"影探┃TV┃App","type":3,"api":"csp_Yingtantv","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/yt0221.jar;md5;4527a433686a7544172a1d48588114fe"},
+{"key":"Yingtantv","name":"🕵️‍♂️┃影探┃秒播","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"./jar/yt0221.jar;md5;4527a433686a7544172a1d48588114fe"},
   
 {"key":"道长_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./js/农民影视.js"},
 {"key":"香佬_哔嘀","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
