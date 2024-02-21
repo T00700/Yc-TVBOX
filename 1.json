@@ -52,6 +52,19 @@
 {"key":"乐乐","name":"🎡️┃乐乐┃影视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"FreeOK","name":"️️👌┃Fre┃影视","type":3,"api":"csp_Freeok","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"开心影视","name":"壹梦影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/壹梦影视.json"},
+{"key":"开心HK影视","name":"壹梦HK影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/壹梦HK影视.json"},
+{"key":"酷茶影视","name":"酷茶┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/kucha.json"},
+{"key":"csp_星辰","name":"星辰┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/xcys.json"},
+{"key":"Vidhub视频","name":"视频库","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/Vidhub.json"},
+{"key":"圣城影视","name":"圣城┃2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/sc1080.json"},
+
+{"key":"csp_xml_爱坤","name":"爱坤┃2K","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://www.ikdmjx.com/?url=","categories":["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
+{"key":"低端影视","name":"低端┃秒播","type":3,"api":"https://atomgit.com/yimeng/tt/raw/master/apiv43drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/ddys.js"},
+{"key":"熊掌","name":"熊掌┃秒播","type":1,"api":"https://xzcjz.com/api.php/provide/vod"},
+
+
+
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_港剧","name":"🗻┃港二┃秒播","type":3,"api":"csp_Skapp","ext":"https://jihulab.com/qiaoji/open/-/raw/main/tvbyb","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
