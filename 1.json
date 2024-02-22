@@ -36,7 +36,9 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":30},
 
-
+{"key":"Buleitv","name":"布蕾┃TV","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
+{"key":"Yingtantv","name":"影探┃TV","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
+{"key":"Zhuiyitv","name":"追忆┃TV","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
 
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"壹梦_爱坤","name":"😍┃爱坤┃秒播","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://www.ikdmjx.com/?url=","categories":["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -53,7 +55,7 @@
 {"key":"壹梦_开开","name":"🌻┃开开┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/壹梦影视.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 {"key":"壹梦_心心","name":"🌼┃心心┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/tt/raw/master/壹梦HK影视.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 
-{"key":"道长_荐片","name":"💿┃荐片┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片（磁新）.js"},
+{"key":"道长_荐片","name":"📀┃荐片┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片（磁新）.js"},
 {"key":"香佬_Mp4k","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"道长_港口","name":"⚓┃港口┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"屁股_新6V","name":"💫┃新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"ext":"./TV/tokenm.json$$$https://www.66ss.org$$$1","jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":60},
