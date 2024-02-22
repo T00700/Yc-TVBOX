@@ -71,7 +71,8 @@
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"屁股_影探","name":"🕵️‍♂️┃影探┃秒播","type":3,"api":"csp_Yingtantv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"./lib/yt.json","jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b"},
-
+{"key":"屁股_星星","name":"⭐┃星探┃秒播","type":3,"api":"csp_Star","searchable":1,"changeable":0,"ext":"","jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b"},
+  
 {"key":"道长_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./js/农民影视.js"},
 {"key":"香佬_哔嘀","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
