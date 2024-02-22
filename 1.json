@@ -36,9 +36,6 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":30},
 
-{"key":"Buleitv","name":"布蕾┃TV","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
-{"key":"Yingtantv","name":"影探┃TV","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
-{"key":"Zhuiyitv","name":"追忆┃TV","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
 
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"壹梦_爱坤","name":"😍┃爱坤┃秒播","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://www.ikdmjx.com/?url=","categories":["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
@@ -105,6 +102,10 @@
 {"key":"采集_卧龙","name":"☁️┃卧龙┃云播","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
 {"key":"采集_红牛","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
 
+{"key":"追忆_布蕾","name":"🛫┃布蕾┃秒播","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
+{"key":"追忆_影探","name":"🛫┃影探┃秒播","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
+{"key":"追忆_追忆","name":"🛫┃追忆┃秒播","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
+
 {"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"道长_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
 {"key":"饭佬_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
@@ -115,7 +116,6 @@
 {"key":"屁股_表哥","name":"👴┃表哥┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://wobge.run.goorm.io/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":30},
 {"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./TV/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":30},
 
-{"key":"饭佬_萌米","name":"✨┃萌米┃秒播","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 {"key":"饭佬_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 
 
@@ -126,7 +126,6 @@
 
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
-
 
 
 {"key":"香佬_迅雷","name":"⚡┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0129.jar;md5;6120d08f4eb1edce507bfcd1b339c482"},
@@ -228,6 +227,7 @@
 {"key":"道长_可乐","name":"🍾┃可乐┃超清（备Js）","type":3,"api":"./lib/drpy.min.js","searchable":1,"ext":"./js/cokemv.js"},
 
 
+{"key":"饭佬_萌米","name":"✨┃萌米┃秒播","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="},
 {"key":"饭佬_电影","name":"🍄┃电影┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"},
 {"key":"饭佬_小柚","name":"🍊┃小柚┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
 {"key":"饭佬_影探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"./lib/drpy.min.js","ext":"./js/影探.js"},
