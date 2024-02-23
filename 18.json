@@ -7,9 +7,10 @@
 ],
 
 "sites":[
+{"key":"葡萄","name":"🔞葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
+{"key":"博明","name":"🔞博明资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":1},
 {"key":"ysj","name":"🔞饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"博明","name":"🔞博明资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":1},
-{"key":"葡萄","name":"🔞葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
 {"key":"msv","name":"🔞美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"森林","name":"🔞森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1},
 {"key":"奥斯卡","name":"🔞奥斯卡","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1},
@@ -27,7 +28,7 @@
 {"key":"zp123","name":"🔞色猫资源","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"zp137","name":"🔞探探资源(慢)","type":0,"api":"https://apittzy.com/api.php/provide/vod/at/xml/","playUrl":"https://jiexi.ttbfp1.com/m3u8/?url=","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"bttcj.com","name":"🔞成人05","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"filterable":1},
-  {"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
+{"key":"csp_JavDb","name":"JavDb","type":3,"api":"csp_JavDb","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"timeout":1801,"ext":"http://javdb523.com"},
 
 
 {
@@ -422,7 +423,7 @@
 {"key":"lyzyz78|laoyazy.com","name":"🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1},
 
 
-{"key":"push_agent","name":"💤推送(播放页链接或磁力)","type":3,"api":"csp_PushAgent","searchable":0}
+{"key":"push_agent","name":"🔞推送(播放页链接或磁力)","type":3,"api":"csp_PushAgent","searchable":0}
 ],
 
 
