@@ -36,7 +36,8 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0222.jar;md5;b4d63994c9d8e4cf987d20bf2559ab0b","timeout":30},
 
-
+{"key":"T4-安博","name":"安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":""},
+  
 {"key":"巧记_星星","name":"⭐┃星星┃秒播","type":3,"api":"csp_qiao","ext":"https://jihulab.com/qiaoji/open/-/raw/main/xingxing","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"壹梦_爱坤","name":"😍┃爱坤┃秒播","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://www.ikdmjx.com/?url=","categories":["动作片","大陆剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"肥猫_乐乐","name":"🎡️┃乐乐┃秒播","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable":0},
@@ -101,10 +102,6 @@
 {"key":"采集_速播","name":"☁️┃速播┃云播","type":1,"api":"https://subocaiji.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"采集_卧龙","name":"☁️┃卧龙┃云播","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","香港剧","恐怖片","动作片"]},
 {"key":"采集_红牛","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"","categories":["国产剧","战争片","综艺","动漫"]},
-
-{"key":"追忆_布蕾","name":"🛫┃布蕾┃秒播","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
-{"key":"追忆_影探","name":"🛫┃影探┃秒播","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
-{"key":"追忆_追忆","name":"🛫┃追忆┃秒播","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"./追忆影探布蕾带自动追踪.jar"},
 
 {"key":"饭佬_饭偶","name":"👲┃饭偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"道长_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
