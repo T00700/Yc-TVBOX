@@ -1,5 +1,5 @@
 {
-"use_internal_storage":true,
+"use_internal_storage":false,
 "token":"327f0913b04d4e84bbe3485ead09dfbf",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",     //"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
