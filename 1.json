@@ -58,32 +58,32 @@
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
 {"key":"巧记_极光","name":"极光┃App","type":3,"api":"csp_Skapp","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/jiguang","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"},
         {
-            "key": "巧技一",
-            "name": "巧技一┃App",
+            "key": "巧技4",
+            "name": "巧技4┃App",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"
         },
           {
-            "key": "巧技一",
-            "name": "巧技一┃App",
+            "key": "巧技5",
+            "name": "巧技5┃App",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"
         },
           {
-            "key": "巧技一",
-            "name": "巧技一┃App",
+            "key": "巧技1",
+            "name": "巧技1┃App",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
             "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar":"./jar/fix1209.jar;md5;55C166B3567B9A5B7746A048C5472263"
         },
           {
-            "key": "巧技一",
-            "name": "巧技一┃App",
+            "key": "巧技2",
+            "name": "巧技2┃App",
             "type": 3,
             "api": "csp_qiao2",
             "playerType": 2,
