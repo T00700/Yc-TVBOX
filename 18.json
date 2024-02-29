@@ -7,9 +7,9 @@
 ],
 
 "sites":[
+{"key":"ysj","name":"🔞饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"葡萄","name":"🔞葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
 {"key":"博明","name":"🔞博明资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":1},
-{"key":"ysj","name":"🔞饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"博明","name":"🔞博明资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":1},
 {"key":"msv","name":"🔞美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"森林","name":"🔞森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1},
