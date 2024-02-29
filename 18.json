@@ -6,7 +6,23 @@
 {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di5sYW4yd2FuLnRvcC9saXZlLnR4dA=="]}]}
 ],
 
+
 "sites":[
+{"key":"T4-安博","name":"🔞安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"量子","name":"🔞量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+{"key":"非凡","name":"🔞非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"changeable":1,"categories":["伦理片"]},
+  {"name":"apilyzy老鸭资源","key":"🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"ckzyCK资源","key":"🔞CK2","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"fhapi9番号资源","key":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"sexnguon色南国资源","key":"🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"yikanapi易看资源","key":"🔞易看资源-伦理","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"dadiapi大地","key":"🔞大地","type":0,"api":"https://dadiapi.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"gdlsp香奶儿资源","key":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"lbapibyAIvin","key":"🔞AIvin","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"msnii美少女","key":"🔞美少女","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"wmcj8环亚资源","key":"🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"xrbsp淫水机资源","key":"🔞淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"ysj","name":"🔞饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"葡萄","name":"🔞葡萄资源","type":1,"api":"https://caiji.putaozyw.net/inc/apijson_vod.php","searchable":1},
 {"key":"博明","name":"🔞博明资源","type":1,"api":"https://www.bominzy.com/api.php/provide/vod/?ac=list","searchable":1},
