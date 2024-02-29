@@ -8,14 +8,14 @@
 
 
 "sites":[
-{"name":"️💃女優💃","key":"vv001","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
-{"name":"️👠番號👠","key":"vv002","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
-{"name":"️👙主題👙","key":"vv003","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"女優","name":"️💃女優","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"番號","name":"️👠番號","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"主題","name":"️👙主題","type":4,"api":"https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/api/00title05153.json","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"安博","name":"🔞安博(T4)","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"饮水","name":"🔞饮水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"安博","name":"🔞安博","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"饮水","name":"🔞饮水","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"量子","name":"🔞量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["伦理片"]},
-{"key":"非凡","name":"🔞非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["伦理片"]},
+{"key":"非凡","name":"🔞非凡","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["伦理片"]},
 {"key":"老鸭","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"资源","name":"🔞资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"番号","name":"🔞番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
@@ -34,7 +34,7 @@
 {"key":"奥斯","name":"🔞奥斯","type":1,"api":"https://aosikazy.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"白嫖","name":"🔞白嫖","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"色猫","name":"🔞色猫","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=",,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key":"大地","name":"🔞大地","type":0,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url=","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"辣椒","name":"🔞辣椒","type":1,"api":"https://apilj.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["国产自拍","欧美极品","日韩无码","AV明星","中文字幕","动漫精品","极骚萝莉","人妖视频","重咸口味","三级自慰","强奸乱伦","独家擂台格斗","辣椒GIGA","HEYZO","独家DMM","HEY诱惑","童颜巨乳","高潮喷吹","激情口交","绝美少女","首次亮相","AV明星1"]},
 {"key":"玉兔","name":"🔞玉兔","type":1,"api":"https://apiyutu.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["精品推荐","国产精品","主播秀色","日本有码","日本无码","中文字幕","童颜巨乳","性感人妻","强奸乱伦","欧美情色","童真萝莉","三级伦理","卡通动漫","丝袜OL","口爆颜射","自拍偷拍","日本片商","Cosplay","素人自拍","台湾色情","韩国自拍","性感港姐","东南亚情色","凌辱束缚","剧情介绍","多P3P","91系列","网红系列","野外系列","女仆系列","学生中出","性感旗袍","兽耳作品","瑜伽裤","骚货护士","及膝袜","网曝系列","麻豆传媒","女同人妖","恋腿癖"]},
 {"key":"森林","name":"🔞森林","type":1,"api":"https://slapibf.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"categories":["精品推荐","国产色情","主播直播","亚洲无码","亚洲有码","中文字幕","巨乳美乳","人妻熟女","强奸乱伦","欧美精品","萝莉少女","伦理三级","成人动漫","自拍偷拍","制服丝袜","口交颜射","日本精品","Cosplay","素人自拍","台湾辣妹","韩国御姐","唯美港姐","东南亚AV","欺辱凌辱","剧情介绍","多人多P","91探花","网红流出","野外露出","古装扮演","女优系列","可爱学生","风情旗袍","兽耳系列","瑜伽裤","闷骚护士","过膝袜","网曝门","传媒出品","女同性恋","男同性恋","恋腿狂魔"]},
