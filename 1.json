@@ -36,10 +36,10 @@
 
 {"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0227.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"},
 
-{"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
-{"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
-{"key":"屁股_校长","name":"🎓┃校长┃阿里4K","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzys.fun$$$null$$$1","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
-{"key":"屁股_团长","name":"🥈┃团长┃夸克4K","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
+{"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
+{"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
+{"key":"屁股_校长","name":"🎓┃校长┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzys.fun$$$null$$$1","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
+{"key":"屁股_团长","name":"🥈┃团长┃夸克4K(阿里云盘扫码)","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
 
 
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
