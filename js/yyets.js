@@ -14,7 +14,7 @@ var rule = {
 		'User-Agent': PC_UA,
 		'Accept': '*/*',
 		'Referer': 'https://yyets.click/',
-         	'Cookie':'_oauth_request_token="TnpoeXlnQUFBQUFCby1FN0FBQUJqR1k1OHlB|YlZMeUFZQlVSeG9WSExlaUJ5Wmg0SnhxRk81azA3N0U="; username="2|1:0|10:1702522151|8:username|16:ejMzNzg5ODU4MQ==|968dae7de8fb5cee55c7ab5c8528a7939cd374d67aeb42fdb349937a5124d890"',
+         	'Cookie':'http://127.0.0.1:9978/file:///tvbox/JS/lib/yyets.txt',
 	},
 	timeout:5000,
 	class_name:'',
