@@ -22,12 +22,13 @@
 {"key":"饭佬_广场舞舞","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"采集_短剧一线","name":"短剧一线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"categories":["短剧"]},
 {"key":"影视_短剧二线","name":"短剧二线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0225.jar;md5;8633593e0b4a08c6526e953f3b26c616"},
-{"key":"壹梦_短剧三线","name":"短剧三线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
+{"key":"壹梦_短剧三线","name":"短剧三线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
+{"key":"采集_短剧四线","name":"短剧四线","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://www.kuin.one/api.php/app/"},
 
 {"key":"影视_爱听音乐","name":"爱听音乐","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0225.jar;md5;8633593e0b4a08c6526e953f3b26c616"},
 {"key":"影视_听书小说","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0225.jar;md5;8633593e0b4a08c6526e953f3b26c616"},
 {"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
-{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+//{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
 //{"key":"饭佬_短剧三线","name":"短剧三线","type":3,"api":"csp_Duanju","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://duanju.one"},
 //{"key":"屁股_短剧二线","name":"短剧二线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23"},
@@ -39,7 +40,6 @@
 
 
 
-  
 {"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0227.jar;md5;9b51b7c5b02146265d742bdb6a362bdd"},
 
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23","timeout":30},
