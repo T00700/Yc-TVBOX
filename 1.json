@@ -29,10 +29,12 @@
 {"key":"采集_短剧三线","name":"短剧三线","type":3,"api":"csp_AppYsV2","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"壹梦_短剧四线","name":"短剧四线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 
-//{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
+
+  
 //{"key":"饭佬_短剧三线","name":"短剧三线","type":3,"api":"csp_Duanju","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://duanju.one"},
 //{"key":"屁股_短剧二线","name":"短剧二线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23"},
+//{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_动物世界","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0229.jar;md5;d61b7665196b4676de4fe85832e83d23"},
