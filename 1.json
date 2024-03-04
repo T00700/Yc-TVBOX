@@ -67,14 +67,7 @@
 {"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0303.jar;md5;cf0671247979da1bd0d96e190d3170d6"},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0303.jar;md5;cf0671247979da1bd0d96e190d3170d6"},
 
-{"key":"巧记_看看","name":"🐵┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"巧记_看影","name":"🤦┃看影┃秒播","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"巧记_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://app.kzjtv.com","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
-{"key":"巧记_时常","name":"💣┃时常┃秒播","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"filterable":0,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"巧记_热播","name":"💯┃热播┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://v.rbotv.cn","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
-{"key":"巧记_极光","name":"❄️┃极光┃秒播","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"filterable":0"ext":"https://jihulab.com/qiaoji/open/-/raw/main/jiguang","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0222.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
 
 {"key":"采集_豪华","name":"☁️┃豪华┃云播","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
