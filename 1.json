@@ -105,6 +105,7 @@
 {"key":"采集_有酷","name":"☁️┃有酷┃云播","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","动作片","动漫","综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","国产剧","韩剧","泰剧","动漫电影","记录片","奇幻片","犯罪片"]},
 {"key":"采集_网飞","name":"☁️┃网飞┃云播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
 {"key":"采集_茶杯","name":"☁️┃茶杯┃云播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/茶杯狐.js"},
+{"key":"业余_泰泰","name":"🍀┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"屁股_分享","name":"🥇┃阿里┃分享4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg0303.jar;md5;cf0671247979da1bd0d96e190d3170d6","timeout":30},
 {"key":"屁股_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0303.jar;md5;cf0671247979da1bd0d96e190d3170d6","timeout":30},
@@ -116,7 +117,6 @@
 {"key":"屁股_港剧","name":"🌋┃港剧┃秒播","type":3,"api":"csp_Skapp","ext":"CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1","jar":"./jar/pg0303.jar;md5;cf0671247979da1bd0d96e190d3170d6","timeout":30},
 {"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 
-{"key":"业余_泰泰","name":"🍀┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"壹梦_冷曦","name":"👊┃冷曦┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/XBPQ/冷曦影视.json","jar":"./jar/ttkx0221.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 
 
