@@ -34,8 +34,8 @@
 {"key":"影视_爱听音乐","name":"音乐MP3","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0225.jar;md5;8633593e0b4a08c6526e953f3b26c616"},
 {"key":"屁股_音悦音悦","name":"音悦MP4","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0305.jar;md5;242c28df8b7b80c82be2b8dc32ece2aa"},
 
-{"key":"聚短视频js","name":"短剧六线","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js","searchable": 0,"quickSearch": 0,"changeable":0},
-{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"聚短视频js","name":"短剧六线","type":3,"api":"./lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js","searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"./lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable": 0,"quickSearch": 0,"changeable":0},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_动物世界","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0305.jar;md5;242c28df8b7b80c82be2b8dc32ece2aa"},
