@@ -72,6 +72,7 @@
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0305.jar;md5;242c28df8b7b80c82be2b8dc32ece2aa"},
 
 {"key":"巧记_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://app.kzjtv.com","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
+{"key":"业余_泰泰","name":"☁️┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
 {"key":"巧记_时常","name":"💣┃时常┃秒播","type":3,"api":"csp_qiao3","searchable":1,"quickSearch":1,"filterable":0,"filterable":0,"ext":"https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
@@ -107,7 +108,6 @@
 {"key":"采集_有酷","name":"☁️┃有酷┃云播","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"categories":["电影","电视剧","动作片","动漫","综艺","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港澳剧","日剧","欧美剧","台湾剧","国产剧","韩剧","泰剧","动漫电影","记录片","奇幻片","犯罪片"]},
 {"key":"采集_网飞","name":"☁️┃网飞┃云播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
 {"key":"采集_茶杯","name":"☁️┃茶杯┃云播","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/nxog.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/茶杯狐.js"},
-{"key":"业余_泰泰","name":"🍀┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"屁股_分享","name":"🥇┃阿里┃分享4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$./lib/alishare.txt","jar":"./jar/pg0305.jar;md5;242c28df8b7b80c82be2b8dc32ece2aa","timeout":30},
 {"key":"屁股_视车","name":"🚛┃视车┃阿里4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0305.jar;md5;242c28df8b7b80c82be2b8dc32ece2aa","timeout":30},
