@@ -41,28 +41,7 @@
 //{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0306.jar;md5;0291baf74f90cc4d908393c5dcbea4bb"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0306.jar;md5;0291baf74f90cc4d908393c5dcbea4bb","timeout":60},
 
-
-{"key":"T4-360","name":"360影视大全","type":4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
- {
-      "key": "左岸",
-      "name": "蓝光①站",
-      "type": 3,     
-      "api": "csp_AppYsV2",
-      "ext": "http://122.228.84.103:5821/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },  
-      {
-			"key": "myi",
-			"name": "蓝光③站",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"ext": "http://122.228.84.103:5822/api.php/app/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 0
-		},
+	
 {"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0305.jar;md5;880c901235847f3a44333a6cde0ce779"},
 {"key":"香佬_哔哔","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0222.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
@@ -97,6 +76,11 @@
 {"key":"巧记_热播","name":"💯┃热播┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://v.rbotv.cn","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"巧记_极光","name":"❄️┃极光┃秒播","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/jiguang","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0222.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
+
+{"key":"T4-36000","name":"⏰┃三六┃秒播","type":4,"api":"https://catbox.n13.club/360.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
+{"key":"宇宙_左岸","name":"🐑┃左岸┃解析","type":3,"api":"csp_AppYsV2","ext":"http://122.228.84.103:5821/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"宇宙_蓝光","name":"🐄┃蓝光┃解析","type":3,"api":"csp_AppYsV2","ext":"http://122.228.84.103:5822/api.php/app/","searchable":1,"quickSearch":1,"changeable":0},
+{"key":"宇宙_影视","name":"🐎┃小马┃解析","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://mas.szyyds.cn/api.php/app/"},
 
 {"key":"采集_豪华","name":"☁️┃豪华┃云播","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"采集_火狐","name":"☁️┃火糊┃云播","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","style":{"type":"rect","ratio":0.8},"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","伦理片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
