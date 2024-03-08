@@ -34,6 +34,9 @@
 {"key":"影视_爱听音乐","name":"音乐MP3","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0225.jar;md5;8633593e0b4a08c6526e953f3b26c616"},
 {"key":"屁股_音悦音悦","name":"音悦MV4","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0308.jar;md5;02c4a113fab181aaf1b3f2adf166f145"},
 
+	
+	
+//{"key":"T4-yinyuetai","name":"音悦台","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 //{"key":"饭佬_聚短视频","name":"短剧六线","type":3,"api":"./lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/短视频.js","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
