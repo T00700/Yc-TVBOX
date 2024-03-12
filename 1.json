@@ -44,6 +44,7 @@
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca","timeout":60},
 //{"key":"屁股_音悦音悦","name":"音悦MV4","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca"},
 //{"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0310.jar;md5;aa92fa616f4d8cf803e76974d15e1b59"},
+//{"key":"巧记_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://app.kzjtv.com","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
   
 {"key":"影视_胡胡","name":"👳┃胡胡┃秒播4k","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/YSZYZ0310.jar;md5;2c9f8c63b1db11f5e50e8820d44ba292"},
@@ -56,7 +57,7 @@
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 {"key":"饭佬_六九","name":"🍳┃六九┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
-{"key":"巧记_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://app.kzjtv.com","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
+{"key":"巧记_发电","name":"🌩️┃发电┃秒播","type":3,"api":"csp_Fdys","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"巧记_热播","name":"💯┃热播┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://v.rbotv.cn","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"巧记_看看","name":"🐵┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"巧记_看影","name":"🤦┃看影┃秒播","type":1,"api":"http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl":"json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable":1,"quickSearch":1,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
@@ -78,8 +79,8 @@
 
 {"key":"香佬_旧6V","name":"🕠┃旧6V┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0222.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
 {"key":"香佬_迅雷","name":"⚡┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0222.jar;md5;9a9c3fffc0b2d762f1373a63c6d46fec"},
-{"key":"道长_港口","name":"⚓┃港口┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
-{"key":"屁股_新6V","name":"💫┃新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca","timeout":60},
+{"key":"屁股_新6V","name":"💫┃新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":0,"filterable":0,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca","timeout":60},
+{"key":"巧记_港口","name":"⚓┃港口┃磁力","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":0,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"}, 
 
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca","timeout":60},
 {"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0310.jar;md5;818035a55579d7d625a70c01485f1cca","timeout":60},
@@ -220,6 +221,7 @@
 
 
 
+{"key":"道长_港口","name":"⚓┃港口┃磁力","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"道长_磁熊","name":"🐻‍┃磁熊┃磁力2K","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊（磁）.js"},
 {"key":"道长_MP4v","name":"🎧┃Mp4┃磁力2K（备Js）","type":3,"api":"./lib/drpy.min.js","ext":"./js/MP4电影（磁）.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":60},
 {"key":"道长_新6V","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/6V（磁）.js"},
