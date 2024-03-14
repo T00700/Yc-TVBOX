@@ -260,16 +260,15 @@
 {"key":"采集_小胡","name":"☁️┃小胡┃云播","type":1,"api":"https://c.小胡.icu/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 
-{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
+//{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
 //{"key":"屁股_屁股豆瓣","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：2/02😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"changeable":1,"ext":"./lib/douban.json","jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
 
 
-//{"key":"饭老_Up搜","name":"🥇┃Up搜┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd"},
-//{"key":"饭老_盘Se","name":"🥇┃盘Se┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd"},
-//{"key":"饭老_资源","name":"🥇┃资源┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd$$$z337898581$$$z123456789"},
-//{"key":"饭老_易搜","name":"🥇┃易搜┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd"},
-//{"key":"饭老_盘搜","name":"🥇┃盘搜┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd"},
-//{"key":"饭老_七夜","name":"🥇┃七夜┃阿里4K（手机安装阿里云盘app扫码使用）","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"./lib/tokenm.json+4k|auto|fhd"},
+{"key":"饭老_Up搜","name":"🥇┃Up搜┃阿里4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"饭老_盘Se","name":"🥇┃盘Se┃阿里4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"饭老_易搜","name":"🥇┃易搜┃阿里4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"饭老_盘搜","name":"🥇┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
+{"key":"饭老_七夜","name":"🥇┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 
 
