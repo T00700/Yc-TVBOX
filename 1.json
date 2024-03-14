@@ -30,20 +30,20 @@
 {"key":"影视_短剧三线","name":"短剧三线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0310.jar;md5;2c9f8c63b1db11f5e50e8820d44ba292"},
 
 {"key":"壹梦_短剧五线","name":"短剧五线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0310.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
-{"key":"屁股_音乐音乐","name":"KTV","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
-{"key":"影视_爱听音乐","name":"音乐MP3","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0310.jar;md5;2c9f8c63b1db11f5e50e8820d44ba292"},
-{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
+{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
+{"key":"屁股_音乐音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
+{"key":"屁股_音悦音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
 
 
 
 //{"key":"香佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 //{"key":"采集_短剧三线","name":"短剧三线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"categories":["短剧"]},
+//{"key":"影视_爱听音乐","name":"音乐MP3","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0310.jar;md5;2c9f8c63b1db11f5e50e8820d44ba292"},
+//{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
 //{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_动物世界","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json"},
-//{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770","timeout":60},
-//{"key":"屁股_音悦音悦","name":"音悦MV4","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0313.jar;md5;12e1170f54c86565b5de7a828fcec770"},
 //{"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0310.jar;md5;aa92fa616f4d8cf803e76974d15e1b59"},
 //{"key":"巧记_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://app.kzjtv.com","jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
