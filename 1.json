@@ -2,11 +2,11 @@
 "spider":"./jar/fan0312.jar;md5;d275081b5b9f999614a1930aa7599cb9",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
-{"name":"微笑直播","type":"0","pass":true,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"微笑直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"中央直播","type":0,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"./央视频嗅探.m3u","boot":false,"timeout":40},
-{"name":"俊佬直播","type":"0","pass":true,"url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"本地直播","type":0,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"春盈直播","type":0,"ua":"okhttp/3.15","url":"https://wds.ecsxs.com/230864.json","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+{"name":"俊佬直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"唐三直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://tang.serv00.net/zb/99","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
 {"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：3/13😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
