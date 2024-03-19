@@ -1,5 +1,5 @@
 {
-"spider":"./jar/fan0312.jar;md5;d275081b5b9f999614a1930aa7599cb9",
+"spider":"./jar/fan0318.jar;md5;dd909349c70fe92e82470eba611b7094",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"微笑直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -54,8 +54,9 @@
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"ext":"","jar":"./jar/pg0318.jar;md5;e368a730e5c12742aaa5aa00ab31de70","timeout":60},
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1"},
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_追剧","name":"🚴┃追剧┃秒播","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc=","timeout":15},
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 
