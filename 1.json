@@ -83,12 +83,19 @@
 
 {"key":"采采_秒播","name":"秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/秒播.json","jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
 {"key":"采采_老王","name":"老王","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$movie#电视剧$tv#综艺$tvshow#动漫$animation#短剧$duanju","分类url":"https://www.laowang.co/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
-{"key":"采采_米星","name":"大米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35","分类url":"https://dmflm.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
-{"key":"采采_光年","name":"光年","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.gntv.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"光年影视","嗅探词":".mp4#m3u8","主页url":"https://www.gntv.top/"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
 {"key":"采采_沙雕","name":"沙雕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4#午夜$14","分类url":"http://shadiao8.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"沙雕影视","嗅探词":".mp4#m3u8","主页url":"http://shadiao8.com/"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+{"key":"采采_大大","name":"大大","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35","分类url":"https://dmflm.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"大米影视","嗅探词":".mp4#m3u8","主页url":"https://dmflm.com/"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+
+
+
+{"key":"采采_米星","name":"大米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35","分类url":"https://dmflm.com/vodshow/{cateId}--------{area}-------{catePg}---.html"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+{"key":"采采_五五","name":"555","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$4#福利$124","分类url":"https://5moov.vip/vodshow/{cateId}-----------.html"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+
 
   
-{"key":"采采_五五","name":"55影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$4#福利$124","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+{"key":"采采_光年","name":"光年","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$3#综艺$4","分类url":"https://www.gntv.top/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"光年影视","嗅探词":".mp4#m3u8","主页url":"https://www.gntv.top/"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
+
+  
 {"key":"采采_555i","name":"555","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#短剧$3#动漫$4#福利$124","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
 
 {"key":"采采_子子","name":"子2","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#国产剧$13#美剧$14#日韩$15#泰剧$16#综艺$4#动漫$3#情色$27","分类url":"https://www.ziziys.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"子子影视","嗅探词":".mp4#m3u8","主页url":"https://www.ziziys.com/"},"jar":"https://gh.xxooo.cf/github.com/gaotianliuyun/gao/blob/master/jar/XBPQ.jar"},
