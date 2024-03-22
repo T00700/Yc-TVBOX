@@ -24,10 +24,12 @@
 {"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 {"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
-{"key":"屁股_短剧一线","name":"短剧一线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
-{"key":"木鱼_短剧二线","name":"短剧二线","type":4,"api":"https://catbox.n13.club/duanju5.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
-{"key":"饭佬_短剧四线","name":"短剧四线","type":3,"api":"csp_Duanju","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"影视_短剧三线","name":"短剧三线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0317.jar;md5;70fede6c1b3fa7ecff94304721585981"},
+{"key":"饭佬_短剧一起","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"采集_短剧二线","name":"短剧二线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"屁股_短剧三线","name":"短剧三线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
+{"key":"影视_短剧四线","name":"短剧四线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0317.jar;md5;70fede6c1b3fa7ecff94304721585981"},
+
+{"key":"香佬_短剧五线","name":"短剧6线","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 
 {"key":"壹梦_短剧五线","name":"短剧五线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0310.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
 {"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
@@ -36,9 +38,6 @@
 
 
 
-//{"key":"香佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
-//{"key":"采集_短剧三线","name":"短剧三线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"categories":["短剧"]},
-//{"key":"影视_爱听音乐","name":"音乐MP3","type":3,"api":"csp_Music","searchable":0,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0317.jar;md5;70fede6c1b3fa7ecff94304721585981"},
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
 //{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
@@ -46,7 +45,7 @@
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f","timeout":60},
 //{"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0318.jar;md5;9440a06ce42dc3f6906d0184c14ca5dd"},
 
-  
+
 {"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1},
@@ -125,7 +124,6 @@
 {"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/"},
 
 {"key":"饭佬_六九","name":"🍳┃六九┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-{"key":"饭佬_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"},
 
