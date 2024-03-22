@@ -26,17 +26,14 @@
 
 {"key":"饭佬_短剧一起","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"采集_短剧二线","name":"短剧二线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
-{"key":"屁股_短剧三线","name":"短剧三线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
-{"key":"影视_短剧四线","name":"短剧四线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0317.jar;md5;70fede6c1b3fa7ecff94304721585981"},
+{"key":"饭佬_短剧哔哩","name":"短剧三线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
+{"key":"屁股_短剧四线","name":"短剧四线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
 
-{"key":"香佬_短剧五线","name":"短剧6线","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
-
-{"key":"壹梦_短剧五线","name":"短剧五线","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQHiker/短剧网.json","jar":"./jar/ttkx0310.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
+{"key":"影视_短剧五线","name":"短剧五线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0317.jar;md5;70fede6c1b3fa7ecff94304721585981"},
 {"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
 {"key":"屁股_音乐音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
 {"key":"屁股_音悦音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
 
-{"key":"csp_Bili短剧","name":"🅱️哔哩短剧","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
 
 
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
@@ -139,7 +136,6 @@
 
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"壹梦_哔嘀","name":"🚘┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx0310.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
-{"key":"采集_短剧五线","name":"短剧五线","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://www.kuin.one/api.php/app/"},
 
 
 
