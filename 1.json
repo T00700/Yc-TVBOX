@@ -25,7 +25,7 @@
 {"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
 {"key":"饭佬_短剧一起","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":0,"quickSearch":0,"changeable":1},
-{"key":"采集_短剧二线","name":"短剧二线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["短剧"]},
+{"key":"采集_短剧二线","name":"短剧二线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":1,"categories":["短剧"]},
 {"key":"饭佬_短剧哔哩","name":"短剧三线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
 {"key":"屁股_短剧四线","name":"短剧四线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0320.jar;md5;b27e1ff96a06a64da14ff0c2d09ea42f"},
 
