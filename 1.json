@@ -83,7 +83,7 @@
 
 {"key":"采采_五五","name":"55影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#动漫$4#福利$124","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"},"jar":"./jar/XBPQ0320.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 {"key":"采采_555i","name":"555","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$1#电视剧$2#短剧$3#动漫$4#福利$124","分类url":"https://5moov.vip/vodshow/{cateId}--------{catePg}---.html"},"jar":"./jar/XBPQ0320.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
-{"key":"采采_米星","name":"大米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35"},"分类url":"http://web.hosts-dami.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0","jar":"./jar/XBPQ0320.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
+{"key":"采采_米星","name":"大米","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"电影$20#电视剧$21#动漫$22#综艺$23#福利$35","分类url":"http://web.hosts-dami.com/vodshow/{cateId}-{area}-------{catePg}---{year}.html;;akd0"},"jar":"./jar/XBPQ0320.jar;md5;bb155c3f0133bbce4756ad52003f5968"},
 
 
 
