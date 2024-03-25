@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720",
-"spider":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b",
+"spider":"./jar/pg0325.jar;md5;04d74f2c921acbc9a2e20bd880a6e630",
 "lives":[
 {"name":"live","type":0,"playerType":1,"url":"https://qu.ax/PEHy.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://epg.112114.xyz/logo/{name}.png","ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/115.0.0.0Safari/537.36"},
 {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90di5sYW4yd2FuLnRvcC9saXZlLnR4dA=="]}]}
