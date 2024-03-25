@@ -69,12 +69,15 @@
 {"key":"屁股_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
 
-{"key":"屁股_太灵","name":"🐶┃太灵|磁力","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
-
 {"key":"巧记_港口","name":"⚓┃港口┃磁力","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":0,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"香佬_Mp4k","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"香佬_旧6V","name":"🕠┃旧6V┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"香佬_新六","name":"💫┃新6V┃磁力","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com","jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
+
+{"key":"屁股_太灵","name":"🐶┃太灵|磁力","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
+{"key":"屁股_磁狗","name":"🧲┃磁狗┃磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"屁股_磁搜","name":"🧲┃磁搜┃磁力","type":3,"api":"csp_BtSow","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","style":{"type":"rect","ratio":1.5},"timeout":60},
 
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
 {"key":"屁股_土豆","name":"🥔┃土豆┃阿里4K(阿里云盘扫码)","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ali.lvdoui.top$$$null$$$1$$$./lib/wogg.json","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","timeout":60},
@@ -141,7 +144,6 @@
 
 {"key":"饭佬_两个","name":"🍒┃两个┃超清","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"壹梦_哔嘀","name":"🚘┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx0310.jar;md5;49fb705c397f78b9906f48b8dbbd678e"},
-{"key":"屁股_磁力","name":"🧲┃磁力┃磁力2K","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","jar":"./jar/pg0325.jar;md5;22e2f505d45b89eb6febeed68fcb6c1b","style":{"type":"rect","ratio":1.5},"timeout":60},
 
 
 
