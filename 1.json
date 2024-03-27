@@ -44,7 +44,8 @@
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"jar":"./jar/pg0327.jar;md5;5a52dd5320895e1ae62bcd53d01089f2","timeout":60},
 //{"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0318.jar;md5;9440a06ce42dc3f6906d0184c14ca5dd"},
 
-  
+{"key":"csp_xpath_yinfans","name":"音范丝|4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0327.jar;md5;5a52dd5320895e1ae62bcd53d01089f2"},
 {"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
@@ -159,7 +160,7 @@
 {"key":"屁股_美剧","name":"⛲┃美剧┃网盘4K","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","jar":"./jar/pg0327.jar;md5;5a52dd5320895e1ae62bcd53d01089f2","timeout":60},
 
 
-  
+
 {"key":"香佬_荐片","name":"📀┃荐片┃磁力","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"香佬_嘀嘀","name":"🚖┃嘀嘀┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/哔嘀影视.json","jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 
