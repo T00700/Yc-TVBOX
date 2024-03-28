@@ -158,7 +158,7 @@
 {"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力2K","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","jar":"./jar/pg0328.jar;md5;df2f8abea402bb44e3d9da7e7a63d539","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_美剧","name":"⛲┃美剧┃网盘4K","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","jar":"./jar/pg0328.jar;md5;df2f8abea402bb44e3d9da7e7a63d539","timeout":60},
 
-{"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0328.jar;md5;df2f8abea402bb44e3d9da7e7a63d539","timeout":60},
+{"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.6080yy4.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0328.jar;md5;df2f8abea402bb44e3d9da7e7a63d539","timeout":60},
 
 
 {"key":"香佬_荐片","name":"📀┃荐片┃磁力","type":3,"api":"csp_JianPian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"https://ownjpykxttjzuhy.jiesiwa.com","jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
