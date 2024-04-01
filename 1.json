@@ -203,7 +203,7 @@
 {"key":"屁股_BLSG","name":"☂️┃BLSG┃磁力2K","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","timeout":60},
 {"key":"屁股_Seed","name":"🍉┃Seed┃磁力2K","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","timeout":60},
 {"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bdys10.com/$$$null$$$1","jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","timeout":60},
-{"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0329.jar;md5;8f55ef9b1b9005a7653521220ae361ce"},
+{"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8","timeout":60},
 
 
