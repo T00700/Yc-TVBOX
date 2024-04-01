@@ -5,7 +5,6 @@
 {"name":"微笑直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"中央直播","type":0,"ua":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/120.0.0.0Safari/537.36Edg/120.0.0.0","url":"./央视频嗅探.m3u","boot":false,"timeout":40},
 {"name":"俊佬直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"http://home.jundie.top:81/ray/tvlive.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"唐三直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://wds.ecsxs.com/230864.json","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
@@ -30,13 +29,13 @@
 {"key":"屁股_短剧四线","name":"短剧四线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 
 {"key":"影视_短剧五线","name":"短剧五线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0401.jar;md5;9dd3914fcee9af1ec8095de0c4cfdf03"},
-{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0401.jar;md5;9dd3914fcee9af1ec8095de0c4cfdf03"},
+{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"屁股_音乐音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 {"key":"屁股_音悦音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
 
 
 
-//{"key":"屁股_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Kugou","searchable":0,"changeable":0,"jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
+//{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0401.jar;md5;9dd3914fcee9af1ec8095de0c4cfdf03"},
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
 //{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 //{"key":"饭佬_新片荐影","name":"新片荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
@@ -45,7 +44,7 @@
 //{"key":"放牛_放牛","name":"🐮┃放牛┃秒播4K","type":3,"api":"csp_Fangniu4k","searchable":1,"quickSearch":1,"changeable":0,"jar":"./jar/fanniu0318.jar;md5;9440a06ce42dc3f6906d0184c14ca5dd"},
 
 
-{"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0401.jar;md5;20951b7b8b4979ec1214839a2b2e36b8"},
+{"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0329.jar;md5;8f55ef9b1b9005a7653521220ae361ce"},
 {"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"香佬_哔哔","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
