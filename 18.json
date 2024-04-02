@@ -13,6 +13,7 @@
 
 "sites":[
   {"key":"合集","name":"️💃合集（陈公子：注意身体）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/xc0126.jar;md5;b20087ce0c5d8ddf93b6608d94089d59"},
+  {"key":"合集2","name":"️💃合集2（陈公子：注意身体）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"女優","name":"️💃女優（陈公子：注意身体）","type":4,"api":"https://api-ghp.xfjy.in/https://raw.githubusercontent.com/c120487/00/main/api/00title05151.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/xc0126.jar;md5;b20087ce0c5d8ddf93b6608d94089d59"},
 {"key":"番號","name":"️👠番號（陈公子：注意身体）","type":4,"api":"https://api-ghp.xfjy.in/https://raw.githubusercontent.com/c120487/00/main/api/00title05152.json","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/xc0126.jar;md5;b20087ce0c5d8ddf93b6608d94089d59"},
