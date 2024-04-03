@@ -37,6 +37,7 @@
 {"key":"沙雕","name":"🔞沙雕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类":"情色$14","分类url":"http://shadiao8.com/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html;;m","站名":"沙雕影视","嗅探词":".mp4#m3u8","主页url":"http://shadiao8.com/"},"jar":"./lib/XBPQ.jar;md5;942084c6b9ddad16a6c501496d9f2d8d"},
 {"key":"茶杯","name":"🔞茶杯","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"伦理片&电影&电视剧&综艺&动漫","图片":"data-original=\"&&\"","标题":"fed-list-title*>&&</a>","副标题":"fed-text-center\">&&</span>","线路数组":"class=\"fed-drop-head&&</ul>","分类url":"https://www.cupfox.cc/fox/{cateId}-{catePg}.html","分类值":"20&1&2&3&4"},"jar":"./lib/XBPQ.jar;md5;942084c6b9ddad16a6c501496d9f2d8d"},
 
+{"key":"九一","name":"🔞九一","type":1,"style":{"type":"rect","ratio":1.6},"api":"http://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"白嫖","name":"🔞白嫖","type":0,"style":{"type":"rect","ratio":1.6},"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"番号","name":"🔞番号","type":0,"style":{"type":"rect","ratio":1.6},"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"辣椒","name":"🔞辣椒","type":0,"style":{"type":"rect","ratio":1.6},"api":"http://api.11bat.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
@@ -77,7 +78,6 @@
 {"key":"滴滴","name":"🔞滴滴","type":1,"style":{"type":"rect","ratio":1.6},"api":"https://api.ddapi.cc/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"看看","name":"🔞看看","type":1,"style":{"type":"rect","ratio":1.6},"api":"https://kkzy.me/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"丝袜","name":"🔞丝袜","type":1,"style":{"type":"rect","ratio":1.6},"api":"https://www.siwazyw.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
-{"key":"九一","name":"🔞九一","type":1,"style":{"type":"rect","ratio":1.6},"api":"http://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
 
 {"key":"玩偶","name":"🔞玩偶(翻)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
