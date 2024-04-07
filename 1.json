@@ -77,7 +77,7 @@
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0406.jar;md5;e9435741f6f30fd989a40c91098a3e2e","timeout":60},
 {"key":"屁股_土豆","name":"🎅┃土豆┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0406.jar;md5;e9435741f6f30fd989a40c91098a3e2e","timeout":60},
 {"key":"屁股_老哥","name":"🎅┃玩你┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0406.jar;md5;e9435741f6f30fd989a40c91098a3e2e","timeout":60},
-{"key":"屁股_弟弟","name":"🎅┃玩我┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0406.jar;md5;e9435741f6f30fd989a40c91098a3e2e","timeout":60},
+{"key":"屁股_弟弟","name":"🎅┃玩我┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0406.jar;md5;e9435741f6f30fd989a40c91098a3e2e","timeout":60},
 
 {"key":"饭佬_范丝","name":"🎉┃范丝┃磁力4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
