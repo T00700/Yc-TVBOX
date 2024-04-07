@@ -111,6 +111,7 @@
 {"key":"采集_熊掌","name":"☁️┃熊掌┃云播","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","categories":["连续剧","动漫"]},
 
 
+{"key":"屁股_可可","name":"🉑┃可可┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]","线路数组":"<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]","线路标题":"source-item-label\">&&</span>","分类url":"https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"},"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
 {"key":"采采_五五","name":"🌳┃五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/55.json","jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
 {"key":"采采_疯狗","name":"🌳┃疯狗┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/fgys.json","jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
 {"key":"饭佬_影院","name":"💪┃哦尅┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.okdyw.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"},"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
@@ -314,7 +315,7 @@
 {"host":"www.sharenice.net","rule":["http.*?/play.{0,3}\\?[^url]{2,8}=.*"]},
 {"host":"www.sharenice.net","rule":["huoshan.com","/item/video/"],"filter":[]},
 {"host":"www.sharenice.net","rule":["sovv.qianpailive.com","vid="],"filter":[]},
-{"host":"www.sharenice.net","rule":["douyin.com","/play/"]}, 
+{"host":"www.sharenice.net","rule":["douyin.com","/play/"]},
 {"host":"www.iesdouyin.com","rule":["playwm/?video_id="]},
 {"host":"www.ysgc.vip","rule":["getm3u8?url=http"]},
 {"host":"v.douyin.com","rule":["playwm/?video_id="]},
