@@ -20,7 +20,7 @@
 
 {"key":"饭佬_广场舞舞","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json"},
 {"key":"影视_听书小说","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0408.jar;md5;2783558d0bd326c39f743bea8e6dc467"},
-{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
+{"key":"老猫-相声评书","name":"相声评书","type":4,"api":"https://catbox.n13.club/suishenting.php"},
 {"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 
 {"key":"饭佬_短剧一起","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":0,"quickSearch":0,"changeable":1},
@@ -35,6 +35,7 @@
 
 
 
+//{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0408.jar;md5;2783558d0bd326c39f743bea8e6dc467"},
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
 //{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
@@ -60,15 +61,9 @@
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 
 {"key":"老猫-农民","name":"👨‍🌾┃农民┃秒播","type":4,"api":"https://catbox.n13.club/nongmin.php"},
-{"key":"老猫-随听","name":"👨‍🌾┃随听┃秒播","type":4,"api":"https://catbox.n13.club/suishenting.php"},
-{"key":"老猫-企鹅","name":"🐧┃企鹅┃体育","type":4,"api":"https://catbox.n13.club/qietiyu.php"},
-{"key":"老猫-学习","name":"🐕‍🦺┃二哈┃学习","type":4,"api":"https://catbox.n13.club/xuexi.php"},
-
-  
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"屁股_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
-{"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.6080yy4.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 
 {"key":"香佬_Mp4k","name":"🎧┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"道长_荐片","name":"📀┃荐片┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片（磁新）.js"},
@@ -153,6 +148,7 @@
 {"key":"屁股_磁搜","name":"🧲┃磁搜┃磁力2K","type":3,"api":"csp_BtSow","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力2K","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_美剧","name":"⛲┃美剧┃网盘4K","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
+{"key":"屁股_视觉","name":"👓┃视觉┃网盘","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.6080yy4.com/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 
 
 
