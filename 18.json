@@ -12,7 +12,7 @@
 
 
 "sites":[
-{"key":"合集","name":"ㅤ合ㅤ集ㅤ（⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵点击搜索）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"合集","name":"ㅤ合ㅤ集ㅤ（⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵点击搜索）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
   
 {"key":"九一","name":"🔞九一","type":1,"style":{"type":"rect","ratio":1.6},"api":"http://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
