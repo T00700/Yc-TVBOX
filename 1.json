@@ -59,11 +59,11 @@
 {"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0408.jar;md5;2783558d0bd326c39f743bea8e6dc467"},
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 
-{"key":"老猫-农民","name":"👨‍🌾┃农民┃秒播","type":4,"api":"https://catbox.n13.club/nongmin.php"}
-{"key":"老猫-随听","name":"👨‍🌾┃随听┃秒播","type":4,"api":"https://catbox.n13.club/suishenting.php"}
-{"key":"老猫-企鹅","name":"🐧┃企鹅┃体育","type":4,"api":"https://catbox.n13.club/qietiyu.php"}
-{"key":"老猫-学习","name":"🐕‍🦺┃二哈┃学习","type":4,"api":"https://catbox.n13.club/xuexi.php"}
-  
+{"key":"老猫-农民","name":"👨‍🌾┃农民┃秒播","type":4,"api":"https://catbox.n13.club/nongmin.php"},
+{"key":"老猫-随听","name":"👨‍🌾┃随听┃秒播","type":4,"api":"https://catbox.n13.club/suishenting.php"},
+{"key":"老猫-企鹅","name":"🐧┃企鹅┃体育","type":4,"api":"https://catbox.n13.club/qietiyu.php"},
+{"key":"老猫-学习","name":"🐕‍🦺┃二哈┃学习","type":4,"api":"https://catbox.n13.club/xuexi.php"},
+
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"屁股_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
