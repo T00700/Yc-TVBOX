@@ -59,6 +59,11 @@
 {"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0408.jar;md5;2783558d0bd326c39f743bea8e6dc467"},
 {"key":"饭佬_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
 
+{"key":"老猫-农民","name":"👨‍🌾┃农民┃秒播","type":4,"api":"https://catbox.n13.club/nongmin.php"}
+{"key":"老猫-随听","name":"👨‍🌾┃随听┃秒播","type":4,"api":"https://catbox.n13.club/suishenting.php"}
+{"key":"老猫-企鹅","name":"🐧┃企鹅┃体育","type":4,"api":"https://catbox.n13.club/qietiyu.php"}
+{"key":"老猫-学习","name":"🐕‍🦺┃二哈┃学习","type":4,"api":"https://catbox.n13.club/xuexi.php"}
+  
 {"key":"香佬_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"屁股_一起","name":"🎉┃一起┃秒播","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
@@ -111,11 +116,6 @@
 {"key":"采集_熊掌","name":"☁️┃熊掌┃云播","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","categories":["连续剧","动漫"]},
 
 
-{"key":"屁股_可可","name":"🉑┃可可┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"图片":"data-original=\"&&\"[替换:/vod1>>https://vres.a357899.cn/vod1]","线路数组":"<a&&</a>[排序:独家>蓝光8>FF线路>蓝光7>蓝光2>蓝光2-1>蓝光2-2>XL线路>HN线路>SB线路]","线路标题":"source-item-label\">&&</span>","分类url":"https://www.keke6.app/show/{cateId}-{class}-{area}-{lang}-{year}-3-{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"},"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
-{"key":"屁股_外剧","name":"🌬️┃外剧┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.libhd.com/","分类":"电影$1#电视剧$2#综艺$3#动漫$4","搜索url":"https://www.libhd.com/vodsearch/-------------.html?wd={wd}","分类url":"https://www.libhd.com/vodshow/{cateId}-{area}--{class}-{lang}----{catePg}---{year}.html;;akx","图片":"data-src=\"&&\"","简介":"textcor3&&</div>","线路数组":"swiper-slide&&</a>[[不包含:夸克网盘]","线路标题":"</i>&&","播放数组":"anthology-list-boxnone&&</ul>"},"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
-{"key":"屁股_影院","name":"💪┃哦尅┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.okdyw.com/vodshow/{cateId}-{area}-------{catePg}---{year}/"},"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
-{"key":"屁股_五五","name":"🌳┃五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/55.json","jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
-{"key":"屁股_疯狗","name":"🌳┃疯狗┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/fgys.json","jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
 {"key":"屁股_麻衣","name":"⛑️┃麻衣┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;6204938daa1b6016b5fa9285ccc24c89"},
 
 
