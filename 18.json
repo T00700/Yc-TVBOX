@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://picsum.photos/1280/720",
-"spider":"./jar/pg0407.jar;md5;30aacc43f2b39ea864659f977057dae7",
+"spider":"./jar/pg0408.jar;md5;30aacc43f2b39ea864659f977057dae7",
 "lives":[
 {"name":"本地","type":0,"url":"./js/18/18TV.txt"},
 {"name":"糖意","type":0,"url":"https://wp.weikete.cc/down.php/c3eecc14547f5e1e468718148c9f762f.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png","pass":true},
@@ -12,7 +12,7 @@
 
 
 "sites":[
-{"key":"合集2","name":"合集（陈公子：注意身体）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"合集","name":"合集（➡➡➡点击搜索）","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
   
 {"key":"九一","name":"🔞九一","type":1,"style":{"type":"rect","ratio":1.6},"api":"http://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
@@ -84,11 +84,11 @@
 {"key":"玩偶","name":"🔞玩偶(翻)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309}},
 {"key":"MissAV","name":"🔞MissAV(翻)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.65},"timeout":60},
 {"key":"Jable","name":"🔞Jable(翻)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60},
-{"key":"色花堂","name":"🔞色花堂(翻)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
-{"key":"Xojav","name":"🔞XOJav(翻)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"Cable","name":"🔞CableAV(翻)","type":3,"api":"csp_Cable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60},
 {"key":"Hanime","name":"🔞Hanime(翻)","type":3,"api":"csp_Hanime","searchable":1,"recordable":0,"style":{"type":"rect","ratio":0.68}},
 {"key":"BtSearch","name":"🧲BtSearch磁力(翻)","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
+{"key":"色花堂","name":"🔞色花堂(翻)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
+{"key":"Xojav","name":"🔞XOJav(翻)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"推送","name":"🔞(陈公子买单)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
 ],
 
