@@ -75,12 +75,12 @@
 {"key":"巧记_看看","name":"🐵┃看看┃秒播","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 {"key":"巧记_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
 
+{"key":"饭佬_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 {"key":"屁股_玩偶","name":"🎅┃玩偶┃阿里4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.xyz/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_土豆","name":"🎅┃土豆┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_老哥","name":"🎅┃玩你┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 {"key":"屁股_弟弟","name":"🎅┃玩我┃阿里4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328/$$$proxy$$$1$$$./lib/wogg.json","jar":"./jar/pg0408.jar;md5;a9f79ed7ba9a1dc61923b281b1efe4d1","timeout":60},
 
-{"key":"饭佬_范丝","name":"🎉┃范丝┃磁力4K","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
 {"key":"采集_非凡","name":"☁️┃非凡┃云播","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_量子","name":"☁️┃量子┃云播","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
