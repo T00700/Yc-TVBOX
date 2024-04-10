@@ -100,6 +100,7 @@
 
 
 
+{"key":"八八八","name":"🔞八八八(翻)","type":3,"api":"csp_Top888","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"timeout":60},
 {"key":"色花堂","name":"🔞色花堂(翻)","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"Xojav","name":"🔞XOJav(翻)","type":3,"api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
 {"key":"推送","name":"🔞(陈公子买单)","type":3,"api":"csp_PushAgent","searchable":1,"quickSearch":1,"filterable":1,"changeable":0}
