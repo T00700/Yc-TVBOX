@@ -15,6 +15,7 @@
 {"key":"合集","name":"合ㅤ集ㅤ⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵⤵ㅤ点击主页切换站源","type":4,"api":"./js/18/合集.json","searchable":0,"quickSearch":0,"filterable":0},
 
 
+{"key":"吃瓜","name":"🔞吃瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"今日吃瓜$6#今日热搜$7#热门大瓜$8#黑料历史$10#独家爆料$9","分类url":"https://yt6d.yilecdi.com/category/{cateId}/{catePg}.html","直接播放":"1"},"jar":"./lib/XBPQ.jar;md5;8c2b0e1d0936c16ad73132ed64761364"},
 {"key":"少女","name":"🔞少女","type":0,"style":{"type":"rect","ratio":1.6},"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"成一","name":"🔞成人","type":0,"style":{"type":"rect","ratio":1.6},"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"饮水","name":"🔞饮水","type":0,"style":{"type":"rect","ratio":1.6},"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
