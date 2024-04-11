@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0410.jar;md5;7289ba74fc909ab7f9d2dd1f9a6923a6",
+	"spider":"./jar/pg0411.jar;md5;7f25a34386674cfef092610c454cd271",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -95,8 +95,8 @@
 				"cookie":""
 			}
 		},
-		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$proxy$$$1"},
-		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.pro$$$null"},
+		{"key":"美剧迷","name":"美剧迷|网盘","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1"},
+		{"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.libvio.fun/$$$null"},
 		{"key":"Bt0","name":"不太灵|磁力","type":3,"api":"csp_Bt0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"null$$$null$$$1"},
 		{"key":"Xpanpan","name":"小盘盘|网盘","type":3,"api":"csp_Xpanpan","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://xpanpan.site$$$proxy$$$1",
 			"style": {
@@ -432,7 +432,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$proxy" 
+			"ext":"0$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073" 
 		},
 		{
 			"key": "星星",
@@ -441,7 +441,7 @@
 			"api": "csp_Star",
 			"searchable": 1,
 			"changeable": 0,
-			"ext":"proxy"
+			"ext":"socks5://127.0.0.1:10072|socks5://127.0.0.1:10073"
 		},
 		{
 			"key": "獨播",
@@ -450,7 +450,7 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "./lib/duboku.json$$$proxy"
+			"ext": "./lib/duboku.json$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073"
 		},
 		{
 			"key": "haiwaikan",
