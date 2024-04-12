@@ -27,9 +27,9 @@
 {"key":"影视_短剧二线","name":"短剧二线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0412.jar;md5;0f496033e6cb541869d528e79499ad20"},
 {"key":"采集_短剧三线","name":"短剧三线","type":3,"api":"csp_XBPQ","ext":{"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"},"jar":"./lib/XBPQ.jar;md5;2e034deecab5b64e57bf3dd7e060b812"},
 {"key":"采集_短剧四线","name":"短剧四线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":1,"categories":["短剧"]},
-//{"key":"饭佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
 
-  
+
+//{"key":"饭佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
 //{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0412.jar;md5;d7ea766492d7bfebf5e1322c1743925a"},
 //{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0412.jar;md5;0f496033e6cb541869d528e79499ad20"},
@@ -112,7 +112,7 @@
 {"key":"采集_熊掌","name":"☁️┃熊掌┃云播","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["连续剧","动漫"]},
 
 
-{"key":"屁股_麻衣","name":"⛑️┃麻衣┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d","jar":"./lib/XBPQ.jar;md5;2e034deecab5b64e57bf3dd7e060b812"},
+{"key":"屁股_麻衣","name":"⛑️┃麻衣┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.huanyuxing.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$id-a#电视剧$id-b#动漫$id-c#综艺$id-d"},"jar":"./lib/XBPQ.jar;md5;2e034deecab5b64e57bf3dd7e060b812"},
 
 
 {"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
