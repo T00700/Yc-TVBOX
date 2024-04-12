@@ -45,7 +45,7 @@
 //{"key":"影视_农民","name":"👨‍🌾┃农民┃秒播","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://v.nmvod.cn","jar":"./jar/YSZYZ0412.jar;md5;0f496033e6cb541869d528e79499ad20"},
 
 
-{"key":"屁股_秒播","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/秒播.json","jar":"./lib/XBPQ.jar;md5;8c2b0e1d0936c16ad73132ed64761364"},
+{"key":"屁股_秒播","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./XYQHiker/秒播.json","jar":"./lib/XBPQ.jar;md5;2e034deecab5b64e57bf3dd7e060b812"},
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":"","jar":"./jar/pg0412.jar;md5;d7ea766492d7bfebf5e1322c1743925a"},
 {"key":"香佬_哔哔","name":"🚖┃哔嘀┃秒播","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0312.jar;md5;5dbe95399010cd30706b01aa5624dbe0"},
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1},
@@ -112,7 +112,7 @@
 {"key":"采集_熊掌","name":"☁️┃熊掌┃云播","type":1,"api":"https://xzcjz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["连续剧","动漫"]},
 
 
-{"key":"屁股_麻衣","name":"⛑️┃麻衣┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;8c2b0e1d0936c16ad73132ed64761364"},
+{"key":"屁股_麻衣","name":"⛑️┃麻衣┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar;md5;2e034deecab5b64e57bf3dd7e060b812"},
 
 
 
