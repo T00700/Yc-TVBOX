@@ -433,7 +433,37 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$proxy" 
+			"ext":"0$$$127.0.0.1:10074" 
+		},
+				{ 
+			"key": "泥巴1", 
+			"name": "泥巴1 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$127.0.0.1:10073" 
+		},
+				{ 
+			"key": "泥巴2", 
+			"name": "泥巴2 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$127.0.0.1:10072" 
+		},
+				{ 
+			"key": "泥巴3", 
+			"name": "泥巴3 | 海外", 
+			"type": 3, 
+			"api": "csp_NiNi", 
+			"searchable": 1, 
+			"filterable": 1, 
+			"changeable": 0, 
+			"ext":"0$$$127.0.0.1:10071" 
 		},
 		{
 			"key": "星星",
