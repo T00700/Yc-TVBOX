@@ -433,7 +433,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10074" 
+			"ext":"0$$$socks5://127.0.0.1:10074" 
 		},
 				{ 
 			"key": "泥巴1", 
@@ -443,7 +443,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10073" 
+			"ext":"0$$$socks5://127.0.0.1:10073" 
 		},
 				{ 
 			"key": "泥巴2", 
@@ -453,7 +453,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10072" 
+			"ext":"0$$$socks5://127.0.0.1:10072" 
 		},
 				{ 
 			"key": "泥巴3", 
@@ -463,7 +463,7 @@
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10071" 
+			"ext":"0$$$socks5://127.0.0.1:10071" 
 		},
 		{
 			"key": "星星",
