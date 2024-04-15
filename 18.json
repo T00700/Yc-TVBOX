@@ -84,7 +84,7 @@
 {"key":"右手","name":"💋右手","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"分类":"日韩爽片$1#国产精选$2#传媒合集$5#欧美激情$3#网爆吃瓜$26","分类url":"https://ysys438.xyz/vodshow/{cateId}--{year}------{catePg}---{by}.html"},"jar":"./lib/XBPQ.jar;md5;ad8a4737a6238a71793392759101a944"},
 
 
-  
+
 {"key":"玩偶","name":"💔玩偶(翻)","type":3,"api":"csp_Doll","searchable":1,"quickSearch":1,"changeable":1,"recordable":0,"style":{"type":"rect","ratio":1.309},"ext":"$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073$$$null$$$1"},
 {"key":"MissAV","name":"💔MissAV(翻)","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.78},"timeout":60},
 {"key":"Jable","name":"💔Jable(翻)","type":3,"api":"csp_Jable","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"style":{"type":"rect","ratio":1.77},"timeout":60},
@@ -94,11 +94,8 @@
 
 
 
-{"key":"PushShare","name":"资源分享","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073$$$./lib/pushshare.a.txt$$$db$$$1","style":{"type":"list"}},
-{"key":"PikPakShare","name":"PikPak","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.db.gz"},
-{"key":"PikPakShare1","name":"PikPak1","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.json.db.gz"},
-{"key":"PikPakShare18","name":"PikPak18","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$socks5://127.0.0.1:10072|socks5://127.0.0.1:10073$$$./lib/pikpakclass18.json$$$./lib/pikpakclass.json.db.gz"},
 
+{"key":"PikPakShare","name":"PikPak分享","type":3,"api":"csp_PikPakShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"./lib/tokenm.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz$$$./lib/pikpakclass.json.db.gz$$$pikpakclass.template.json$$$127.0.0.1:10074","style":{"type":"list","ratio":1.1}},
 
 
 
