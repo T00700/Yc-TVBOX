@@ -46,7 +46,7 @@
 "pikpak_proxy":"socks5://127.0.0.1:10074",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
-"wgcf_key":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
+"wgcf_key":"3/M40UkRH68rI72LF/vFXZNPEXqpQEj8EB9cxgn8pjM=",
 "wgcf_key2":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
 "wgcf_ipport":"162.159.192.161:3854",
 "wgcf_xray_url":"./lib/xray.gz",
