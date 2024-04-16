@@ -7,10 +7,8 @@
         "cateId": "/@href",
         "cateIdR": "/s/(\\w+)",
         "cateManual": {
-                "首页推荐": "page",
-            "蓝光原盘电影": "topic/bluray-movie/movie/page",
-                "蓝光原盘纪录片": "topic/bluray-movie/documentry/page",
-                "4K": "topic/4k/page"
+                "蓝光原盘电影": "topic/bluray-movie/movie/page",
+                "蓝光原盘纪录片": "topic/bluray-movie/documentry/page"
         },
 
         "homeVodNode": "//div[contains(@class,'mainleft')]/ul/li/div[contains(@class,'thumbnail')]",
