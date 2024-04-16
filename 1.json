@@ -25,15 +25,17 @@
 {"key":"屁股_音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0},
 
 {"key":"短剧_非凡","name":"非凡短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.ffzyapi.com/api.php/provide/vod/?","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
+{"key":"短剧_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 {"key":"短剧_火狐","name":"火狐短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 {"key":"短剧_天天","name":"天天短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
+
 {"key":"短剧_卧龙","name":"卧龙短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://collect.wolongzyw.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
+{"key":"短剧_极速","name":"极速短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://jszyapi.com/api.php/provide/vod/from/jsm3u8","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
+{"key":"短剧_空空","name":"空空短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
+{"key":"短剧_天天","name":"天天短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://api.tiankongapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧"]},
 
-
-{"key":"短剧_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":0,"changeable":1,"categories":["短剧"]},
-{"key":"影视_短二","name":"影视短剧","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
-{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
-
+//{"key":"影视_短二","name":"影视短剧","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+//{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
 //{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
@@ -116,9 +118,7 @@
 {"key":"采集_六九","name":"🍳┃六九┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"道长_网飞","name":"☁️┃网飞┃云播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
 
-
-
-
+  
 {"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
 {"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
 {"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
