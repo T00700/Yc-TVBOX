@@ -213,9 +213,10 @@
 {"key":"屁股_新6V","name":"💫┃新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":0,"filterable":0,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
 {"key":"屁股_BLSG","name":"☂️┃BLSG┃磁力","type":3,"api":"csp_BLSGod","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
 {"key":"屁股_Seed","name":"🍉┃Seed┃磁力","type":3,"api":"csp_SeedHub","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
-{"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bdys10.com/$$$null$$$1","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
 {"key":"屁股_港剧","name":"🌋┃港剧┃秒播","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"ext":"CWL+IfA5s3TICYJ8lk+lYcjPA/WXNYE4LRTfUSa9I+X9ibZY05syLe/O7u2miaiYRiSaKE51xQOxm38YeL27jRUyF6+GJKVQArnP7QbC+qw2okju8YACfPzD3rpQo8uckl2rQh925A6lp4VD0ELHJrUvDGTlojwKtynX78d5E88HbdSsCV5pIueNPH5+z42FBt21KGN5lnE7/qqEGpSyFzbARD4aWuhSHsun7GQU9yaXZn0F4l4o2YYaEvRtsz4z9Mo8+7aj2nZsCkFWLNpgv6kzFNohSTWVDkajg5aj6s7d8CPNIvvC+gr0zm79fuuvNQF6NfaiBOrvTwamMJa3F3w==$$$null$$$1","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
 
+{"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.52bdys.com/$$$null$$$1","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
+{"key":"屁股_哔嘀1","name":"🚔┃哔嘀1┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b","timeout":60},
 
 
 
