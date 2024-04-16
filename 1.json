@@ -24,13 +24,13 @@
 {"key":"屁股_音乐音乐","name":"KTV音乐","type":3,"api":"csp_Iktv","searchable":0,"changeable":0,"jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b"},
 {"key":"屁股_音悦音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0,"jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b"},
 
-{"key":"饭佬_短剧一线","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":0,"quickSearch":0,"changeable":1},
+//{"key":"饭佬_短剧一线","name":"短剧一线","type":3,"api":"csp_YQKan","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"影视_短剧二线","name":"短剧二线","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0415.jar;md5;3492e521f4c9b0e984467800ef4a6d98"},
 {"key":"采集_短剧三线","name":"短剧三线","type":3,"api":"csp_XBPQ","ext":{"站名":"短剧侠1","主页url":"https://www.duanjuxia.cn/","分类":"快手$21#抖音$22#都市$23#古装$24#重生$25#逆袭$26#虐恋$27#萌宝$28#言情$29#穿越$30#战神$31#神医$32#赘婿$33#甜宠$34#其他$35","搜索url":"https://www.duanjuxia.cn/index.php/vod/search.html?wd={wd}","分类url":"https://www.duanjuxia.cn/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"},"jar":"./lib/XBPQ.jar;md5;ad8a4737a6238a71793392759101a944"},
 {"key":"采集_短剧四线","name":"短剧四线","type":1,"api":"https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable":0,"quickSearch":0,"filterable":1,"categories":["短剧"]},
 
 
-//{"key":"饭佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
+{"key":"饭佬_短剧五线","name":"短剧五线","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.gitcode.com/yimkj/ym/raw/main/ym/lib/Bili短剧.json"},
 //{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu","jar":"./jar/pg0416.jar;md5;8e4003ddbca53372d4c362cdd775eb4b"},
 //{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json"},
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0415.jar;md5;3492e521f4c9b0e984467800ef4a6d98"},
@@ -136,7 +136,7 @@
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./哔哩哔哩/哔哩影视.js"},
 
 {"key":"饭老_毛驴","name":"🐎┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-{"key":"饭佬_厂长","name":"🏭┃厂长┃超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
+{"key":"饭佬_厂长","name":"🏭┃厂长┃超清","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/"},
 {"key":"饭佬_奥特","name":"⛲┃奥特┃超清","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/"},
 {"key":"饭佬_在线","name":"👒┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
 
