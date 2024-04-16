@@ -28,7 +28,7 @@
 {"key":"短剧_爱坤","name":"爱坤短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":0,"changeable":0,"categories":["短剧"]},
 {"key":"屁股_量子","name":"量子短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":0,"changeable":0,"categories":["短剧"]},
 {"key":"采集_天天","name":"天天短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://api.tiankongapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"categories":["短剧"]},
-{"key":"集集_飞飞","name":"飞飞短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=",,"searchable":0,"quickSearch":0,"categories":["短剧"]},
+{"key":"集集_飞飞","name":"飞飞短剧","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://m3u8.feisuzyapi.com/api.php/provide/vod/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","searchable":0,"quickSearch":0,"categories":["短剧"]},
 
 
 
