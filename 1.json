@@ -10,7 +10,8 @@
 "sites":[
 {"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
 {"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
-{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
+//{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：2/02😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"changeable":1,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 //{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/douban.php"},
 
@@ -254,8 +255,8 @@
 {"key":"业余_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
 
-//{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0},
-//{"key":"屁股_屁股豆瓣","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：2/02😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"changeable":1,"ext":"./lib/douban.json"},
+{"key":"屁股_Just","name":"JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0},
+
 
 
 //{"key":"饭老_Up搜","name":"🥇┃Up搜┃阿里4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0416.jar;md5;875a1b334ba0264705e574e5165b6b87"},
