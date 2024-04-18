@@ -49,22 +49,21 @@
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"timeout":60},
 //{"key":"屁股_音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0},
 
-{"key":"屁股_蚂蚁","name":"🐜┃蚂蚁1┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_美剧","name":"🧲┃美剧1┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_YouKu","name":"YouKu|搜索","type":3,"api":"csp_YouKu","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_Iqiyi","name":"Iqiyi|搜索","type":3,"api":"csp_Iqiyi","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_QQ","name":"QQ|搜索","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
-{"key":"屁股_PanSou","name":"PanSou|搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"./lib/XBPQ.jar;md5;ad8a4737a6238a71793392759101a944","ext":{"分类":"国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&其他&其他剧&伦理剧&","分类值":"14&22&26&36&25&30&23&69&15&16&62&43&68&83&","分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取":"list\":[&&]","数组":"{&&}[不包含:]","图片":"vod_pic_screenshot\":\"&&\"","图片":"vod_pic_thumb\":\"&&\"","图片":"vod_pic\":\"&&\"","图片代理":1,"标题":"vod_name\":\"&&\"","副标题":"+vod_remarks\":\"&&\"","链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url":"https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式":"1","搜索二次截取":"list\":[&&]","搜索数组":"{&&}[不包含:]","搜索图片":"vod_pic\"*\"&&\"","搜索标题":"vod_name\"*\"&&\"","搜索副标题":"type_name\":\"&&\"","搜索链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型":"vod_class\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"","简介":"vod_content\"*\"&&\"","线路二次截取":"\"list\":[&&]","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取":"","播放列表":"表&&表","播放标题":"题&&题","播放链接":"链&&链","嗅探词":".m3u8","播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/118.0.0.0Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅":"0"}},
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
-{"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1","timeout":60},
-{"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1","timeout":60},
+{"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1"},
+{"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
 
 {"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
+
+{"key":"影视_白嫖","name":"👻┃白白┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+{"key":"影视_视觉","name":"👓┃视觉┃秒播","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+{"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
+{"key":"屁股_蚂蚁","name":"🐜┃蚂蚁┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
 {"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭佬_虾米","name":"🦀┃虾米┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w==","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
@@ -74,11 +73,6 @@
 {"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭佬_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 {"key":"饭老_巴士","name":"🚌┃动漫┃超清","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
-{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
-
-{"key":"影视_白嫖","name":"👻┃白白┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
-{"key":"影视_视觉","name":"👓┃视觉┃秒播","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
-{"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"饭佬_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
 {"key":"屁股_爱坤","name":"☁️┃爱坤┃秒播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
@@ -98,13 +92,8 @@
 
 {"key":"屁股_迅雷","name":"🧲┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
 {"key":"道长_港口","name":"🧲┃港口┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
+{"key":"屁股_美剧","name":"🧲┃美剧┃磁力","type":3,"api":"csp_MeijuTT","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 {"key":"香佬_旧6V","name":"🧲┃旧6V┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
-{"key":"采集_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
-
-{"key":"屁股_玩偶","name":"🎅┃玩偶┃网盘4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_土豆","name":"🎅┃土豆┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_老哥","name":"🎅┃玩你┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":60},
-{"key":"屁股_弟弟","name":"🎅┃玩我┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328/$$$1$$$./lib/wogg.json","timeout":60},
 
 {"key":"屁股_飞速","name":"☁️┃飞速┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://fszy1.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"屁股_索尼","name":"☁️┃索尼┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://suoniapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
@@ -130,6 +119,14 @@
 {"key":"采集_光光","name":"☁️┃光光┃云播","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["短剧","大陆剧","港澳剧","综艺","动漫"]},
 {"key":"采集_六九","name":"☁️┃六九┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"道长_网飞","name":"☁️┃网飞┃云播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
+
+{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
+{"key":"采集_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
+
+{"key":"屁股_玩偶","name":"🎅┃玩偶┃网盘4K","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.wogg.net/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_土豆","name":"🎅┃土豆┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tudou.lvdoui.top/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_老哥","name":"🎅┃玩你┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$1$$$./lib/wogg.json","timeout":60},
+{"key":"屁股_弟弟","name":"🎅┃玩我┃网盘4K","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$http://www.ttkx.live:3328/$$$1$$$./lib/wogg.json","timeout":60},
 
 {"key":"屁股_磁狗","name":"🧲┃磁狗┃磁力","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_磁搜","name":"🧲┃磁搜┃磁力","type":3,"api":"csp_BtSow","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
@@ -200,6 +197,7 @@
 {"key":"屁股_大盘","name":"🥇┃大盘┃阿里","type":3,"api":"csp_DaPanSo","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://dapanso.com$$$null","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_混合","name":"🥇┃混合┃阿里","type":3,"api":"csp_HunHePan","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_盘搜","name":"🥇┃盘搜┃阿里","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
+{"key":"屁股盘搜1","name":"🥇┃盘搜1┃阿里","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":60},
 {"key":"屁股_盘友","name":"🥇┃盘友┃阿里","type":3,"api":"csp_Panyq","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_八八","name":"🥇┃八八┃阿里","type":3,"api":"csp_EightEight","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://662688.xyz","style":{"type":"list","ratio":1.1},"timeout":60},
 {"key":"屁股_秒搜","name":"🥇┃秒搜┃阿里","type":3,"api":"csp_MiaoSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","style":{"type":"list","ratio":1.1},"timeout":60},
