@@ -132,13 +132,6 @@
 {"key":"饭佬_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"饭老_巴士","name":"🚌┃动漫┃超清","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0417.jar;md5;c84c36278bd8bc95a63449a128074be0"},
 
-
-
-
-  
-
-
-{"key":"屁股_团长","name":"🥈┃团长┃夸克","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"屁股_表哥","name":"🐢┃表哥┃网盘","type":3,"api":"csp_Wobg","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json","timeout":60},
 {"key":"屁股_校长","name":"🎓┃校长┃网盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://xzyshd.com$$$null$$$1","timeout":60},
 {"key":"屁股_皮皮","name":"🦐┃皮皮┃网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1","timeout":60},
@@ -156,6 +149,10 @@
 
 
 
+
+
+
+  
 
 
   
@@ -204,6 +201,7 @@
 {"key":"屁股_七夜","name":"🥇┃七夜┃阿里","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_千帆","name":"🥇┃千帆┃阿里","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./TV/qianfan.txt","timeout":60},
 {"key":"屁股_盘九","name":"🥇┃盘九┃阿里","type":3,"api":"csp_Pan99","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1","timeout":60},
+{"key":"屁股_团长","name":"🥈┃团长┃夸克","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 {"key":"屁股_夸克","name":"🥈┃夸克┃网盘","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_趣盘","name":"🥈┃趣盘┃夸克","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json","timeout":60},
 {"key":"屁股_4K影","name":"🥈┃4K影┃夸克","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/tokenm.json$$$./TV/4khdr.txt$$$1","timeout":60},
