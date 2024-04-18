@@ -88,7 +88,7 @@
 {"key":"屁股_太灵","name":"🧲┃太灵┃磁力","type":3,"api":"csp_Bt0","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"null$$$null$$$1","timeout":60},
 
 {"key":"屁股_迅雷","name":"🧲┃迅雷┃磁力","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"timeout":30},
-{"key":"巧记_港口","name":"🧲┃港口┃磁力","type":3,"api":"csp_Dygang","searchable":1,"quickSearch":0,"filterable":0,"jar":"./jar/fix0225.jar;md5;75da2f4a016e67f7980ad1524af06ff7"},
+{"key":"道长_港口","name":"🧲┃港口┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"香佬_旧6V","name":"🧲┃旧6V┃磁力","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/6X.json","jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 {"key":"采集_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 
@@ -213,7 +213,6 @@
 {"key":"道长_荐片","name":"💿┃荐片┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","ext":"./js/荐片（磁新）.js"},
 {"key":"道长_畅梦","name":"🙇┃畅梦┃超清","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/畅梦.js"},
 {"key":"道长_哔哩","name":"🅱️┃哔哩┃官方","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./哔哩哔哩/哔哩影视.js"},
-{"key":"道长_港口","name":"⚓┃港口┃磁力","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"./js/电影港（磁）.js"},
 {"key":"道长_磁熊","name":"🐻‍┃磁熊┃磁力2K","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":0,"ext":"./js/磁力熊（磁）.js"},
 {"key":"道长_MP4v","name":"🎧┃Mp4┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","ext":"./js/MP4电影（磁）.js","playerType":"1","searchable":1,"quickSearch":1,"changeable":1,"timeout":60},
 {"key":"道长_新6V","name":"💫┃新6V┃磁力2K（备Js）","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/6V（磁）.js"},
