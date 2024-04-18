@@ -75,7 +75,7 @@
 			}
 		},
 		{
-			"protocol": "ss",
+			"protocol": "vless",
 			"settings": {
 				"vnext": [
 					{
@@ -83,44 +83,7 @@
 						"port": 443,
 						"users": [
 							{
-								"id": "SSPASSWROD",
-								"encryption": "none",
-								"level":0
-							}
-						]
-					}
-				]
-		    },
-			"streamSettings": {
-				"network": "ws",
-				"security": "tls",
-				"tlsSettings": {
-					"serverName": "SSCFWORKERNAME",
-					"allowInsecure": true
-				},
-				"wsSettings": {
-					"headers": {
-						"Host": "SSCFWORKERNAME"
-					},
-					"path": "/?ed=2048"
-				}
-			},
-			"tag":"shadowsockscf",
-			"proxySettings": {
-				"tag": "directfragment;directwarp",
-				"transportLayer": true
-			}
-		},
-		{
-			"protocol": "trojan",
-			"settings": {
-				"vnext": [
-					{
-						"address": "cdn-all.xn--b6gac.eu.org",
-						"port": 443,
-						"users": [
-							{
-								"id": "TROJANPASSWROD",
+								"id": "VLESSID",
 								"encryption": "none",
 								"level":0
 							}
@@ -132,56 +95,19 @@
 				"network": "ws",
 				"security": "tls",
 				"tlsSettings": {
-					"serverName": "TROJANCFWORKERNAME",
+					"serverName": "VLESSCFWORKERNAME",
 					"allowInsecure": true
 				},
 				"wsSettings": {
 					"headers": {
-						"Host": "TROJANCFWORKERNAME"
+						"Host": "VLESSCFWORKERNAME"
 					},
 					"path": "/?ed=2048"
 				}
 			},
-			"tag":"trojancf",
+			"tag":"vlesscf",
 			"proxySettings": {
-				"tag": "directfragment;directwarp",
-				"transportLayer": true
-			}
-		},
-		{
-			"protocol": "vmess",
-			"settings": {
-				"vnext": [
-					{
-						"address": "cdn-all.xn--b6gac.eu.org",
-						"port": 443,
-						"users": [
-							{
-								"id": "VMESSID",
-								"encryption": "none",
-								"level":0
-							}
-						]
-					}
-				]
-			},
-			"streamSettings": {
-				"network": "ws",
-				"security": "tls",
-				"tlsSettings": {
-					"serverName": "VMESSCFWORKERNAME",
-					"allowInsecure": true
-				},
-				"wsSettings": {
-					"headers": {
-						"Host": "VMESSCFWORKERNAME"
-					},
-					"path": "/?ed=2048"
-				}
-			},
-			"tag":"vmesscf",
-			"proxySettings": {
-				"tag": "directfragment;directwarp",
+				"tag": "directfragment",
 				"transportLayer": true
 			}
 		},
@@ -216,12 +142,29 @@
 					"path": "/?ed=2048"
 				}
 			},
-			"tag":"direct;directwarp;vlesscf;warpoverwarp;vlesscfoverwarp",
+			"tag":"vlesscfoverwarp",
 			"proxySettings": {
 				"tag": "directwarp",
 				"transportLayer": true
 			}
 		},
+		{"protocol": "shadowsocks",
+      "settings": {
+        "servers": [
+          {
+            "address": "",
+            "method": "",
+            "password": "",
+            "port": 
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": ""
+      },
+      "tag": "ss-out"
+      },
 		{
 			"protocol": "freedom",
 			"tag": "direct"
@@ -331,49 +274,13 @@
 			}
 		},
 		{
-			"port": 2000,
+			"port": 10075,
 			"protocol": "socks",
 			"settings": {
 				"udp": true,
 				"auth": "noauth"
 			},
-			"tag":"ss",
-			"sniffing": {
-				"destOverride": [
-					"http",
-					"tls",
-					"quic"
-				],
-				"enabled": true,
-				"routeOnly": true
-			}
-		},
-		{
-			"port": 2001,
-			"protocol": "socks",
-			"settings": {
-				"udp": true,
-				"auth": "noauth"
-			},
-			"tag":"trojan",
-			"sniffing": {
-				"destOverride": [
-					"http",
-					"tls",
-					"quic"
-				],
-				"enabled": true,
-				"routeOnly": true
-			}
-		},
-		{
-			"port": 2002,
-			"protocol": "socks",
-			"settings": {
-				"udp": true,
-				"auth": "noauth"
-			},
-			"tag":"vmess",
+			"tag":"ss-in",
 			"sniffing": {
 				"destOverride": [
 					"http",
@@ -405,90 +312,6 @@
 			{
 				"type": "field",
 				"inboundTag": [
-					"http"
-				],
-				"outboundTag": "shadowsockscf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"https"
-				],
-				"outboundTag": "shadowsockscf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks4"
-				],
-				"outboundTag": "shadowsockscf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks5"
-				],
-				"outboundTag": "shadowsockscf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"http"
-				],
-				"outboundTag": "trojancf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"https"
-				],
-				"outboundTag": "trojancf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks4"
-				],
-				"outboundTag": "trojancf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks5"
-				],
-				"outboundTag": "trojancf"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks5"
-				],
-				"outboundTag": "vmess"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"http"
-				],
-				"outboundTag": "vmess"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"socks4"
-				],
-				"outboundTag": "vmess"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
-					"https"
-				],
-				"outboundTag": "vmess"
-			},
-			{
-				"type": "field",
-				"inboundTag": [
 					"socks5overvless"
 				],
 				"outboundTag": "vlesscf"
@@ -513,6 +336,13 @@
 					"socks5overvlessoverwarp"
 				],
 				"outboundTag": "vlesscfoverwarp"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"ss-in"
+				],
+				"outboundTag": "ss-out"
 			}
 		]
 	}
