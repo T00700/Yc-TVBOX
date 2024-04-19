@@ -3,7 +3,6 @@
 "token":"f3949bac284948419a96805684c384d9",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
-//"open_api_url":"https://api-cf.nn.ci/alist/ali_open/token",备用
 "oauth_client_id":"",
 "oauth_client_secret":"",
 "oauth_auth_url":"",
