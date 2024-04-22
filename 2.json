@@ -1,5 +1,5 @@
 {
-	"spider":"./jar/pg0421.jar;md5;b9058c9176428d6254095ef83a1666ed",
+	"spider":"./jar/pg0422.jar;md5;8e4214acbac107fd7aaa83a9d504efd5",
 	"sites":[
 		{
 			"key": "豆瓣",
@@ -104,11 +104,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"Wogg1","name":"玩偶哥哥1|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$socks5://127.0.0.1:10071$$$1$$$./lib/wogg.json"},
-		{"key":"Wogg2","name":"玩偶哥哥2|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$socks5://127.0.0.1:10072$$$1$$$./lib/wogg.json"},
-		{"key":"Wogg3","name":"玩偶哥哥3|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$socks5://127.0.0.1:10073$$$1$$$./lib/wogg.json"},
-		{"key":"Wogg4","name":"玩偶哥哥4|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$socks5://127.0.0.1:10074$$$1$$$./lib/wogg.json"},
-		
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
@@ -224,7 +220,8 @@
 				"播放链接": "链&&链",
 				"嗅探词": ".m3u8",
 				"播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad",
-				"免嗅": "0"
+				"免嗅": "0",
+				"页面代理":"proxy"
 			}
 		},
 		{"key":"XBPQ_BaiPiao","name":"白嫖影视|XBPQ","type":3,"api":"csp_XBPQ", "jar":"./lib/XBPQ.jar",
@@ -429,44 +426,14 @@
 		{ "key": "Ikanbot", "name": "爱看机器人", "type": 3, "api": "csp_Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.ikanbot.com$$$proxy"},
 		{ "key":"csp_YingShi","name":"影视|海外","type":3,"api":"csp_YingShi","ext":"proxy"},
 		{ 
-			"key": "泥巴1", 
-			"name": "泥巴1 | 海外", 
+			"key": "泥巴", 
+			"name": "泥巴 | 海外", 
 			"type": 3, 
 			"api": "csp_NiNi", 
 			"searchable": 1, 
 			"filterable": 1, 
 			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10071" 
-		},
-		{ 
-			"key": "泥巴2", 
-			"name": "泥巴2 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10072" 
-		},
-		{ 
-			"key": "泥巴3", 
-			"name": "泥巴3 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10073" 
-		},
-		{ 
-			"key": "泥巴4", 
-			"name": "泥巴4 | 海外", 
-			"type": 3, 
-			"api": "csp_NiNi", 
-			"searchable": 1, 
-			"filterable": 1, 
-			"changeable": 0, 
-			"ext":"0$$$127.0.0.1:10074" 
+			"ext":"0$$$proxy" 
 		},
 		{
 			"key": "星星",
