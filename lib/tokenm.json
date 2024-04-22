@@ -51,11 +51,12 @@
 "pikpak_proxy":"socks5://127.0.0.1:10072",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
-
+  
 "wgcf_key":"eLPYOt5B+H9sQQrg6tbx13pPt3I5B/lo/LfP/NcU83s=",
 "wgcf_key2":"bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
 "wgcf_ipport":"162.159.195.167:1387",
 "wgcf_xray_url":"./lib/xray.gz",
+"wgcf_geoip_url":"./lib/geoip.dat.gz",
 "wgcf_json_url":"./lib/wgcf.json",
 "wgcf_vless_id":"add25d41-b537-4f72-bf88-15602d0aad00",
 "wgcf_vless_optname":"www.visa.com.sg:8880",
@@ -64,4 +65,5 @@
 "wgcf_vless_protocol":"vless",
 "wgcf_vless_network":"ws",
 "wgcf_vless_tls":false
+
 }
