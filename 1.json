@@ -86,12 +86,12 @@
 {"key":"屁股_量子","name":"☁️┃量子┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"屁股_暴風","name":"☁️┃暴風┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
   
-{"key":"木鱼-黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/heihu.php"},
-{"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/jiguang.php"},
-{"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/jojo.php"},
-{"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/caiji.php"},
+{"key":"木鱼-黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/heihu.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
+{"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/jiguang.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
+{"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/jojo.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
+{"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/caiji.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 
-{"key":"木鱼-荐片","name":"T4┃荐片┃磁力","type":4,"api":"https://catbox.n13.club/jianpian.php"},
+{"key":"木鱼-荐片","name":"T4┃荐片┃磁力","type":4,"api":"https://catbox.n13.club/jianpian.php","playerType":"1","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"木鱼-六味","name":"T4┃六味┃磁力","type":4,"api":"https://catbox.n13.club/6v.php"},
 {"key":"木鱼-哔嘀","name":"T4┃哔嘀┃磁力","type":4,"api":"https://catbox.n13.club/bdys.php"},
 {"key":"木鱼-骚火","name":"T4┃骚火┃秒播","type":4,"api":"https://catbox.n13.club/saohuo.php"},
