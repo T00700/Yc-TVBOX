@@ -50,10 +50,10 @@
 //{"key":"屁股_音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0},
 
   
-{"key":"木鱼-文才","name":"💯┃文才┃T4","type":4,"api":"https://catbox.n13.club/wencai.php"},
-{"key":"木鱼-剧圈","name":"🧿┃剧圈┃T4","type":4,"api":"https://catbox.n13.club/juquan.php"},
-{"key":"木鱼-明日","name":"🌞┃明日┃T4","type":4,"api":"https://catbox.n13.club/mingri.php"},
-{"key":"木鱼-视觉","name":"👓┃视觉┃T4","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
+{"key":"木鱼-文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/wencai.php"},
+{"key":"木鱼-剧圈","name":"T4┃剧圈┃秒播","type":4,"api":"https://catbox.n13.club/juquan.php"},
+{"key":"木鱼-明日","name":"T4┃明日┃秒播","type":4,"api":"https://catbox.n13.club/mingri.php"},
+{"key":"木鱼-视觉","name":"T4┃视觉┃秒播","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
   
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","jar":"./lib/XBPQ.jar;md5;518d66b6cd98f169579f71ec43032048","ext":{"分类":"国产剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧&其他&其他剧&伦理剧&","分类值":"14&22&26&36&25&30&23&69&15&16&62&43&68&83&","分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取":"list\":[&&]","数组":"{&&}[不包含:]","图片":"vod_pic_screenshot\":\"&&\"","图片":"vod_pic_thumb\":\"&&\"","图片":"vod_pic\":\"&&\"","图片代理":1,"标题":"vod_name\":\"&&\"","副标题":"+vod_remarks\":\"&&\"","链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url":"https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式":"1","搜索二次截取":"list\":[&&]","搜索数组":"{&&}[不包含:]","搜索图片":"vod_pic\"*\"&&\"","搜索标题":"vod_name\"*\"&&\"","搜索副标题":"type_name\":\"&&\"","搜索链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型":"vod_class\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"","简介":"vod_content\"*\"&&\"","线路二次截取":"\"list\":[&&]","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取":"","播放列表":"表&&表","播放标题":"题&&题","播放链接":"链&&链","嗅探词":".m3u8","播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/118.0.0.0Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅":"0"}},
 {"key":"屁股_影视","name":"🍖┃影视┃秒播","type":3,"api":"csp_YingShi","searchable":1,"quickSearch":1,"changeable":1,"ext":""},
@@ -76,8 +76,8 @@
 {"key":"饭佬_比特","name":"🍒┃比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
 
 {"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_七七","name":"👒┃七七┃超清","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_巴士","name":"🚌┃动漫┃超清","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
 {"key":"饭佬_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
 {"key":"屁股_爱坤","name":"☁️┃爱坤┃秒播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://ikunzyapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
@@ -85,15 +85,15 @@
 {"key":"屁股_量子","name":"☁️┃量子┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/http://cj.lziapi.com/api.php/provide/vod/?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"屁股_暴風","name":"☁️┃暴風┃云播","type":1,"api":"http://127.0.0.1:10079/p/0/proxy/https://bfzyapi.com/api.php/provide/vod?","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
   
-{"key":"木鱼-黑狐","name":"🐺┃黑狐┃T4","type":4,"api":"https://catbox.n13.club/heihu.php"},
-{"key":"木鱼-极光","name":"💤┃极光┃T4","type":4,"api":"https://catbox.n13.club/jiguang.php"},
-{"key":"木鱼-角角","name":"🐤┃角角┃T4","type":4,"api":"https://catbox.n13.club/jojo.php"},
-{"key":"木鱼-采集","name":"💥┃采集┃T4","type":4,"api":"https://catbox.n13.club/caiji.php"},
+{"key":"木鱼-黑狐","name":"T4┃黑狐┃秒播","type":4,"api":"https://catbox.n13.club/heihu.php"},
+{"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/jiguang.php"},
+{"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/jojo.php"},
+{"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/caiji.php"},
 
-{"key":"木鱼-荐片","name":"🧲┃荐片┃T4","type":4,"api":"https://catbox.n13.club/jianpian.php"},
-{"key":"木鱼-六味","name":"🧲┃六味┃T4","type":4,"api":"https://catbox.n13.club/6v.php"},
-{"key":"木鱼-哔嘀","name":"🧲┃哔嘀┃T4","type":4,"api":"https://catbox.n13.club/bdys.php"},
-{"key":"木鱼-骚火","name":"🧲┃骚火┃T4","type":4,"api":"https://catbox.n13.club/saohuo.php"},
+{"key":"木鱼-荐片","name":"T4┃荐片┃磁力","type":4,"api":"https://catbox.n13.club/jianpian.php"},
+{"key":"木鱼-六味","name":"T4┃六味┃磁力","type":4,"api":"https://catbox.n13.club/6v.php"},
+{"key":"木鱼-哔嘀","name":"T4┃哔嘀┃磁力","type":4,"api":"https://catbox.n13.club/bdys.php"},
+{"key":"木鱼-骚火","name":"T4┃骚火┃秒播","type":4,"api":"https://catbox.n13.club/saohuo.php"},
 
 {"key":"采集_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"屁股_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
