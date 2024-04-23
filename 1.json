@@ -85,7 +85,7 @@
 {"key":"采集_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
-{"key":"木鱼-文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/wencai.php"},
+{"key":"木鱼-文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/wencai.php","playerType":"2"},
 {"key":"木鱼-剧圈","name":"T4┃剧圈┃秒播","type":4,"api":"https://catbox.n13.club/juquan.php"},
 {"key":"木鱼-明日","name":"T4┃明日┃秒播","type":4,"api":"https://catbox.n13.club/mingri.php"},
 {"key":"木鱼-视觉","name":"T4┃视觉┃秒播","type":4,"api":"https://catbox.n13.club/xinshijue.php"},
