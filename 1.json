@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0422.jar;md5;4e41d18bbc1b558091878f542769141d",
+"spider":"./jar/pg0423.jar;md5;8f2a569cfcda16355492af87387b40d6",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"微笑直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
