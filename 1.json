@@ -1,5 +1,5 @@
 {
-"spider":"./jar/pg0422.jar;md5;f5ca55c46c4a5fd6badd76038b4c7580",
+"spider":"./jar/pg0422.jar;md5;4e41d18bbc1b558091878f542769141d",
 "wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[
 {"name":"微笑直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -8,18 +8,18 @@
 {"name":"本地直播","type":0,"pass":true,"ua":"okhttp/3.15","url":"./zhibo.txt","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
 "sites":[
-{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：4/22😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
-{"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：4/22😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/22😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"changeable":1,"ext":"./lib/douban.json"},
+{"key":"悟空_悟空搜索","name":"ㅤㅤ悟空搜索ㅤㅤㅤ😃更新：4/23😃ㅤ🈲勿信视频内广告🈲","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":1,"api":"./lib/lf_search3_min.js"},
+{"key":"饭佬_饭佬搜索","name":"ㅤㅤ饭佬搜索ㅤㅤㅤ😃更新：4/23😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"屁股_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/23😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"csp_Douban","searchable":0,"quickSearch":0,"changeable":1,"ext":"./lib/douban.json"},
 {"key":"屁股_电影配置","name":"ㅤㅤ4K电影配置页ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
 
 //{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/douban.php"},
 //{"key":"豆瓣_豆瓣搜索","name":"ㅤㅤ豆瓣搜索ㅤㅤㅤ😃更新：4/16😃ㅤ🈲勿信视频内广告🈲","type":3,"api":"./lib/drpy2.min.js","ext":"./js/豆瓣搜索.js","searchable":0,"quickSearch":0,"filterable":0},
 
-{"key":"饭佬_游戏","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_游戏","name":"游戏直播","type":3,"api":"csp_Yj1211","searchable":0,"quickSearch":1,"filterable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_广场","name":"广场舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/广场舞.json","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"采集_中央","name":"CCTV","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"changeable":0,"ext":"./哔哩哔哩/央视大全.json","jar":"./jar/cctv.jar;md5;a4641d44614be4500b314841116b55a4"},
-{"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_讲堂","name":"学习讲堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-学习.json","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
 {"key":"影视_听书","name":"听书小说","type":3,"api":"csp_BookTing","searchable":0,"changeable":0,"ext":"https://m.ting275.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"老猫-相声","name":"相声评书","type":4,"api":"https://catbox.n13.club/suishenting.php"},
@@ -39,16 +39,16 @@
 
 //{"key":"影视_短二","name":"影视短剧","type":3,"api":"csp_App","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://zzdj.cc/api.php/provide/vod","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"屁股_短剧五线","name":"短剧五线","type":3,"api":"csp_Duanju","searchable":0,"changeable":1,"ext":"https://www.duanjutv.icu"},
-//{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+//{"key":"饭佬_全国戏曲","name":"相声戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-戏曲.json","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 //{"key":"影视_酷狗音乐","name":"酷狗音乐","type":3,"api":"csp_Music","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1.433},"jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"T4-yinyuetai","name":"音悦MV4","type":4,"api":"https://catbox.n13.club/yyt.php","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":true},
-//{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭佬_动物世界","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭佬_看球在线","name":"体育直播","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+//{"key":"饭佬_有声小说","name":"有声小说","type":3,"api":"./lib/drpy2.min.js","ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭佬_动物世界","name":"动物世界","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./哔哩哔哩/哔哩合集-动物.json","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭佬_看球在线","name":"体育直播","type":3,"api":"csp_Kanqiu","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭佬_急救教学","name":"急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 //{"key":"屁股_0卡拉OK","name":"MV卡拉OK","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":0,"changeable":1,"filterable":1,"style":{"type":"oval","ratio":1.1},"timeout":60},
 //{"key":"屁股_音悦","name":"KTV音悦","type":3,"api":"csp_Yinyuetai","searchable":0,"changeable":0},
-//{"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+//{"key":"饭佬_农民","name":"🌾┃农民┃秒播","type":3,"api":"csp_Nmys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
   
 {"key":"木鱼-文才","name":"T4┃文才┃秒播","type":4,"api":"https://catbox.n13.club/wencai.php","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
@@ -61,23 +61,23 @@
 {"key":"屁股_哔嘀","name":"🚔┃哔嘀┃超清","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys.me/$$$null$$$1"},
 {"key":"屁股_天天","name":"☀️┃天天┃秒播","type":3,"api":"csp_TTian","searchable":1,"quickSearch":1,"ext":"http://op.ysdqjs.cn$$$null$$$1"},
 
-{"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_苹果","name":"🍎┃苹果┃秒播","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_酷看","name":"🕵️‍♂️┃酷看┃秒播","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
 {"key":"影视_白嫖","name":"👻┃白白┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"影视_视觉","name":"👓┃视觉┃秒播","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.6080yy4.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"影视_云播","name":"🐔┃云播┃秒播","type":3,"api":"csp_WebTVB","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://www.tvyb03.com","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 {"key":"屁股_蚂蚁","name":"🐜┃蚂蚁┃秒播","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"changeable":0},
 
-{"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_虾米","name":"🦀┃虾米┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w==","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_小柚","name":"🍊┃小柚┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_比特","name":"🍒┃比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_低端","name":"⏮️┃低端┃秒播","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"changeable":1,"playerType":"2","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_虾米","name":"🦀┃虾米┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w==","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_小柚","name":"🍊┃小柚┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg==","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_比特","name":"🍒┃比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
-{"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_七七","name":"👒┃七七┃秒播","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_巴士","name":"🚌┃动漫┃秒播","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"饭佬_泰泰","name":"🌳┃泰泰┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 {"key":"采集_鑫鑫","name":"🐱┃鑫鑫┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url="},
 
@@ -131,7 +131,7 @@
 {"key":"采集_六九","name":"☁️┃六九┃秒播","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.69mj.com/xgapp.php/v2/","playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url="},
 {"key":"道长_网飞","name":"☁️┃网飞┃云播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/js/网飞TV.js"},
 
-{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K（有缘人可以打开！）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_饭偶","name":"🎅┃饭偶┃阿里4K（有缘人可以打开！）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"filterable":0,"ext":{"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd","siteUrl":"https://www.wogg.net/","danMu":"弹"},"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"采集_范丝","name":"🎉┃范丝┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/音范丝.json"},
 {"key":"采集_布谷","name":"🔴┃布谷┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":{"分类":"4K电影$4kmovie#4K剧集$4ktv#4K纪录片$4kdocu#杜比视界$dolbyvision#4K演示片$4kdemo/4ktv-4ktv#4KUHD电影$4kuhd#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest","搜索链接":"https://www.bugutv.org/page/{pg}?cat&s={wd}","简介":"◎简*介</p>&&</p>","影片年代":"◎上映日期&&<br>","影片地区":"◎产*地&&<br>","线路数组":"entry-contentu-text-formatu-clearfix&&\"content-template","线路标题":"磁力","播放数组":"entry-contentu-text-formatu-clearfix&&\"content-template","播放列表":"<p>&&</p>[包含:magnet]","播放链接":"*\">&&</a>","分类链接":"https://www.bugutv.org/{cateId}/page/{catePg}"},"jar":"./lib/XBPQ.jar;md5;518d66b6cd98f169579f71ec43032048"},
 {"key":"采集_高清","name":"📹┃高清┃磁力4K（很吃硬件与网速！）","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":{"分类":"必看推荐$recommend#4K最高清$4k#BluRay蓝光原盘$bluray#1080p超清$1080P#720p高清$720p#WEB-DL标清$webdl","搜索链接":"https://gaoqing.la/page/{pg}?cat&s={wd}","简介":"◎简*介</p>&&</p>","影片年代":"◎上映日期&&<br>","影片地区":"◎产*地&&<br>","图片是否需要代理":"1","线路数组":"entry-contentu-text-formatu-clearfix&&\"content-template","线路标题":"磁力","播放数组":"entry-contentu-text-formatu-clearfix&&\"content-template","播放列表":"<p>&&</p>[包含:magnet]","播放链接":"</a>&&</a>","分类链接":"https://gaoqing.la/{cateId}/page/{catePg}[https://gaoqing.la/{cateId}]"},"jar":"./lib/XBPQ.jar;md5;518d66b6cd98f169579f71ec43032048"},
@@ -146,7 +146,7 @@
 {"key":"屁股_磁嗨","name":"🧲┃磁嗨┃磁力","type":3,"api":"csp_BtSearch","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"ext":"./lib/tokenm.json$$$null$$$null$$$1","style":{"type":"rect","ratio":1.5},"timeout":60},
 {"key":"屁股_偶偶","name":"🧲┃玩偶┃磁力","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
 
-{"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_南南","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"屁股_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","timeout":60},
 {"key":"屁股_爱看","name":"👾┃爱看┃秒播","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://v.ikanbot.com$$$proxy"},
@@ -254,22 +254,22 @@
 
 
 
-{"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy4.com","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_毛驴","name":"🐎┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_奥特","name":"⛲┃奥特┃超清","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_在线","name":"👒┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_萌米","name":"✨┃萌米┃秒播","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_电影","name":"🍄┃电影┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_影探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/影探.js","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_可乐","name":"🍾┃可乐┃超清","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_河马","name":"🦛┃河马┃超清","type":3,"api":"csp_Hmys","searchable":1,"quickSearch":1,"ext":"https://m.jmzp.net.cn","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_樱花","name":"💮┃樱花┃超清","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_异界","name":"🎀┃异界┃超清","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_日本","name":"🐾┃日本┃超清","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_蚂蚁","name":"🐜┃蚂蚁┃超清","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭老_探探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","timeout":60,"ext":"vip.lyyytv.cn","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-{"key":"饭佬_率率","name":"🌸┃率率┃秒播","type":3,"api":"csp_AppLd","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ==","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+{"key":"饭佬_利播","name":"🌟┃利播┃超清","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pw/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_视觉","name":"👓┃视觉┃超清","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy4.com","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_毛驴","name":"🐎┃毛驴┃超清","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_奥特","name":"⛲┃奥特┃超清","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://haozhansou.com/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_在线","name":"👒┃在线┃超清","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_萌米","name":"✨┃萌米┃秒播","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg==","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_电影","name":"🍄┃电影┃秒播","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_影探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"ext":"./js/影探.js","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_可乐","name":"🍾┃可乐┃超清","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_河马","name":"🦛┃河马┃超清","type":3,"api":"csp_Hmys","searchable":1,"quickSearch":1,"ext":"https://m.jmzp.net.cn","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_樱花","name":"💮┃樱花┃超清","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_异界","name":"🎀┃异界┃超清","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_日本","name":"🐾┃日本┃超清","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_蚂蚁","name":"🐜┃蚂蚁┃超清","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭老_探探","name":"🕵️‍♂️┃影探┃超清","type":3,"api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","timeout":60,"ext":"vip.lyyytv.cn","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+{"key":"饭佬_率率","name":"🌸┃率率┃秒播","type":3,"api":"csp_AppLd","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxKYZaFIdGVjVHqOzmh0sHApOErDLDkEnd/fT0RWOxfniO12FgzTJjcg0PGaZSYgk9BKPOkG6SZz0wlkFM9O11CrjANWExcUutLQ==","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"饭T4-安博","name":"🌸┃安博┃超清","type":4,"api":"https://tang.serv00.net/power/ub1818","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":true},
 {"key":"采集_红红","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","犯罪片","港澳剧","韩剧","泰剧","台湾剧","日剧","海外剧","其他片","悬疑片","奇幻片","动画片","体育赛事","国产动漫","日本动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 {"key":"采集_牛牛","name":"☁️┃红牛┃云播","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=proxy&url=","categories":["国产剧","战争片","综艺","动漫"]},
@@ -280,11 +280,11 @@
 
 
 
-//{"key":"饭老_Up搜","name":"🥇┃Up搜┃阿里4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭老_盘Se","name":"🥇┃盘Se┃阿里4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭老_易搜","name":"🥇┃易搜┃阿里4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭老_盘搜","name":"🥇┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
-//{"key":"饭老_七夜","name":"🥇┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0421.jar;md5;ff2a62d70456f5ccc45f5e17b24d4a45"},
+//{"key":"饭老_Up搜","name":"🥇┃Up搜┃阿里4K","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭老_盘Se","name":"🥇┃盘Se┃阿里4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭老_易搜","name":"🥇┃易搜┃阿里4K","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭老_盘搜","name":"🥇┃盘搜┃阿里4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
+//{"key":"饭老_七夜","name":"🥇┃七夜┃阿里4K","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
 
 
