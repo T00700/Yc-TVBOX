@@ -46,7 +46,6 @@
 //{"key":"影视_白嫖","name":"👻┃白白┃秒播","type":3,"api":"csp_Web996","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://baipiaoys.com:9092#公众号:影视资源站#https://www.baipiao-ys.cc:6062","jar":"./jar/YSZYZ0416.jar;md5;ac7e6b7c1bffc385be0082839640eccc"},
 //{"key":"饭佬_白嫖","name":"👻┃白飘┃秒播","type":3,"api":"csp_BaiPiao","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.baipiaoys.com:9092/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 
-{"key":"csp_appys_影探","name":"🚏另一种导航","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":0,"changeable":0,"searchable":0,"filterable":0,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
 
 {"key":"屁股_文才","name":"💯┃文才┃秒播","type":3,"api":"csp_XBPQ","playerType":"2","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f","ext":{"分类":"国产剧&短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧","分类值":"14&42&22&26&36&25&30&23&69&15&16&62","分类url":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}","数组二次截取":"list\":[&&]","数组":"{&&}[不包含:]","图片":"vod_pic\":\"&&\"","标题":"vod_name\":\"&&\"","副标题":"+vod_remarks\":\"&&\"","链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","搜索url":"https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}","搜索模式":"1","搜索二次截取":"list\":[&&]","搜索数组":"{&&}[不包含:]","搜索图片":"vod_pic\"*\"&&\"","搜索标题":"vod_name\"*\"&&\"","搜索副标题":"type_name\":\"&&\"","搜索链接":"https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,","影片类型":"vod_class\"*\"&&\"","导演":"vod_director\"*\"&&\"","主演":"vod_actor\"*\"&&\"","简介":"vod_content\"*\"&&\"","线路二次截取":"\"list\":[&&]","线路数组":"\"vod_play_from\":&&,","线路标题":"\"&&\"","播放数组":"vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]","播放二次截取":"","播放列表":"表&&表","播放标题":"题&&题","播放链接":"链&&链","嗅探词":".m3u8","播放请求头":"User-Agent$Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/118.0.0.0Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad","免嗅":"0","页面代理":"proxy"}},
 {"key":"屁股_白嫖","name":"👻┃白嫖┃秒播","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f","ext":{"地区":"[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]","分类":"电影$1#电视剧$2#动漫$3#短剧$4#综艺$5","分类url":"https://www.baipiaoys.com:9092/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"}},
@@ -70,9 +69,13 @@
 
 {"key":"开心_圣城","name":"🎦┃圣城┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/sc1080.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
 {"key":"开心_可可","name":"🎦┃可可┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/可可影视.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
-{"key":"开心_蛋蛋","name":"🎦┃蛋蛋┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/dandan.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
-{"key":"开心_达达","name":"🎦┃达龟┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType":"1","ext":"./XYQHiker/dadagui.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
 
+{"key":"csp_星辰","name":"🎦星辰┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/xcys.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
+{"key":"csp_xBPQ_疯狗","name":"🎦疯狗┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/fgys.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
+{"key":"csp_盒子","name":"🎦盒子┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/hezi.json","jar":"./lib/XBPQ.jar;md5;1fe7efed80f9bad449138694852bd28f"},
+
+
+  
 {"key":"饭佬_厂长","name":"🏭┃厂长┃秒播","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.cz233.com/","jar":"./jar/fan0422.jar;md5;4af14dca6964a737a88b982cb8b20055"},
 {"key":"屁股_快看","name":"👀┃快看┃秒播","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"屁股_南瓜","name":"🎃┃南瓜┃秒播","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","timeout":60},
@@ -148,6 +151,24 @@
 {"key":"屁股_皮皮","name":"🦐┃皮皮┃网盘","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1","timeout":60},
 {"key":"屁股_影巢","name":"🎥┃影巢┃网盘","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$null$$$1","timeout":60},
 
+{"key":"csp_影探","name":"影探┃云播","type":3,"api":"csp_AppYsV2","indexs":1,"quickSearch":0,"changeable":0,"searchable":0,"filterable":0,"ext":"http://cms-vip.lyyytv.cn/api.php/app/"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 {"key":"屁股_高清","name":"📺┃高清┃网盘","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://gaoqing.la/$$$proxy$$$1","timeout":60},
 {"key":"屁股_剧迷","name":"⛲┃美剧┃网盘","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1","timeout":60},
 {"key":"屁股_低端","name":"⏮️┃低端┃网盘","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"ext":"./lib/tokenm.json$$$https://ddys.pro/$$$proxy$$$1$$$","timeout":60},
