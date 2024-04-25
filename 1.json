@@ -91,7 +91,8 @@
 {"key":"木鱼-极光","name":"T4┃极光┃秒播","type":4,"api":"https://catbox.n13.club/jiguang.php"},
 {"key":"木鱼-角角","name":"T4┃角角┃秒播","type":4,"api":"https://catbox.n13.club/jojo.php"},
 {"key":"木鱼-采集","name":"T4┃采集┃秒播","type":4,"api":"https://catbox.n13.club/caiji.php"},
-
+{"key":"木鱼-韩剧","name":"T4┃韩剧┃秒播","type":4,"api":"https://catbox.n13.club/hanju.php"}
+  
 {"key":"香佬_Mp4k","name":"🧲┃Mp4┃磁力","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/XYQ0415.jar;md5;0578e48b03db152d0f0bbb03704d4ab5"},
 {"key":"屁股_荐片","name":"🧲┃荐片┃磁力","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"playerType":"1","ext":"./lib/jianpian.json$$$1","timeout":60},
 {"key":"屁股_新6V","name":"🧲┃新6V┃磁力","type":3,"api":"csp_Xb6v","searchable":1,"quickSearch":0,"filterable":0,"changeable":1,"ext":"./lib/tokenm.json$$$https://www.66ss.org$$$1","timeout":60},
